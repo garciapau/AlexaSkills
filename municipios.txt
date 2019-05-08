@@ -1,0 +1,8124 @@
+alegría-dulantzi__01__001
+amurrio__01__002
+añana__01__049
+aramaio__01__003
+armiñón__01__006
+arraia-maeztu__01__037
+arratzua-ubarrundia__01__008
+artziniega__01__004
+asparrena__01__009
+ayala/aiara__01__010
+baños de ebro/mañueta__01__011
+barrundia__01__013
+berantevilla__01__014
+bernedo__01__016
+campezo/kanpezu__01__017
+elburgo/burgelu__01__021
+elciego__01__022
+elvillar/bilar__01__023
+erriberagoitia/ribera alta__01__046
+harana/valle de arana__01__056
+iruña oka/iruña de oca__01__901
+iruraiz-gauna__01__027
+kripan__01__019
+kuartango__01__020
+labastida/bastida__01__028
+lagrán__01__030
+laguardia__01__031
+lanciego/lantziego__01__032
+lantarón__01__902
+lapuebla de labarca__01__033
+laudio/llodio__01__036
+legutio__01__058
+leza__01__034
+moreda de álava/moreda araba__01__039
+navaridas__01__041
+okondo__01__042
+oyón-oion__01__043
+peñacerrada-urizaharra__01__044
+ribera baja/erribera beitia__01__047
+samaniego__01__052
+san millán/donemiliaga__01__053
+urkabustaiz__01__054
+valdegovía/gaubea__01__055
+villabuena de álava/eskuernaga__01__057
+vitoria-gasteiz__01__059
+yécora/iekora__01__060
+zalduondo__01__061
+zambrana__01__062
+zigoitia__01__018
+zuia__01__063
+abengibre__02__001
+alatoz__02__002
+albacete__02__003
+albatana__02__004
+alborea__02__005
+alcadozo__02__006
+alcalá del júcar__02__007
+alcaraz__02__008
+almansa__02__009
+alpera__02__010
+ayna__02__011
+balazote__02__012
+ballestero, el__02__014
+balsa de ves__02__013
+barrax__02__015
+bienservida__02__016
+bogarra__02__017
+bonete__02__018
+bonillo, el__02__019
+carcelén__02__020
+casas de juan núñez__02__021
+casas de lázaro__02__022
+casas de ves__02__023
+casas-ibáñez__02__024
+caudete__02__025
+cenizate__02__026
+chinchilla de monte-aragón__02__029
+corral-rubio__02__027
+cotillas__02__028
+elche de la sierra__02__030
+férez__02__031
+fuensanta__02__032
+fuente-álamo__02__033
+fuentealbilla__02__034
+gineta, la__02__035
+golosalvo__02__036
+hellín__02__037
+herrera, la__02__038
+higueruela__02__039
+hoya-gonzalo__02__040
+jorquera__02__041
+letur__02__042
+lezuza__02__043
+liétor__02__044
+madrigueras__02__045
+mahora__02__046
+masegoso__02__047
+minaya__02__048
+molinicos__02__049
+montalvos__02__050
+montealegre del castillo__02__051
+motilleja__02__052
+munera__02__053
+navas de jorquera__02__054
+nerpio__02__055
+ontur__02__056
+ossa de montiel__02__057
+paterna del madera__02__058
+peñas de san pedro__02__060
+peñascosa__02__059
+pétrola__02__061
+povedilla__02__062
+pozo cañada__02__901
+pozohondo__02__063
+pozo-lorente__02__064
+pozuelo__02__065
+recueja, la__02__066
+riópar__02__067
+robledo__02__068
+roda, la__02__069
+salobre__02__070
+san pedro__02__071
+socovos__02__072
+tarazona de la mancha__02__073
+tobarra__02__074
+valdeganga__02__075
+vianos__02__076
+villa de ves__02__077
+villalgordo del júcar__02__078
+villamalea__02__079
+villapalacios__02__080
+villarrobledo__02__081
+villatoya__02__082
+villavaliente__02__083
+villaverde de guadalimar__02__084
+viveros__02__085
+yeste__02__086
+agost__03__002
+agres__03__003
+aigües__03__004
+albatera__03__005
+alcalalí__03__006
+alcocer de planes__03__007
+alcoleja__03__008
+alcoy/alcoi__03__009
+alfafara__03__010
+alfàs del pi, l'__03__011
+algorfa__03__012
+algueña__03__013
+alicante/alacant__03__014
+almoradí__03__015
+almudaina__03__016
+alqueria d'asnar, l'__03__017
+altea__03__018
+aspe__03__019
+atzúbia, l'__03__001
+balones__03__020
+banyeres de mariola__03__021
+benasau__03__022
+beneixama__03__023
+benejúzar__03__024
+benferri__03__025
+beniarbeig__03__026
+beniardá__03__027
+beniarrés__03__028
+benidoleig__03__030
+benidorm__03__031
+benifallim__03__032
+benifato__03__033
+benigembla__03__029
+benijófar__03__034
+benilloba__03__035
+benillup__03__036
+benimantell__03__037
+benimarfull__03__038
+benimassot__03__039
+benimeli__03__040
+benissa__03__041
+benitachell/poble nou de benitatxell, el__03__042
+biar__03__043
+bigastro__03__044
+bolulla__03__045
+busot__03__046
+callosa de segura__03__049
+callosa d'en sarrià__03__048
+calp__03__047
+campello, el__03__050
+campo de mirra/camp de mirra, el__03__051
+cañada__03__052
+castalla__03__053
+castell de castells__03__054
+castell de guadalest, el__03__075
+catral__03__055
+cocentaina__03__056
+confrides__03__057
+cox__03__058
+crevillent__03__059
+daya nueva__03__061
+daya vieja__03__062
+dénia__03__063
+dolores__03__064
+elche/elx__03__065
+elda__03__066
+facheca__03__067
+famorca__03__068
+finestrat__03__069
+fondó de les neus, el/hondón de las nieves__03__077
+formentera del segura__03__070
+gaianes__03__072
+gata de gorgos__03__071
+gorga__03__073
+granja de rocamora__03__074
+guardamar del segura__03__076
+hondón de los frailes__03__078
+ibi__03__079
+jacarilla__03__080
+jávea/xàbia__03__082
+jijona/xixona__03__083
+llíber__03__085
+lorcha/orxa, l'__03__084
+millena__03__086
+monforte del cid__03__088
+monóvar/monòver__03__089
+montesinos, los__03__903
+murla__03__091
+muro de alcoy__03__092
+mutxamel__03__090
+novelda__03__093
+nucia, la__03__094
+ondara__03__095
+onil__03__096
+orba__03__097
+orihuela__03__099
+orxeta__03__098
+parcent__03__100
+pedreguer__03__101
+pego__03__102
+penàguila__03__103
+petrer__03__104
+pilar de la horadada__03__902
+pinós, el/pinoso__03__105
+planes__03__106
+poblets, els__03__901
+polop__03__107
+quatretondeta__03__060
+rafal__03__109
+ràfol d'almúnia, el__03__110
+redován__03__111
+relleu__03__112
+rojales__03__113
+romana, la__03__114
+sagra__03__115
+salinas__03__116
+san fulgencio__03__118
+san isidro__03__904
+san miguel de salinas__03__120
+san vicente del raspeig/sant vicent del raspeig__03__122
+sanet y negrals__03__117
+sant joan d'alacant__03__119
+santa pola__03__121
+sax__03__123
+sella__03__124
+senija__03__125
+tàrbena__03__127
+teulada__03__128
+tibi__03__129
+tollos__03__130
+tormos__03__131
+torremanzanas/torre de les maçanes, la__03__132
+torrevieja__03__133
+vall d'alcalà, la__03__134
+vall de gallinera__03__136
+vall de laguar, la__03__137
+vall d'ebo, la__03__135
+verger, el__03__138
+villajoyosa/vila joiosa, la__03__139
+villena__03__140
+xaló__03__081
+abla__04__001
+abrucena__04__002
+adra__04__003
+albanchez__04__004
+alboloduy__04__005
+albox__04__006
+alcolea__04__007
+alcóntar__04__008
+alcudia de monteagud__04__009
+alhabia__04__010
+alhama de almería__04__011
+alicún__04__012
+almería__04__013
+almócita__04__014
+alsodux__04__015
+antas__04__016
+arboleas__04__017
+armuña de almanzora__04__018
+bacares__04__019
+balanegra__04__904
+bayárcal__04__020
+bayarque__04__021
+bédar__04__022
+beires__04__023
+benahadux__04__024
+benitagla__04__026
+benizalón__04__027
+bentarique__04__028
+berja__04__029
+canjáyar__04__030
+cantoria__04__031
+carboneras__04__032
+castro de filabres__04__033
+chercos__04__036
+chirivel__04__037
+cóbdar__04__034
+cuevas del almanzora__04__035
+dalías__04__038
+ejido, el__04__902
+enix__04__041
+felix__04__043
+fines__04__044
+fiñana__04__045
+fondón__04__046
+gádor__04__047
+gallardos, los__04__048
+garrucha__04__049
+gérgal__04__050
+huécija__04__051
+huércal de almería__04__052
+huércal-overa__04__053
+íllar__04__054
+instinción__04__055
+laroya__04__056
+láujar de andarax__04__057
+líjar__04__058
+lubrín__04__059
+lucainena de las torres__04__060
+lúcar__04__061
+macael__04__062
+maría__04__063
+mojácar__04__064
+mojonera, la__04__903
+nacimiento__04__065
+níjar__04__066
+ohanes__04__067
+olula de castro__04__068
+olula del río__04__069
+oria__04__070
+padules__04__071
+partaloa__04__072
+paterna del río__04__073
+pechina__04__074
+pulpí__04__075
+purchena__04__076
+rágol__04__077
+rioja__04__078
+roquetas de mar__04__079
+santa cruz de marchena__04__080
+santa fe de mondújar__04__081
+senés__04__082
+serón__04__083
+sierro__04__084
+somontín__04__085
+sorbas__04__086
+suflí__04__087
+tabernas__04__088
+taberno__04__089
+tahal__04__090
+terque__04__091
+tíjola__04__092
+tres villas, las__04__901
+turre__04__093
+turrillas__04__094
+uleila del campo__04__095
+urrácal__04__096
+velefique__04__097
+vélez-blanco__04__098
+vélez-rubio__04__099
+vera__04__100
+viator__04__101
+vícar__04__102
+zurgena__04__103
+adanero__05__001
+adrada, la__05__002
+albornos__05__005
+aldeanueva de santa cruz__05__007
+aldeaseca__05__008
+aldehuela, la__05__010
+amavida__05__012
+arenal, el__05__013
+arenas de san pedro__05__014
+arevalillo__05__015
+arévalo__05__016
+aveinte__05__017
+avellaneda__05__018
+ávila__05__019
+barco de ávila, el__05__021
+barraco, el__05__022
+barromán__05__023
+becedas__05__024
+becedillas__05__025
+bercial de zapardiel__05__026
+berlanas, las__05__027
+bernuy-zapardiel__05__029
+berrocalejo de aragona__05__030
+blascomillán__05__033
+blasconuño de matacabras__05__034
+blascosancho__05__035
+bohodón, el__05__036
+bohoyo__05__037
+bonilla de la sierra__05__038
+brabos__05__039
+bularros__05__040
+burgohondo__05__041
+cabezas de alambre__05__042
+cabezas del pozo__05__043
+cabezas del villar__05__044
+cabizuela__05__045
+canales__05__046
+candeleda__05__047
+cantiveros__05__048
+cardeñosa__05__049
+carrera, la__05__051
+casas del puerto__05__052
+casasola__05__053
+casavieja__05__054
+casillas__05__055
+castellanos de zapardiel__05__056
+cebreros__05__057
+cepeda la mora__05__058
+chamartín__05__067
+cillán__05__059
+cisla__05__060
+colilla, la__05__061
+collado de contreras__05__062
+collado del mirón__05__063
+constanzana__05__064
+crespos__05__065
+cuevas del valle__05__066
+diego del carpio__05__903
+donjimeno__05__069
+donvidas__05__070
+espinosa de los caballeros__05__072
+flores de ávila__05__073
+fontiveros__05__074
+fresnedilla__05__075
+fresno, el__05__076
+fuente el saúz__05__077
+fuentes de año__05__078
+gallegos de altamiros__05__079
+gallegos de sobrinos__05__080
+garganta del villar__05__081
+gavilanes__05__082
+gemuño__05__083
+gil garcía__05__085
+gilbuena__05__084
+gimialcón__05__086
+gotarrendura__05__087
+grandes y san martín__05__088
+guisando__05__089
+gutierre-muñoz__05__090
+hernansancho__05__092
+herradón de pinares__05__093
+herreros de suso__05__094
+higuera de las dueñas__05__095
+hija de dios, la__05__096
+horcajada, la__05__097
+horcajo de las torres__05__099
+hornillo, el__05__100
+hoyo de pinares, el__05__102
+hoyocasero__05__101
+hoyorredondo__05__103
+hoyos de miguel muñoz__05__106
+hoyos del collado__05__104
+hoyos del espino__05__105
+hurtumpascual__05__107
+junciana__05__108
+langa__05__109
+lanzahíta__05__110
+llanos de tormes, los__05__113
+losar del barco, el__05__112
+madrigal de las altas torres__05__114
+maello__05__115
+malpartida de corneja__05__116
+mamblas__05__117
+mancera de arriba__05__118
+manjabálago y ortigosa de rioalmar__05__119
+marlín__05__120
+martiherrero__05__121
+martínez__05__122
+mediana de voltoya__05__123
+medinilla__05__124
+mengamuñoz__05__125
+mesegar de corneja__05__126
+mijares__05__127
+mingorría__05__128
+mirón, el__05__129
+mironcillo__05__130
+mirueña de los infanzones__05__131
+mombeltrán__05__132
+monsalupe__05__133
+moraleja de matacabras__05__134
+muñana__05__135
+muñico__05__136
+muñogalindo__05__138
+muñogrande__05__139
+muñomer del peco__05__140
+muñopepe__05__141
+muñosancho__05__142
+muñotello__05__143
+narrillos del álamo__05__144
+narrillos del rebollar__05__145
+narros de saldueña__05__149
+narros del castillo__05__147
+narros del puerto__05__148
+nava de arévalo__05__152
+nava del barco__05__153
+navacepedilla de corneja__05__151
+navadijos__05__154
+navaescurial__05__155
+navahondilla__05__156
+navalacruz__05__157
+navalmoral__05__158
+navalonguilla__05__159
+navalosa__05__160
+navalperal de pinares__05__161
+navalperal de tormes__05__162
+navaluenga__05__163
+navaquesera__05__164
+navarredonda de gredos__05__165
+navarredondilla__05__166
+navarrevisca__05__167
+navas del marqués, las__05__168
+navatalgordo__05__169
+navatejares__05__170
+neila de san miguel__05__171
+niharra__05__172
+ojos-albos__05__173
+orbita__05__174
+oso, el__05__175
+padiernos__05__176
+pajares de adaja__05__177
+palacios de goda__05__178
+papatrigo__05__179
+parral, el__05__180
+pascualcobo__05__181
+pedro bernardo__05__182
+pedro-rodríguez__05__183
+peguerinos__05__184
+peñalba de ávila__05__185
+piedrahíta__05__186
+piedralaves__05__187
+poveda__05__188
+poyales del hoyo__05__189
+pozanco__05__190
+pradosegar__05__191
+puerto castilla__05__192
+rasueros__05__193
+riocabado__05__194
+riofrío__05__195
+rivilla de barajas__05__196
+salobral__05__197
+salvadiós__05__198
+san bartolomé de béjar__05__199
+san bartolomé de corneja__05__200
+san bartolomé de pinares__05__201
+san esteban de los patos__05__206
+san esteban de zapardiel__05__208
+san esteban del valle__05__207
+san garcía de ingelmos__05__209
+san juan de gredos__05__901
+san juan de la encinilla__05__210
+san juan de la nava__05__211
+san juan del molinillo__05__212
+san juan del olmo__05__213
+san lorenzo de tormes__05__214
+san martín de la vega del alberche__05__215
+san martín del pimpollar__05__216
+san miguel de corneja__05__217
+san miguel de serrezuela__05__218
+san pascual__05__219
+san pedro del arroyo__05__220
+san vicente de arévalo__05__231
+sanchidrián__05__204
+sanchorreja__05__205
+santa cruz de pinares__05__222
+santa cruz del valle__05__221
+santa maría de los caballeros__05__226
+santa maría del arroyo__05__224
+santa maría del berrocal__05__225
+santa maría del cubillo__05__902
+santa maría del tiétar__05__227
+santiago del collado__05__228
+santiago del tormes__05__904
+santo domingo de las posadas__05__229
+santo tomé de zabarcos__05__230
+serrada, la__05__232
+serranillos__05__233
+sigeres__05__234
+sinlabajos__05__235
+solana de ávila__05__236
+solana de rioalmar__05__237
+solosancho__05__238
+sotalbo__05__239
+sotillo de la adrada__05__240
+tiemblo, el__05__241
+tiñosillos__05__242
+tolbaños__05__243
+tormellas__05__244
+tornadizos de ávila__05__245
+torre, la__05__247
+tórtoles__05__246
+umbrías__05__249
+vadillo de la sierra__05__251
+valdecasa__05__252
+vega de santa maría__05__253
+velayos__05__254
+villaflor__05__256
+villafranca de la sierra__05__257
+villanueva de ávila__05__905
+villanueva de gómez__05__258
+villanueva del aceral__05__259
+villanueva del campillo__05__260
+villar de corneja__05__261
+villarejo del valle__05__262
+villatoro__05__263
+viñegra de moraña__05__264
+vita__05__265
+zapardiel de la cañada__05__266
+zapardiel de la ribera__05__267
+acedera__06__001
+aceuchal__06__002
+ahillones__06__003
+alange__06__004
+albuera, la__06__005
+alburquerque__06__006
+alconchel__06__007
+alconera__06__008
+aljucén__06__009
+almendral__06__010
+almendralejo__06__011
+arroyo de san serván__06__012
+atalaya__06__013
+azuaga__06__014
+badajoz__06__015
+barcarrota__06__016
+baterno__06__017
+benquerencia de la serena__06__018
+berlanga__06__019
+bienvenida__06__020
+bodonal de la sierra__06__021
+burguillos del cerro__06__022
+cabeza del buey__06__023
+cabeza la vaca__06__024
+calamonte__06__025
+calera de león__06__026
+calzadilla de los barros__06__027
+campanario__06__028
+campillo de llerena__06__029
+capilla__06__030
+carmonita__06__031
+carrascalejo, el__06__032
+casas de don pedro__06__033
+casas de reina__06__034
+castilblanco__06__035
+castuera__06__036
+cheles__06__042
+codosera, la__06__037
+cordobilla de lácara__06__038
+coronada, la__06__039
+corte de peleas__06__040
+cristina__06__041
+don álvaro__06__043
+don benito__06__044
+entrín bajo__06__045
+esparragalejo__06__046
+esparragosa de la serena__06__047
+esparragosa de lares__06__048
+feria__06__049
+fregenal de la sierra__06__050
+fuenlabrada de los montes__06__051
+fuente de cantos__06__052
+fuente del arco__06__053
+fuente del maestre__06__054
+fuentes de león__06__055
+garbayuela__06__056
+garlitos__06__057
+garrovilla, la__06__058
+granja de torrehermosa__06__059
+guadiana del caudillo__06__903
+guareña__06__060
+haba, la__06__061
+helechosa de los montes__06__062
+herrera del duque__06__063
+higuera de la serena__06__064
+higuera de llerena__06__065
+higuera de vargas__06__066
+higuera la real__06__067
+hinojosa del valle__06__068
+hornachos__06__069
+jerez de los caballeros__06__070
+lapa, la__06__071
+llera__06__073
+llerena__06__074
+lobón__06__072
+magacela__06__075
+maguilla__06__076
+malcocinado__06__077
+malpartida de la serena__06__078
+manchita__06__079
+medellín__06__080
+medina de las torres__06__081
+mengabril__06__082
+mérida__06__083
+mirandilla__06__084
+monesterio__06__085
+montemolín__06__086
+monterrubio de la serena__06__087
+montijo__06__088
+morera, la__06__089
+nava de santiago, la__06__090
+navalvillar de pela__06__091
+nogales__06__092
+oliva de la frontera__06__093
+oliva de mérida__06__094
+olivenza__06__095
+orellana de la sierra__06__096
+orellana la vieja__06__097
+palomas__06__098
+parra, la__06__099
+peñalsordo__06__100
+peraleda del zaucejo__06__101
+puebla de alcocer__06__102
+puebla de la calzada__06__103
+puebla de la reina__06__104
+puebla de obando__06__107
+puebla de sancho pérez__06__108
+puebla del maestre__06__105
+puebla del prior__06__106
+pueblonuevo del guadiana__06__902
+quintana de la serena__06__109
+reina__06__110
+rena__06__111
+retamal de llerena__06__112
+ribera del fresno__06__113
+risco__06__114
+roca de la sierra, la__06__115
+salvaleón__06__116
+salvatierra de los barros__06__117
+san pedro de mérida__06__119
+san vicente de alcántara__06__123
+sancti-spíritus__06__118
+santa amalia__06__120
+santa marta__06__121
+santos de maimona, los__06__122
+segura de león__06__124
+siruela__06__125
+solana de los barros__06__126
+talarrubias__06__127
+talavera la real__06__128
+táliga__06__129
+tamurejo__06__130
+torre de miguel sesmero__06__131
+torremayor__06__132
+torremejía__06__133
+trasierra__06__134
+trujillanos__06__135
+usagre__06__136
+valdecaballeros__06__137
+valdelacalzada__06__901
+valdetorres__06__138
+valencia de las torres__06__139
+valencia del mombuey__06__140
+valencia del ventoso__06__141
+valle de la serena__06__146
+valle de matamoros__06__147
+valle de santa ana__06__148
+valverde de burguillos__06__142
+valverde de leganés__06__143
+valverde de llerena__06__144
+valverde de mérida__06__145
+villafranca de los barros__06__149
+villagarcía de la torre__06__150
+villagonzalo__06__151
+villalba de los barros__06__152
+villanueva de la serena__06__153
+villanueva del fresno__06__154
+villar de rena__06__156
+villar del rey__06__155
+villarta de los montes__06__157
+zafra__06__158
+zahínos__06__159
+zalamea de la serena__06__160
+zarza, la__06__162
+zarza-capilla__06__161
+alaior__07__002
+alaró__07__001
+alcúdia__07__003
+algaida__07__004
+andratx__07__005
+ariany__07__901
+artà__07__006
+banyalbufar__07__007
+binissalem__07__008
+búger__07__009
+bunyola__07__010
+calvià__07__011
+campanet__07__012
+campos__07__013
+capdepera__07__014
+castell, es__07__064
+ciutadella de menorca__07__015
+consell__07__016
+costitx__07__017
+deià__07__018
+eivissa__07__026
+escorca__07__019
+esporles__07__020
+estellencs__07__021
+felanitx__07__022
+ferreries__07__023
+formentera__07__024
+fornalutx__07__025
+inca__07__027
+lloret de vistalegre__07__028
+lloseta__07__029
+llubí__07__030
+llucmajor__07__031
+manacor__07__033
+mancor de la vall__07__034
+maó-mahón__07__032
+maria de la salut__07__035
+marratxí__07__036
+mercadal, es__07__037
+migjorn gran, es__07__902
+montuïri__07__038
+muro__07__039
+palma __07__040
+petra__07__041
+pobla, sa__07__044
+pollença__07__042
+porreres__07__043
+puigpunyent__07__045
+salines, ses__07__059
+sant antoni de portmany__07__046
+sant joan__07__049
+sant joan de labritja__07__050
+sant josep de sa talaia__07__048
+sant llorenç des cardassar__07__051
+sant lluís__07__052
+santa eugènia__07__053
+santa eulària des riu__07__054
+santa margalida__07__055
+santa maría del camí__07__056
+santanyí__07__057
+selva__07__058
+sencelles__07__047
+sineu__07__060
+sóller__07__061
+son servera__07__062
+valldemossa__07__063
+vilafranca de bonany__07__065
+abrera__08__001
+aguilar de segarra__08__002
+aiguafreda__08__014
+alella__08__003
+alpens__08__004
+ametlla del vallès, l'__08__005
+arenys de mar__08__006
+arenys de munt__08__007
+argençola__08__008
+argentona__08__009
+artés__08__010
+avià__08__011
+avinyó__08__012
+avinyonet del penedès__08__013
+badalona__08__015
+badia del vallès__08__904
+bagà__08__016
+balenyà__08__017
+balsareny__08__018
+barberà del vallès__08__252
+barcelona__08__019
+begues__08__020
+bellprat__08__021
+berga__08__022
+bigues i riells__08__023
+borredà__08__024
+bruc, el__08__025
+brull, el__08__026
+cabanyes, les__08__027
+cabrera d'anoia__08__028
+cabrera de mar__08__029
+cabrils__08__030
+calaf__08__031
+calders__08__034
+caldes de montbui__08__033
+caldes d'estrac__08__032
+calella__08__035
+calldetenes__08__037
+callús__08__038
+calonge de segarra__08__036
+campins__08__039
+canet de mar__08__040
+canovelles__08__041
+cànoves i samalús__08__042
+canyelles__08__043
+capellades__08__044
+capolat__08__045
+cardedeu__08__046
+cardona__08__047
+carme__08__048
+casserres__08__049
+castell de l'areny__08__057
+castellar de n'hug__08__052
+castellar del riu__08__050
+castellar del vallès__08__051
+castellbell i el vilar__08__053
+castellbisbal__08__054
+castellcir__08__055
+castelldefels__08__056
+castellet i la gornal__08__058
+castellfollit de riubregós__08__060
+castellfollit del boix__08__059
+castellgalí__08__061
+castellnou de bages__08__062
+castellolí__08__063
+castellterçol__08__064
+castellví de la marca__08__065
+castellví de rosanes__08__066
+centelles__08__067
+cercs__08__268
+cerdanyola del vallès__08__266
+cervelló__08__068
+collbató__08__069
+collsuspina__08__070
+copons__08__071
+corbera de llobregat__08__072
+cornellà de llobregat__08__073
+cubelles__08__074
+dosrius__08__075
+esparreguera__08__076
+esplugues de llobregat__08__077
+espunyola, l'__08__078
+esquirol, l'__08__254
+estany, l'__08__079
+figaró-montmany__08__134
+fígols__08__080
+fogars de la selva__08__082
+fogars de montclús__08__081
+folgueroles__08__083
+fonollosa__08__084
+font-rubí__08__085
+franqueses del vallès, les__08__086
+gaià__08__090
+gallifa__08__087
+garriga, la__08__088
+gavà__08__089
+gelida__08__091
+gironella__08__092
+gisclareny__08__093
+granada, la__08__094
+granera__08__095
+granollers__08__096
+gualba__08__097
+guardiola de berguedà__08__099
+gurb__08__100
+hospitalet de llobregat, l'__08__101
+hostalets de pierola, els__08__162
+igualada__08__102
+jorba__08__103
+llacuna, la__08__104
+llagosta, la__08__105
+lliçà d'amunt__08__107
+lliçà de vall__08__108
+llinars del vallès__08__106
+lluçà__08__109
+malgrat de mar__08__110
+malla__08__111
+manlleu__08__112
+manresa__08__113
+marganell__08__242
+martorell__08__114
+martorelles__08__115
+masies de roda, les__08__116
+masies de voltregà, les__08__117
+masnou, el__08__118
+masquefa__08__119
+matadepera__08__120
+mataró__08__121
+mediona__08__122
+moià__08__138
+molins de rei__08__123
+mollet del vallès__08__124
+monistrol de calders__08__128
+monistrol de montserrat__08__127
+montcada i reixac__08__125
+montclar__08__130
+montesquiu__08__131
+montgat__08__126
+montmajor__08__132
+montmaneu__08__133
+montmeló__08__135
+montornès del vallès__08__136
+montseny__08__137
+muntanyola__08__129
+mura__08__139
+navarcles__08__140
+navàs__08__141
+nou de berguedà, la__08__142
+òdena__08__143
+olèrdola__08__145
+olesa de bonesvalls__08__146
+olesa de montserrat__08__147
+olivella__08__148
+olost__08__149
+olvan__08__144
+orís__08__150
+oristà__08__151
+orpí__08__152
+òrrius__08__153
+pacs del penedès__08__154
+palafolls__08__155
+palau-solità i plegamans__08__156
+pallejà__08__157
+palma de cervelló, la__08__905
+papiol, el__08__158
+parets del vallès__08__159
+perafita__08__160
+piera__08__161
+pineda de mar__08__163
+pla del penedès, el__08__164
+pobla de claramunt, la__08__165
+pobla de lillet, la__08__166
+polinyà__08__167
+pont de vilomara i rocafort, el__08__182
+pontons__08__168
+prat de llobregat, el__08__169
+prats de lluçanès__08__171
+prats de rei, els__08__170
+premià de dalt__08__230
+premià de mar__08__172
+puigdàlber__08__174
+puig-reig__08__175
+pujalt__08__176
+quar, la__08__177
+rajadell__08__178
+rellinars__08__179
+ripollet__08__180
+roca del vallès, la__08__181
+roda de ter__08__183
+rubí__08__184
+rubió__08__185
+rupit i pruit__08__901
+sabadell__08__187
+sagàs__08__188
+saldes__08__190
+sallent__08__191
+sant adrià de besòs__08__194
+sant agustí de lluçanès__08__195
+sant andreu de la barca__08__196
+sant andreu de llavaneres__08__197
+sant antoni de vilamajor__08__198
+sant bartomeu del grau__08__199
+sant boi de llobregat__08__200
+sant boi de lluçanès__08__201
+sant cebrià de vallalta__08__203
+sant celoni__08__202
+sant climent de llobregat__08__204
+sant cugat del vallès__08__205
+sant cugat sesgarrigues__08__206
+sant esteve de palautordera__08__207
+sant esteve sesrovires__08__208
+sant feliu de codines__08__210
+sant feliu de llobregat__08__211
+sant feliu sasserra__08__212
+sant fost de campsentelles__08__209
+sant fruitós de bages__08__213
+sant hipòlit de voltregà__08__215
+sant iscle de vallalta__08__193
+sant jaume de frontanyà__08__216
+sant joan de vilatorrada__08__218
+sant joan despí__08__217
+sant julià de cerdanyola__08__903
+sant julià de vilatorta__08__220
+sant just desvern__08__221
+sant llorenç d'hortons__08__222
+sant llorenç savall__08__223
+sant martí d'albars__08__225
+sant martí de centelles__08__224
+sant martí de tous__08__226
+sant martí sarroca__08__227
+sant martí sesgueioles__08__228
+sant mateu de bages__08__229
+sant pere de ribes__08__231
+sant pere de riudebitlles__08__232
+sant pere de torelló__08__233
+sant pere de vilamajor__08__234
+sant pere sallavinera__08__189
+sant pol de mar__08__235
+sant quintí de mediona__08__236
+sant quirze de besora__08__237
+sant quirze del vallès__08__238
+sant quirze safaja__08__239
+sant sadurní d'anoia__08__240
+sant sadurní d'osormort__08__241
+sant salvador de guardiola__08__098
+sant vicenç de castellet__08__262
+sant vicenç de montalt__08__264
+sant vicenç de torelló__08__265
+sant vicenç dels horts__08__263
+santa cecília de voltregà__08__243
+santa coloma de cervelló__08__244
+santa coloma de gramenet__08__245
+santa eugènia de berga__08__246
+santa eulàlia de riuprimer__08__247
+santa eulàlia de ronçana__08__248
+santa fe del penedès__08__249
+santa margarida de montbui__08__250
+santa margarida i els monjos__08__251
+santa maria de besora__08__253
+santa maria de martorelles__08__256
+santa maria de merlès__08__255
+santa maria de miralles__08__257
+santa maria de palautordera__08__259
+santa maria d'oló__08__258
+santa perpètua de mogoda__08__260
+santa susanna__08__261
+santpedor__08__192
+sentmenat__08__267
+seva__08__269
+sitges__08__270
+sobremunt__08__271
+sora__08__272
+subirats__08__273
+súria__08__274
+tagamanent__08__276
+talamanca__08__277
+taradell__08__278
+tavèrnoles__08__275
+tavertet__08__280
+teià__08__281
+terrassa__08__279
+tiana__08__282
+tona__08__283
+tordera__08__284
+torelló__08__285
+torre de claramunt, la__08__286
+torrelavit__08__287
+torrelles de foix__08__288
+torrelles de llobregat__08__289
+ullastrell__08__290
+vacarisses__08__291
+vallbona d'anoia__08__292
+vallcebre__08__293
+vallgorguina__08__294
+vallirana__08__295
+vallromanes__08__296
+veciana__08__297
+vic__08__298
+vilada__08__299
+viladecans__08__301
+viladecavalls__08__300
+vilafranca del penedès__08__305
+vilalba sasserra__08__306
+vilanova de sau__08__303
+vilanova del camí__08__302
+vilanova del vallès__08__902
+vilanova i la geltrú__08__307
+vilassar de dalt__08__214
+vilassar de mar__08__219
+vilobí del penedès__08__304
+viver i serrateix__08__308
+abajas__09__001
+adrada de haza__09__003
+aguas cándidas__09__006
+aguilar de bureba__09__007
+albillos__09__009
+alcocero de mola__09__010
+alfoz de bricia__09__011
+alfoz de quintanadueñas__09__907
+alfoz de santa gadea__09__012
+altable__09__013
+altos, los__09__014
+ameyugo__09__016
+anguix__09__017
+aranda de duero__09__018
+arandilla__09__019
+arauzo de miel__09__020
+arauzo de salce__09__021
+arauzo de torre__09__022
+arcos__09__023
+arenillas de riopisuerga__09__024
+arija__09__025
+arlanzón__09__026
+arraya de oca__09__027
+atapuerca__09__029
+ausines, los__09__030
+avellanosa de muñó__09__032
+bahabón de esgueva__09__033
+balbases, los__09__034
+baños de valdearados__09__035
+bañuelos de bureba__09__036
+barbadillo de herreros__09__037
+barbadillo del mercado__09__038
+barbadillo del pez__09__039
+barrio de muñó__09__041
+barrios de bureba, los__09__043
+barrios de colina__09__044
+basconcillos del tozo__09__045
+bascuñana__09__046
+belbimbre__09__047
+belorado__09__048
+berberana__09__050
+berlangas de roa__09__051
+berzosa de bureba__09__052
+bozoó__09__054
+brazacorta__09__055
+briviesca__09__056
+bugedo__09__057
+buniel__09__058
+burgos__09__059
+busto de bureba__09__060
+cabañes de esgueva__09__061
+cabezón de la sierra__09__062
+caleruega__09__064
+campillo de aranda__09__065
+campolara__09__066
+canicosa de la sierra__09__067
+cantabrana__09__068
+carazo__09__070
+carcedo de bureba__09__071
+carcedo de burgos__09__072
+cardeñadijo__09__073
+cardeñajimeno__09__074
+cardeñuela riopico__09__075
+carrias__09__076
+cascajares de bureba__09__077
+cascajares de la sierra__09__078
+castellanos de castro__09__079
+castil de peones__09__083
+castildelgado__09__082
+castrillo de la reina__09__084
+castrillo de la vega__09__085
+castrillo de riopisuerga__09__088
+castrillo del val__09__086
+castrillo mota de judíos__09__090
+castrojeriz__09__091
+cavia__09__063
+cayuela__09__093
+cebrecos__09__094
+celada del camino__09__095
+cerezo de río tirón__09__098
+cerratón de juarros__09__100
+ciadoncha__09__101
+cillaperlata__09__102
+cilleruelo de abajo__09__103
+cilleruelo de arriba__09__104
+ciruelos de cervera__09__105
+cogollos__09__108
+condado de treviño__09__109
+contreras__09__110
+coruña del conde__09__112
+covarrubias__09__113
+cubillo del campo__09__114
+cubo de bureba__09__115
+cueva de roa, la__09__117
+cuevas de san clemente__09__119
+encío__09__120
+espinosa de cervera__09__122
+espinosa de los monteros__09__124
+espinosa del camino__09__123
+estépar__09__125
+fontioso__09__127
+frandovínez__09__128
+fresneda de la sierra tirón__09__129
+fresneña__09__130
+fresnillo de las dueñas__09__131
+fresno de río tirón__09__132
+fresno de rodilla__09__133
+frías__09__134
+fuentebureba__09__135
+fuentecén__09__136
+fuentelcésped__09__137
+fuentelisendo__09__138
+fuentemolinos__09__139
+fuentenebro__09__140
+fuentespina__09__141
+galbarros__09__143
+gallega, la__09__144
+grijalba__09__148
+grisaleña__09__149
+gumiel de izán__09__151
+gumiel de mercado__09__152
+hacinas__09__154
+haza__09__155
+hontanas__09__159
+hontangas__09__160
+hontoria de la cantera__09__162
+hontoria de valdearados__09__164
+hontoria del pinar__09__163
+hormazas, las__09__166
+hornillos del camino__09__167
+horra, la__09__168
+hortigüela__09__169
+hoyales de roa__09__170
+huérmeces__09__172
+huerta de arriba__09__173
+huerta de rey__09__174
+humada__09__175
+hurones__09__176
+ibeas de juarros__09__177
+ibrillos__09__178
+iglesiarrubia__09__179
+iglesias__09__180
+isar__09__181
+itero del castillo__09__182
+jaramillo de la fuente__09__183
+jaramillo quemado__09__184
+junta de traslaloma__09__189
+junta de villalba de losa__09__190
+jurisdicción de lara__09__191
+jurisdicción de san zadornil__09__192
+lerma__09__194
+llano de bureba__09__195
+madrigal del monte__09__196
+madrigalejo del monte__09__197
+mahamud__09__198
+mambrilla de castrejón__09__199
+mambrillas de lara__09__200
+mamolar__09__201
+manciles__09__202
+mazuela__09__206
+mecerreyes__09__208
+medina de pomar__09__209
+melgar de fernamental__09__211
+merindad de cuesta-urria__09__213
+merindad de montija__09__214
+merindad de río ubierna__09__906
+merindad de sotoscueva__09__215
+merindad de valdeporres__09__216
+merindad de valdivielso__09__217
+milagros__09__218
+miranda de ebro__09__219
+miraveche__09__220
+modúbar de la emparedada__09__221
+monasterio de la sierra__09__223
+monasterio de rodilla__09__224
+moncalvillo__09__225
+monterrubio de la demanda__09__226
+montorio__09__227
+moradillo de roa__09__228
+nava de roa__09__229
+navas de bureba__09__230
+nebreda__09__231
+neila__09__232
+olmedillo de roa__09__235
+olmillos de muñó__09__236
+oña__09__238
+oquillas__09__239
+orbaneja riopico__09__241
+padilla de abajo__09__242
+padilla de arriba__09__243
+padrones de bureba__09__244
+palacios de la sierra__09__246
+palacios de riopisuerga__09__247
+palazuelos de la sierra__09__248
+palazuelos de muñó__09__249
+pampliega__09__250
+pancorbo__09__251
+pardilla__09__253
+partido de la sierra en tobalina__09__255
+pedrosa de duero__09__256
+pedrosa de río úrbel__09__259
+pedrosa del páramo__09__257
+pedrosa del príncipe__09__258
+peñaranda de duero__09__261
+peral de arlanza__09__262
+piérnigas__09__265
+pineda de la sierra__09__266
+pineda trasmonte__09__267
+pinilla de los barruecos__09__268
+pinilla de los moros__09__269
+pinilla trasmonte__09__270
+poza de la sal__09__272
+prádanos de bureba__09__273
+pradoluengo__09__274
+presencio__09__275
+puebla de arganzón, la__09__276
+puentedura__09__277
+quemada__09__279
+quintana del pidio__09__281
+quintanabureba__09__280
+quintanaélez__09__283
+quintanaortuño__09__287
+quintanapalla__09__288
+quintanar de la sierra__09__289
+quintanavides__09__292
+quintanilla de la mata__09__294
+quintanilla del agua y tordueles__09__901
+quintanilla del coco__09__295
+quintanilla san garcía__09__298
+quintanilla vivar__09__301
+quintanillas, las__09__297
+rabanera del pinar__09__302
+rábanos__09__303
+rabé de las calzadas__09__304
+rebolledo de la torre__09__306
+redecilla del camino__09__307
+redecilla del campo__09__308
+regumiel de la sierra__09__309
+reinoso__09__310
+retuerta__09__311
+revilla del campo__09__314
+revilla vallejera__09__316
+revilla y ahedo, la__09__312
+revillarruz__09__315
+rezmondo__09__317
+riocavado de la sierra__09__318
+roa__09__321
+rojas__09__323
+royuela de río franco__09__325
+rubena__09__326
+rublacedo de abajo__09__327
+rucandio__09__328
+salas de bureba__09__329
+salas de los infantes__09__330
+saldaña de burgos__09__332
+salinillas de bureba__09__334
+san adrián de juarros__09__335
+san juan del monte__09__337
+san mamés de burgos__09__338
+san martín de rubiales__09__339
+san millán de lara__09__340
+san vicente del valle__09__360
+santa cecilia__09__343
+santa cruz de la salceda__09__345
+santa cruz del valle urbión__09__346
+santa gadea del cid__09__347
+santa inés__09__348
+santa maría del campo__09__350
+santa maría del invierno__09__351
+santa maría del mercadillo__09__352
+santa maría rivarredonda__09__353
+santa olalla de bureba__09__354
+santibáñez de esgueva__09__355
+santibáñez del val__09__356
+santo domingo de silos__09__358
+sargentes de la lora__09__361
+sarracín__09__362
+sasamón__09__363
+sequera de haza, la__09__365
+solarana__09__366
+sordillos__09__368
+sotillo de la ribera__09__369
+sotragero__09__372
+sotresgudo__09__373
+susinos del páramo__09__374
+tamarón__09__375
+tardajos__09__377
+tejada__09__378
+terradillos de esgueva__09__380
+tinieblas de la sierra__09__381
+tobar__09__382
+tordómar__09__384
+torrecilla del monte__09__386
+torregalindo__09__387
+torrelara__09__388
+torrepadre__09__389
+torresandino__09__390
+tórtoles de esgueva__09__391
+tosantos__09__392
+trespaderne__09__394
+tubilla del agua__09__395
+tubilla del lago__09__396
+úrbel del castillo__09__398
+vadocondes__09__400
+valdeande__09__403
+valdezate__09__405
+valdorros__09__406
+vallarta de bureba__09__408
+valle de las navas__09__904
+valle de losa__09__908
+valle de manzanedo__09__409
+valle de mena__09__410
+valle de oca__09__411
+valle de santibáñez__09__902
+valle de sedano__09__905
+valle de tobalina__09__412
+valle de valdebezana__09__413
+valle de valdelaguna__09__414
+valle de valdelucio__09__415
+valle de zamanzas__09__416
+vallejera__09__417
+valles de palenzuela__09__418
+valluércanes__09__419
+valmala__09__407
+vid de bureba, la__09__422
+vid y barrios, la__09__421
+vileña__09__423
+villadiego__09__427
+villaescusa de roa__09__428
+villaescusa la sombría__09__429
+villaespasa__09__430
+villafranca montes de oca__09__431
+villafruela__09__432
+villagalijo__09__433
+villagonzalo pedernales__09__434
+villahoz__09__437
+villalba de duero__09__438
+villalbilla de burgos__09__439
+villalbilla de gumiel__09__440
+villaldemiro__09__441
+villalmanzo__09__442
+villamayor de los montes__09__443
+villamayor de treviño__09__444
+villambistia__09__445
+villamedianilla__09__446
+villamiel de la sierra__09__447
+villangómez__09__448
+villanueva de argaño__09__449
+villanueva de carazo__09__450
+villanueva de gumiel__09__451
+villanueva de teba__09__454
+villaquirán de la puebla__09__455
+villaquirán de los infantes__09__456
+villarcayo de merindad de castilla la vieja__09__903
+villariezo__09__458
+villasandino__09__460
+villasur de herreros__09__463
+villatuelda__09__464
+villaverde del monte__09__466
+villaverde-mogina__09__467
+villayerno morquillas__09__471
+villazopeque__09__472
+villegas__09__473
+villoruebo__09__476
+viloria de rioja__09__424
+vilviestre del pinar__09__425
+vizcaínos__09__478
+zael__09__480
+zarzosa de río pisuerga__09__482
+zazuar__09__483
+zuñeda__09__485
+abadía__10__001
+abertura__10__002
+acebo__10__003
+acehúche__10__004
+aceituna__10__005
+ahigal__10__006
+alagón del río__10__903
+albalá__10__007
+alcántara__10__008
+alcollarín__10__009
+alcuéscar__10__010
+aldea del cano__10__012
+aldea del obispo, la__10__013
+aldeacentenera__10__011
+aldeanueva de la vera__10__014
+aldeanueva del camino__10__015
+aldehuela de jerte__10__016
+alía__10__017
+aliseda__10__018
+almaraz__10__019
+almoharín__10__020
+arroyo de la luz__10__021
+arroyomolinos__10__023
+arroyomolinos de la vera__10__022
+baños de montemayor__10__024
+barrado__10__025
+belvís de monroy__10__026
+benquerencia__10__027
+berrocalejo__10__028
+berzocana__10__029
+bohonal de ibor__10__030
+botija__10__031
+brozas__10__032
+cabañas del castillo__10__033
+cabezabellosa__10__034
+cabezuela del valle__10__035
+cabrero__10__036
+cáceres__10__037
+cachorrilla__10__038
+cadalso__10__039
+calzadilla__10__040
+caminomorisco__10__041
+campillo de deleitosa__10__042
+campo lugar__10__043
+cañamero__10__044
+cañaveral__10__045
+carbajo__10__046
+carcaboso__10__047
+carrascalejo__10__048
+casar de cáceres__10__049
+casar de palomero__10__050
+casares de las hurdes__10__051
+casas de don antonio__10__052
+casas de don gómez__10__053
+casas de millán__10__056
+casas de miravete__10__057
+casas del castañar__10__054
+casas del monte__10__055
+casatejada__10__058
+casillas de coria__10__059
+castañar de ibor__10__060
+ceclavín__10__061
+cedillo__10__062
+cerezo__10__063
+cilleros__10__064
+collado de la vera__10__065
+conquista de la sierra__10__066
+coria__10__067
+cuacos de yuste__10__068
+cumbre, la__10__069
+deleitosa__10__070
+descargamaría__10__071
+eljas__10__072
+escurial__10__073
+fresnedoso de ibor__10__075
+galisteo__10__076
+garciaz__10__077
+garganta la olla__10__079
+garganta, la__10__078
+gargantilla__10__080
+gargüera__10__081
+garrovillas de alconétar__10__082
+garvín__10__083
+gata__10__084
+gordo, el__10__085
+granja, la__10__086
+guadalupe__10__087
+guijo de coria__10__088
+guijo de galisteo__10__089
+guijo de granadilla__10__090
+guijo de santa bárbara__10__091
+herguijuela__10__092
+hernán-pérez__10__093
+herrera de alcántara__10__094
+herreruela__10__095
+hervás__10__096
+higuera__10__097
+hinojal__10__098
+holguera__10__099
+hoyos__10__100
+huélaga__10__101
+ibahernando__10__102
+jaraicejo__10__103
+jaraíz de la vera__10__104
+jarandilla de la vera__10__105
+jarilla__10__106
+jerte__10__107
+ladrillar__10__108
+logrosán__10__109
+losar de la vera__10__110
+madrigal de la vera__10__111
+madrigalejo__10__112
+madroñera__10__113
+majadas__10__114
+malpartida de cáceres__10__115
+malpartida de plasencia__10__116
+marchagaz__10__117
+mata de alcántara__10__118
+membrío__10__119
+mesas de ibor__10__120
+miajadas__10__121
+millanes__10__122
+mirabel__10__123
+mohedas de granadilla__10__124
+monroy__10__125
+montánchez__10__126
+montehermoso__10__127
+moraleja__10__128
+morcillo__10__129
+navaconcejo__10__130
+navalmoral de la mata__10__131
+navalvillar de ibor__10__132
+navas del madroño__10__133
+navezuelas__10__134
+nuñomoral__10__135
+oliva de plasencia__10__136
+palomero__10__137
+pasarón de la vera__10__138
+pedroso de acim__10__139
+peraleda de la mata__10__140
+peraleda de san román__10__141
+perales del puerto__10__142
+pescueza__10__143
+pesga, la__10__144
+piedras albas__10__145
+pinofranqueado__10__146
+piornal__10__147
+plasencia__10__148
+plasenzuela__10__149
+portaje__10__150
+portezuelo__10__151
+pozuelo de zarzón__10__152
+pueblonuevo de miramontes__10__905
+puerto de santa cruz__10__153
+rebollar__10__154
+riolobos__10__155
+robledillo de gata__10__156
+robledillo de la vera__10__157
+robledillo de trujillo__10__158
+robledollano__10__159
+romangordo__10__160
+rosalejo__10__901
+ruanes__10__161
+salorino__10__162
+salvatierra de santiago__10__163
+san martín de trevejo__10__164
+santa ana__10__165
+santa cruz de la sierra__10__166
+santa cruz de paniagua__10__167
+santa marta de magasca__10__168
+santiago de alcántara__10__169
+santiago del campo__10__170
+santibáñez el alto__10__171
+santibáñez el bajo__10__172
+saucedilla__10__173
+segura de toro__10__174
+serradilla__10__175
+serrejón__10__176
+sierra de fuentes__10__177
+talaván__10__178
+talaveruela de la vera__10__179
+talayuela__10__180
+tejeda de tiétar__10__181
+tiétar__10__904
+toril__10__182
+tornavacas__10__183
+torno, el__10__184
+torre de don miguel__10__187
+torre de santa maría__10__188
+torrecilla de los ángeles__10__185
+torrecillas de la tiesa__10__186
+torrejón el rubio__10__190
+torrejoncillo__10__189
+torremenga__10__191
+torremocha__10__192
+torreorgaz__10__193
+torrequemada__10__194
+trujillo__10__195
+valdastillas__10__196
+valdecañas de tajo__10__197
+valdefuentes__10__198
+valdehúncar__10__199
+valdelacasa de tajo__10__200
+valdemorales__10__201
+valdeobispo__10__202
+valencia de alcántara__10__203
+valverde de la vera__10__204
+valverde del fresno__10__205
+vegaviana__10__902
+viandar de la vera__10__206
+villa del campo__10__207
+villa del rey__10__208
+villamesías__10__209
+villamiel__10__210
+villanueva de la sierra__10__211
+villanueva de la vera__10__212
+villar de plasencia__10__214
+villar del pedroso__10__213
+villasbuenas de gata__10__215
+zarza de granadilla__10__216
+zarza de montánchez__10__217
+zarza la mayor__10__218
+zorita__10__219
+alcalá de los gazules__11__001
+alcalá del valle__11__002
+algar__11__003
+algeciras__11__004
+algodonales__11__005
+arcos de la frontera__11__006
+barbate__11__007
+barrios, los__11__008
+benalup-casas viejas__11__901
+benaocaz__11__009
+bornos__11__010
+bosque, el__11__011
+cádiz__11__012
+castellar de la frontera__11__013
+chiclana de la frontera__11__015
+chipiona__11__016
+conil de la frontera__11__014
+espera__11__017
+gastor, el__11__018
+grazalema__11__019
+jerez de la frontera__11__020
+jimena de la frontera__11__021
+línea de la concepción, la__11__022
+medina-sidonia__11__023
+olvera__11__024
+paterna de rivera__11__025
+prado del rey__11__026
+puerto de santa maría, el__11__027
+puerto real__11__028
+puerto serrano__11__029
+rota__11__030
+san fernando__11__031
+san josé del valle__11__902
+san roque__11__033
+sanlúcar de barrameda__11__032
+setenil de las bodegas__11__034
+tarifa__11__035
+torre alháquime__11__036
+trebujena__11__037
+ubrique__11__038
+vejer de la frontera__11__039
+villaluenga del rosario__11__040
+villamartín__11__041
+zahara__11__042
+aín__12__002
+albocàsser__12__003
+alcalà de xivert__12__004
+alcora, l'__12__005
+alcudia de veo__12__006
+alfondeguilla__12__007
+algimia de almonacid__12__008
+almassora__12__009
+almedíjar__12__010
+almenara__12__011
+alqueries, les/alquerías del niño perdido__12__901
+altura__12__012
+arañuel__12__013
+ares del maestrat__12__014
+argelita__12__015
+artana__12__016
+atzeneta del maestrat__12__001
+ayódar__12__017
+azuébar__12__018
+barracas__12__020
+bejís__12__022
+benafer__12__024
+benafigos__12__025
+benassal__12__026
+benicarló__12__027
+benicasim/benicàssim__12__028
+benlloch__12__029
+betxí__12__021
+borriana/burriana__12__032
+borriol__12__031
+cabanes__12__033
+càlig__12__034
+canet lo roig__12__036
+castell de cabres__12__037
+castellfort__12__038
+castellnovo__12__039
+castellón de la plana/castelló de la plana__12__040
+castillo de villamalefa__12__041
+catí__12__042
+caudiel__12__043
+cervera del maestre__12__044
+chilches/xilxes__12__053
+chodos/xodos__12__055
+chóvar__12__056
+cinctorres__12__045
+cirat__12__046
+cortes de arenoso__12__048
+costur__12__049
+coves de vinromà, les__12__050
+culla__12__051
+eslida__12__057
+espadilla__12__058
+fanzara__12__059
+figueroles__12__060
+forcall__12__061
+fuente la reina__12__063
+fuentes de ayódar__12__064
+gaibiel__12__065
+geldo__12__067
+herbés__12__068
+higueras__12__069
+jana, la__12__070
+jérica__12__071
+llosa, la__12__074
+llucena/lucena del cid__12__072
+ludiente__12__073
+mata de morella, la__12__075
+matet__12__076
+moncofa__12__077
+montán__12__078
+montanejos__12__079
+morella__12__080
+navajas__12__081
+nules__12__082
+olocau del rey__12__083
+onda__12__084
+oropesa del mar/orpesa__12__085
+palanques__12__087
+pavías__12__088
+peníscola/peñíscola__12__089
+pina de montalgrao__12__090
+pobla de benifassà, la__12__093
+pobla tornesa, la__12__094
+portell de morella__12__091
+puebla de arenoso__12__092
+ribesalbes__12__095
+rossell__12__096
+sacañet__12__097
+salzadella, la__12__098
+san rafael del río__12__101
+sant joan de moró__12__902
+sant jordi/san jorge__12__099
+sant mateu__12__100
+santa magdalena de pulpis__12__102
+segorbe__12__104
+serratella, la__12__103
+sierra engarcerán__12__105
+soneja__12__106
+sot de ferrer__12__107
+sueras/suera__12__108
+tales__12__109
+teresa__12__110
+tírig__12__111
+todolella__12__112
+toga__12__113
+torás__12__114
+toro, el__12__115
+torralba del pinar__12__116
+torre d'en besora, la__12__119
+torre d'en doménec, la__12__120
+torreblanca__12__117
+torrechiva__12__118
+traiguera__12__121
+useras/useres, les__12__122
+vall d'alba__12__124
+vall de almonacid__12__125
+vall d'uixó, la__12__126
+vallat__12__123
+vallibona__12__127
+vilafamés__12__128
+vilanova d'alcolea__12__132
+vilar de canes__12__134
+vila-real__12__135
+vilavella, la__12__136
+villafranca del cid/vilafranca__12__129
+villahermosa del río__12__130
+villamalur__12__131
+villanueva de viver__12__133
+villores__12__137
+vinaròs__12__138
+vistabella del maestrat__12__139
+viver__12__140
+xert__12__052
+zorita del maestrazgo__12__141
+zucaina__12__142
+abenójar__13__001
+agudo__13__002
+alamillo__13__003
+albaladejo__13__004
+alcázar de san juan__13__005
+alcoba__13__006
+alcolea de calatrava__13__007
+alcubillas__13__008
+aldea del rey__13__009
+alhambra__13__010
+almadén__13__011
+almadenejos__13__012
+almagro__13__013
+almedina__13__014
+almodóvar del campo__13__015
+almuradiel__13__016
+anchuras__13__017
+arenales de san gregorio__13__903
+arenas de san juan__13__018
+argamasilla de alba__13__019
+argamasilla de calatrava__13__020
+arroba de los montes__13__021
+ballesteros de calatrava__13__022
+bolaños de calatrava__13__023
+brazatortas__13__024
+cabezarados__13__025
+cabezarrubias del puerto__13__026
+calzada de calatrava__13__027
+campo de criptana__13__028
+cañada de calatrava__13__029
+caracuel de calatrava__13__030
+carrión de calatrava__13__031
+carrizosa__13__032
+castellar de santiago__13__033
+chillón__13__038
+ciudad real__13__034
+corral de calatrava__13__035
+cortijos, los__13__036
+cózar__13__037
+daimiel__13__039
+fernán caballero__13__040
+fontanarejo__13__041
+fuencaliente__13__042
+fuenllana__13__043
+fuente el fresno__13__044
+granátula de calatrava__13__045
+guadalmez__13__046
+herencia__13__047
+hinojosas de calatrava__13__048
+horcajo de los montes__13__049
+labores, las__13__050
+llanos del caudillo__13__904
+luciana__13__051
+malagón__13__052
+manzanares__13__053
+membrilla__13__054
+mestanza__13__055
+miguelturra__13__056
+montiel__13__057
+moral de calatrava__13__058
+navalpino__13__059
+navas de estena__13__060
+pedro muñoz__13__061
+picón__13__062
+piedrabuena__13__063
+poblete__13__064
+porzuna__13__065
+pozuelo de calatrava__13__066
+pozuelos de calatrava, los__13__067
+puebla de don rodrigo__13__068
+puebla del príncipe__13__069
+puerto lápice__13__070
+puertollano__13__071
+retuerta del bullaque__13__072
+robledo, el__13__901
+ruidera__13__902
+saceruela__13__073
+san carlos del valle__13__074
+san lorenzo de calatrava__13__075
+santa cruz de los cáñamos__13__076
+santa cruz de mudela__13__077
+socuéllamos__13__078
+solana del pino__13__080
+solana, la__13__079
+terrinches__13__081
+tomelloso__13__082
+torralba de calatrava__13__083
+torre de juan abad__13__084
+torrenueva__13__085
+valdemanco del esteras__13__086
+valdepeñas__13__087
+valenzuela de calatrava__13__088
+villahermosa__13__089
+villamanrique__13__090
+villamayor de calatrava__13__091
+villanueva de la fuente__13__092
+villanueva de los infantes__13__093
+villanueva de san carlos__13__094
+villar del pozo__13__095
+villarrubia de los ojos__13__096
+villarta de san juan__13__097
+viso del marqués__13__098
+adamuz__14__001
+aguilar de la frontera__14__002
+alcaracejos__14__003
+almedinilla__14__004
+almodóvar del río__14__005
+añora__14__006
+baena__14__007
+belalcázar__14__008
+belmez__14__009
+benamejí__14__010
+blázquez, los__14__011
+bujalance__14__012
+cabra__14__013
+cañete de las torres__14__014
+carcabuey__14__015
+cardeña__14__016
+carlota, la__14__017
+carpio, el__14__018
+castro del río__14__019
+conquista__14__020
+córdoba__14__021
+doña mencía__14__022
+dos torres__14__023
+encinas reales__14__024
+espejo__14__025
+espiel__14__026
+fernán-núñez__14__027
+fuente la lancha__14__028
+fuente obejuna__14__029
+fuente palmera__14__030
+fuente-tójar__14__031
+granjuela, la__14__032
+guadalcázar__14__033
+guijo, el__14__034
+hinojosa del duque__14__035
+hornachuelos__14__036
+iznájar__14__037
+lucena__14__038
+luque__14__039
+montalbán de córdoba__14__040
+montemayor__14__041
+montilla__14__042
+montoro__14__043
+monturque__14__044
+moriles__14__045
+nueva carteya__14__046
+obejo__14__047
+palenciana__14__048
+palma del río__14__049
+pedro abad__14__050
+pedroche__14__051
+peñarroya-pueblonuevo__14__052
+posadas__14__053
+pozoblanco__14__054
+priego de córdoba__14__055
+puente genil__14__056
+rambla, la__14__057
+rute__14__058
+san sebastián de los ballesteros__14__059
+santa eufemia__14__061
+santaella__14__060
+torrecampo__14__062
+valenzuela__14__063
+valsequillo__14__064
+victoria, la__14__065
+villa del río__14__066
+villafranca de córdoba__14__067
+villaharta__14__068
+villanueva de córdoba__14__069
+villanueva del duque__14__070
+villanueva del rey__14__071
+villaralto__14__072
+villaviciosa de córdoba__14__073
+viso, el__14__074
+zuheros__14__075
+abegondo__15__001
+ames__15__002
+aranga__15__003
+ares__15__004
+arteixo__15__005
+arzúa__15__006
+baña, a__15__007
+bergondo__15__008
+betanzos__15__009
+boimorto__15__010
+boiro__15__011
+boqueixón__15__012
+brión__15__013
+cabana de bergantiños__15__014
+cabanas__15__015
+camariñas__15__016
+cambre__15__017
+capela, a__15__018
+carballo__15__019
+cariño__15__901
+carnota__15__020
+carral__15__021
+cedeira__15__022
+cee__15__023
+cerceda__15__024
+cerdido__15__025
+coirós__15__027
+corcubión__15__028
+coristanco__15__029
+coruña, a__15__030
+culleredo__15__031
+curtis__15__032
+dodro__15__033
+dumbría__15__034
+fene__15__035
+ferrol__15__036
+fisterra__15__037
+frades__15__038
+irixoa__15__039
+laracha, a__15__041
+laxe__15__040
+lousame__15__042
+malpica de bergantiños__15__043
+mañón__15__044
+mazaricos__15__045
+melide__15__046
+mesía__15__047
+miño__15__048
+moeche__15__049
+monfero__15__050
+mugardos__15__051
+muros__15__053
+muxía__15__052
+narón__15__054
+neda__15__055
+negreira__15__056
+noia__15__057
+oleiros__15__058
+ordes__15__059
+oroso__15__060
+ortigueira__15__061
+outes__15__062
+oza-cesuras__15__902
+paderne__15__064
+padrón__15__065
+pino, o__15__066
+pobra do caramiñal, a__15__067
+ponteceso__15__068
+pontedeume__15__069
+pontes de garcía rodríguez, as__15__070
+porto do son__15__071
+rianxo__15__072
+ribeira__15__073
+rois__15__074
+sada__15__075
+san sadurniño__15__076
+santa comba__15__077
+santiago de compostela__15__078
+santiso__15__079
+sobrado__15__080
+somozas, as__15__081
+teo__15__082
+toques__15__083
+tordoia__15__084
+touro__15__085
+trazo__15__086
+val do dubra__15__088
+valdoviño__15__087
+vedra__15__089
+vilarmaior__15__091
+vilasantar__15__090
+vimianzo__15__092
+zas__15__093
+abia de la obispalía__16__001
+acebrón, el__16__002
+alarcón__16__003
+albaladejo del cuende__16__004
+albalate de las nogueras__16__005
+albendea__16__006
+alberca de záncara, la__16__007
+alcalá de la vega__16__008
+alcantud__16__009
+alcázar del rey__16__010
+alcohujate__16__011
+alconchel de la estrella__16__012
+algarra__16__013
+aliaguilla__16__014
+almarcha, la__16__015
+almendros__16__016
+almodóvar del pinar__16__017
+almonacid del marquesado__16__018
+altarejos__16__019
+arandilla del arroyo__16__020
+arcas__16__905
+arcos de la sierra__16__022
+arguisuelas__16__024
+arrancacepas__16__025
+atalaya del cañavate__16__026
+barajas de melo__16__027
+barchín del hoyo__16__029
+bascuñana de san pedro__16__030
+beamud__16__031
+belinchón__16__032
+belmonte__16__033
+belmontejo__16__034
+beteta__16__035
+boniches__16__036
+buciegas__16__038
+buenache de alarcón__16__039
+buenache de la sierra__16__040
+buendía__16__041
+campillo de altobuey__16__042
+campillos-paravientos__16__043
+campillos-sierra__16__044
+campos del paraíso__16__901
+canalejas del arroyo__16__045
+cañada del hoyo__16__046
+cañada juncosa__16__047
+cañamares__16__048
+cañavate, el__16__049
+cañaveras__16__050
+cañaveruelas__16__051
+cañete__16__052
+cañizares__16__053
+carboneras de guadazaón__16__055
+cardenete__16__056
+carrascosa__16__057
+carrascosa de haro__16__058
+casas de benítez__16__060
+casas de fernando alonso__16__061
+casas de garcimolina__16__062
+casas de guijarro__16__063
+casas de haro__16__064
+casas de los pinos__16__065
+casasimarro__16__066
+castejón__16__067
+castillejo de iniesta__16__068
+castillejo-sierra__16__070
+castillo de garcimuñoz__16__072
+castillo-albaráñez__16__071
+cervera del llano__16__073
+chillarón de cuenca__16__023
+chumillas__16__081
+cierva, la__16__074
+cuenca__16__078
+cueva del hierro__16__079
+enguídanos__16__082
+fresneda de altarejos__16__083
+fresneda de la sierra__16__084
+frontera, la__16__085
+fuente de pedro naharro__16__086
+fuentelespino de haro__16__087
+fuentelespino de moya__16__088
+fuentenava de jábaga__16__904
+fuentes__16__089
+fuertescusa__16__091
+gabaldón__16__092
+garaballa__16__093
+gascueña__16__094
+graja de campalbo__16__095
+graja de iniesta__16__096
+henarejos__16__097
+herrumblar, el__16__098
+hinojosa, la__16__099
+hinojosos, los__16__100
+hito, el__16__101
+honrubia__16__102
+hontanaya__16__103
+hontecillas__16__104
+horcajo de santiago__16__106
+huélamo__16__107
+huelves__16__108
+huérguina__16__109
+huerta de la obispalía__16__110
+huerta del marquesado__16__111
+huete__16__112
+iniesta__16__113
+laguna del marquesado__16__115
+lagunaseca__16__116
+landete__16__117
+ledaña__16__118
+leganiel__16__119
+majadas, las__16__121
+mariana__16__122
+masegosa__16__123
+mesas, las__16__124
+minglanilla__16__125
+mira__16__126
+monreal del llano__16__128
+montalbanejo__16__129
+montalbo__16__130
+monteagudo de las salinas__16__131
+mota de altarejos__16__132
+mota del cuervo__16__133
+motilla del palancar__16__134
+moya__16__135
+narboneta__16__137
+olivares de júcar__16__139
+olmeda de la cuesta__16__140
+olmeda del rey__16__141
+olmedilla de alarcón__16__142
+olmedilla de eliz__16__143
+osa de la vega__16__145
+pajarón__16__146
+pajaroncillo__16__147
+palomares del campo__16__148
+palomera__16__149
+paracuellos__16__150
+paredes__16__151
+parra de las vegas, la__16__152
+pedernoso, el__16__153
+pedroñeras, las__16__154
+peral, el__16__155
+peraleja, la__16__156
+pesquera, la__16__157
+picazo, el__16__158
+pinarejo__16__159
+pineda de gigüela__16__160
+piqueras del castillo__16__161
+portalrubio de guadamejud__16__162
+portilla__16__163
+poyatos__16__165
+pozoamargo__16__166
+pozorrubielos de la mancha__16__908
+pozorrubio de santiago__16__167
+pozuelo, el__16__169
+priego__16__170
+provencio, el__16__171
+puebla de almenara__16__172
+puebla del salvador__16__174
+quintanar del rey__16__175
+rada de haro__16__176
+reíllo__16__177
+rozalén del monte__16__181
+saceda-trasierra__16__185
+saelices__16__186
+salinas del manzano__16__187
+salmeroncillos__16__188
+salvacañete__16__189
+san clemente__16__190
+san lorenzo de la parrilla__16__191
+san martín de boniches__16__192
+san pedro palmiches__16__193
+santa cruz de moya__16__194
+santa maría de los llanos__16__196
+santa maría del campo rus__16__195
+santa maría del val__16__197
+sisante__16__198
+solera de gabaldón__16__199
+sotorribas__16__909
+talayuelas__16__202
+tarancón__16__203
+tébar__16__204
+tejadillos__16__205
+tinajas__16__206
+torralba__16__209
+torrejoncillo del rey__16__211
+torrubia del campo__16__212
+torrubia del castillo__16__213
+tragacete__16__215
+tresjuncos__16__216
+tribaldos__16__217
+uclés__16__218
+uña__16__219
+valdecolmenas, los__16__906
+valdemeca__16__224
+valdemorillo de la sierra__16__225
+valdemoro-sierra__16__227
+valdeolivas__16__228
+valdetórtola__16__902
+valeras, las__16__903
+valhermoso de la fuente__16__231
+valle de altomira, el__16__173
+valsalobre__16__234
+valverde de júcar__16__236
+valverdejo__16__237
+vara de rey__16__238
+vega del codorno__16__239
+vellisca__16__240
+villaconejos de trabaque__16__242
+villaescusa de haro__16__243
+villagarcía del llano__16__244
+villalba de la sierra__16__245
+villalba del rey__16__246
+villalgordo del marquesado__16__247
+villalpardo__16__248
+villamayor de santiago__16__249
+villanueva de guadamejud__16__250
+villanueva de la jara__16__251
+villar de cañas__16__253
+villar de domingo garcía__16__254
+villar de la encina__16__255
+villar de olalla__16__263
+villar del humo__16__258
+villar del infantado__16__259
+villar y velasco__16__910
+villarejo de fuentes__16__264
+villarejo de la peñuela__16__265
+villarejo-periesteban__16__266
+villares del saz__16__269
+villarrubio__16__270
+villarta__16__271
+villas de la ventosa__16__272
+villaverde y pasaconsol__16__273
+víllora__16__274
+vindel__16__275
+yémeda__16__276
+zafra de záncara__16__277
+zafrilla__16__278
+zarza de tajo__16__279
+zarzuela__16__280
+agullana__17__001
+aiguaviva__17__002
+albanyà__17__003
+albons__17__004
+alp__17__006
+amer__17__007
+anglès__17__008
+arbúcies__17__009
+argelaguer__17__010
+armentera, l'__17__011
+avinyonet de puigventós__17__012
+banyoles__17__015
+bàscara__17__016
+begur__17__013
+bellcaire d'empordà__17__018
+besalú__17__019
+bescanó__17__020
+beuda__17__021
+bisbal d'empordà, la__17__022
+biure__17__234
+blanes__17__023
+boadella i les escaules__17__029
+bolvir__17__024
+bordils__17__025
+borrassà__17__026
+breda__17__027
+brunyola__17__028
+cabanelles__17__031
+cabanes__17__030
+cadaqués__17__032
+caldes de malavella__17__033
+calonge__17__034
+camós__17__035
+campdevànol__17__036
+campelles__17__037
+campllong__17__038
+camprodon__17__039
+canet d'adri__17__040
+cantallops__17__041
+capmany__17__042
+cassà de la selva__17__044
+castellfollit de la roca__17__046
+castelló d'empúries__17__047
+castell-platja d'aro__17__048
+cellera de ter, la__17__189
+celrà__17__049
+cervià de ter__17__050
+cistella__17__051
+colera__17__054
+colomers__17__055
+corçà__17__057
+cornellà del terri__17__056
+crespià__17__058
+cruïlles, monells i sant sadurní de l'heura__17__901
+darnius__17__060
+das__17__061
+escala, l'__17__062
+espinelves__17__063
+espolla__17__064
+esponellà__17__065
+far d'empordà, el__17__005
+figueres__17__066
+flaçà__17__067
+foixà__17__068
+fontanals de cerdanya__17__069
+fontanilles__17__070
+fontcoberta__17__071
+forallac__17__902
+fornells de la selva__17__073
+fortià__17__074
+garrigàs__17__075
+garrigoles__17__076
+garriguella__17__077
+ger__17__078
+girona__17__079
+gombrèn__17__080
+gualta__17__081
+guils de cerdanya__17__082
+hostalric__17__083
+isòvol__17__084
+jafre__17__085
+jonquera, la__17__086
+juià__17__087
+lladó__17__088
+llagostera__17__089
+llambilles__17__090
+llanars__17__091
+llançà__17__092
+llers__17__093
+llívia__17__094
+lloret de mar__17__095
+llosses, les__17__096
+maçanet de cabrenys__17__102
+maçanet de la selva__17__103
+madremanya__17__097
+maià de montcal__17__098
+masarac__17__100
+massanes__17__101
+meranges__17__099
+mieres__17__105
+mollet de peralada__17__106
+molló__17__107
+montagut i oix__17__109
+mont-ras__17__110
+navata__17__111
+ogassa__17__112
+olot__17__114
+ordis__17__115
+osor__17__116
+palafrugell__17__117
+palamós__17__118
+palau de santa eulàlia__17__119
+palau-sator__17__121
+palau-saverdera__17__120
+palol de revardit__17__123
+pals__17__124
+pardines__17__125
+parlavà__17__126
+pau__17__128
+pedret i marzà__17__129
+pera, la__17__130
+peralada__17__132
+planes d'hostoles, les__17__133
+planoles__17__134
+pont de molins__17__135
+pontós__17__136
+porqueres__17__137
+port de la selva, el__17__140
+portbou__17__138
+preses, les__17__139
+puigcerdà__17__141
+quart__17__142
+queralbs__17__043
+rabós__17__143
+regencós__17__144
+ribes de freser__17__145
+riells i viabrea__17__146
+ripoll__17__147
+riudarenes__17__148
+riudaura__17__149
+riudellots de la selva__17__150
+riumors__17__151
+roses__17__152
+rupià__17__153
+sales de llierca__17__154
+salt__17__155
+sant andreu salou__17__157
+sant aniol de finestres__17__183
+sant climent sescebes__17__158
+sant feliu de buixalleu__17__159
+sant feliu de guíxols__17__160
+sant feliu de pallerols__17__161
+sant ferriol__17__162
+sant gregori__17__163
+sant hilari sacalm__17__164
+sant jaume de llierca__17__165
+sant joan de les abadesses__17__167
+sant joan de mollet__17__168
+sant joan les fonts__17__185
+sant jordi desvalls__17__166
+sant julià de ramis__17__169
+sant julià del llor i bonmatí__17__903
+sant llorenç de la muga__17__171
+sant martí de llémena__17__172
+sant martí vell__17__173
+sant miquel de campmajor__17__174
+sant miquel de fluvià__17__175
+sant mori__17__176
+sant pau de segúries__17__177
+sant pere pescador__17__178
+santa coloma de farners__17__180
+santa cristina d'aro__17__181
+santa llogaia d'àlguema__17__182
+santa pau__17__184
+sarrià de ter__17__186
+saus, camallera i llampaies__17__187
+selva de mar, la__17__188
+serinyà__17__190
+serra de daró__17__191
+setcases__17__192
+sils__17__193
+siurana__17__052
+susqueda__17__194
+tallada d'empordà, la__17__195
+terrades__17__196
+torrent__17__197
+torroella de fluvià__17__198
+torroella de montgrí__17__199
+tortellà__17__200
+toses__17__201
+tossa de mar__17__202
+ullà__17__204
+ullastret__17__205
+ultramort__17__203
+urús__17__206
+vajol, la__17__014
+vall de bianya, la__17__208
+vall d'en bas, la__17__207
+vallfogona de ripollès__17__170
+vall-llobrega__17__209
+ventalló__17__210
+verges__17__211
+vidrà__17__212
+vidreres__17__213
+vilabertran__17__214
+vilablareix__17__215
+viladamat__17__217
+viladasens__17__216
+vilademuls__17__218
+viladrau__17__220
+vilafant__17__221
+vilajuïga__17__223
+vilallonga de ter__17__224
+vilamacolum__17__225
+vilamalla__17__226
+vilamaniscle__17__227
+vilanant__17__228
+vila-sacra__17__230
+vilaür__17__222
+vilobí d'onyar__17__233
+vilopriu__17__232
+agrón__18__001
+alamedilla__18__002
+albolote__18__003
+albondón__18__004
+albuñán__18__005
+albuñol__18__006
+albuñuelas__18__007
+aldeire__18__010
+alfacar__18__011
+algarinejo__18__012
+alhama de granada__18__013
+alhendín__18__014
+alicún de ortega__18__015
+almegíjar__18__016
+almuñécar__18__017
+alpujarra de la sierra__18__904
+alquife__18__018
+arenas del rey__18__020
+armilla__18__021
+atarfe__18__022
+baza__18__023
+beas de granada__18__024
+beas de guadix__18__025
+benalúa__18__027
+benalúa de las villas__18__028
+benamaurel__18__029
+bérchules__18__030
+bubión__18__032
+busquístar__18__033
+cacín__18__034
+cádiar__18__035
+cájar__18__036
+calahorra, la__18__114
+calicasas__18__037
+campotéjar__18__038
+caniles__18__039
+cáñar__18__040
+capileira__18__042
+carataunas__18__043
+cástaras__18__044
+castilléjar__18__045
+castril__18__046
+cenes de la vega__18__047
+chauchina__18__059
+chimeneas__18__061
+churriana de la vega__18__062
+cijuela__18__048
+cogollos de guadix__18__049
+cogollos de la vega__18__050
+colomera__18__051
+cortes de baza__18__053
+cortes y graena__18__054
+cuevas del campo__18__912
+cúllar__18__056
+cúllar vega__18__057
+darro__18__063
+dehesas de guadix__18__064
+dehesas viejas__18__065
+deifontes__18__066
+diezma__18__067
+dílar__18__068
+dólar__18__069
+domingo pérez de granada__18__915
+dúdar__18__070
+dúrcal__18__071
+escúzar__18__072
+ferreira__18__074
+fonelas__18__076
+freila__18__078
+fuente vaqueros__18__079
+gabias, las__18__905
+galera__18__082
+gobernador__18__083
+gójar__18__084
+gor__18__085
+gorafe__18__086
+granada__18__087
+guadahortuna__18__088
+guadix__18__089
+guájares, los__18__906
+gualchos__18__093
+güéjar sierra__18__094
+güevéjar__18__095
+huélago__18__096
+huéneja__18__097
+huéscar__18__098
+huétor de santillán__18__099
+huétor tájar__18__100
+huétor vega__18__101
+íllora__18__102
+ítrabo__18__103
+iznalloz__18__105
+játar__18__106
+jayena__18__107
+jérez del marquesado__18__108
+jete__18__109
+jun__18__111
+juviles__18__112
+láchar__18__115
+lanjarón__18__116
+lanteira__18__117
+lecrín__18__119
+lentegí__18__120
+lobras__18__121
+loja__18__122
+lugros__18__123
+lújar__18__124
+malahá, la__18__126
+maracena__18__127
+marchal__18__128
+moclín__18__132
+molvízar__18__133
+monachil__18__134
+montefrío__18__135
+montejícar__18__136
+montillana__18__137
+moraleda de zafayona__18__138
+morelábor__18__909
+motril__18__140
+murtas__18__141
+nevada__18__903
+nigüelas__18__143
+nívar__18__144
+ogíjares__18__145
+orce__18__146
+órgiva__18__147
+otívar__18__148
+padul__18__150
+pampaneira__18__151
+pedro martínez__18__152
+peligros__18__153
+peza, la__18__154
+pinar, el__18__910
+pinos genil__18__157
+pinos puente__18__158
+píñar__18__159
+polícar__18__161
+polopos__18__162
+pórtugos__18__163
+puebla de don fadrique__18__164
+pulianas__18__165
+purullena__18__167
+quéntar__18__168
+rubite__18__170
+salar__18__171
+salobreña__18__173
+santa cruz del comercio__18__174
+santa fe__18__175
+soportújar__18__176
+sorvilán__18__177
+taha, la__18__901
+torre-cardela__18__178
+torvizcón__18__179
+trevélez__18__180
+turón__18__181
+ugíjar__18__182
+valderrubio__18__914
+valle del zalabí__18__907
+valle, el__18__902
+válor__18__183
+vegas del genil__18__911
+vélez de benaudalla__18__184
+ventas de huelma__18__185
+villa de otura__18__149
+villamena__18__908
+villanueva de las torres__18__187
+villanueva mesía__18__188
+víznar__18__189
+zafarraya__18__192
+zagra__18__913
+zubia, la__18__193
+zújar__18__194
+abánades__19__001
+ablanque__19__002
+adobes__19__003
+alaminos__19__004
+alarilla__19__005
+albalate de zorita__19__006
+albares__19__007
+albendiego__19__008
+alcocer__19__009
+alcolea de las peñas__19__010
+alcolea del pinar__19__011
+alcoroches__19__013
+aldeanueva de guadalajara__19__015
+algar de mesa__19__016
+algora__19__017
+alhóndiga__19__018
+alique__19__019
+almadrones__19__020
+almoguera__19__021
+almonacid de zorita__19__022
+alocén__19__023
+alovera__19__024
+alustante__19__027
+angón__19__031
+anguita__19__032
+anquela del ducado__19__033
+anquela del pedregal__19__034
+aranzueque__19__036
+arbancón__19__037
+arbeteta__19__038
+argecilla__19__039
+armallones__19__040
+armuña de tajuña__19__041
+arroyo de las fraguas__19__042
+atanzón__19__043
+atienza__19__044
+auñón__19__045
+azuqueca de henares__19__046
+baides__19__047
+baños de tajo__19__048
+bañuelos__19__049
+barriopedro__19__050
+berninches__19__051
+bodera, la__19__052
+brihuega__19__053
+budia__19__054
+bujalaro__19__055
+bustares__19__057
+cabanillas del campo__19__058
+campillo de dueñas__19__059
+campillo de ranas__19__060
+campisábalos__19__061
+canredondo__19__064
+cantalojas__19__065
+cañizar__19__066
+cardoso de la sierra, el__19__067
+casa de uceda__19__070
+casar, el__19__071
+casas de san galindo__19__073
+caspueñas__19__074
+castejón de henares__19__075
+castellar de la muela__19__076
+castilforte__19__078
+castilnuevo__19__079
+cendejas de enmedio__19__080
+cendejas de la torre__19__081
+centenera__19__082
+checa__19__103
+chequilla__19__104
+chillarón del rey__19__106
+chiloeches__19__105
+cifuentes__19__086
+cincovillas__19__087
+ciruelas__19__088
+ciruelos del pinar__19__089
+cobeta__19__090
+cogollor__19__091
+cogolludo__19__092
+condemios de abajo__19__095
+condemios de arriba__19__096
+congostrina__19__097
+copernal__19__098
+corduente__19__099
+cubillo de uceda, el__19__102
+driebes__19__107
+durón__19__108
+embid__19__109
+escamilla__19__110
+escariche__19__111
+escopete__19__112
+espinosa de henares__19__113
+esplegares__19__114
+establés__19__115
+estriégana__19__116
+fontanar__19__117
+fuembellida__19__118
+fuencemillán__19__119
+fuentelahiguera de albatages__19__120
+fuentelencina__19__121
+fuentelsaz__19__122
+fuentelviejo__19__123
+fuentenovilla__19__124
+gajanejos__19__125
+galápagos__19__126
+galve de sorbe__19__127
+gascueña de bornova__19__129
+guadalajara__19__130
+henche__19__132
+heras de ayuso__19__133
+herrería__19__134
+hiendelaencina__19__135
+hijes__19__136
+hita__19__138
+hombrados__19__139
+hontoba__19__142
+horche__19__143
+hortezuela de océn__19__145
+huerce, la__19__146
+huérmeces del cerro__19__147
+huertahernando__19__148
+hueva__19__150
+humanes__19__151
+illana__19__152
+iniéstola__19__153
+inviernas, las__19__154
+irueste__19__155
+jadraque__19__156
+jirueque__19__157
+ledanca__19__159
+loranca de tajuña__19__160
+lupiana__19__161
+luzaga__19__162
+luzón__19__163
+majaelrayo__19__165
+málaga del fresno__19__166
+malaguilla__19__167
+mandayona__19__168
+mantiel__19__169
+maranchón__19__170
+marchamalo__19__171
+masegoso de tajuña__19__172
+matarrubia__19__173
+matillas__19__174
+mazarete__19__175
+mazuecos__19__176
+medranda__19__177
+megina__19__178
+membrillera__19__179
+miedes de atienza__19__181
+mierla, la__19__182
+millana__19__184
+milmarcos__19__183
+miñosa, la__19__185
+mirabueno__19__186
+miralrío__19__187
+mochales__19__188
+mohernando__19__189
+molina de aragón__19__190
+monasterio__19__191
+mondéjar__19__192
+montarrón__19__193
+moratilla de los meleros__19__194
+morenilla__19__195
+muduex__19__196
+navas de jadraque, las__19__197
+negredo__19__198
+ocentejo__19__199
+olivar, el__19__200
+olmeda de cobeta__19__201
+olmeda de jadraque, la__19__202
+ordial, el__19__203
+orea__19__204
+pálmaces de jadraque__19__208
+pardos__19__209
+paredes de sigüenza__19__210
+pareja__19__211
+pastrana__19__212
+pedregal, el__19__213
+peñalén__19__214
+peñalver__19__215
+peralejos de las truchas__19__216
+peralveche__19__217
+pinilla de jadraque__19__218
+pinilla de molina__19__219
+pioz__19__220
+piqueras__19__221
+pobo de dueñas, el__19__222
+poveda de la sierra__19__223
+pozo de almoguera__19__224
+pozo de guadalajara__19__225
+prádena de atienza__19__226
+prados redondos__19__227
+puebla de beleña__19__228
+puebla de valles__19__229
+quer__19__230
+rebollosa de jadraque__19__231
+recuenco, el__19__232
+renera__19__233
+retiendas__19__234
+riba de saelices__19__235
+rillo de gallo__19__237
+riofrío del llano__19__238
+robledillo de mohernando__19__239
+robledo de corpes__19__240
+romanillos de atienza__19__241
+romanones__19__242
+rueda de la sierra__19__243
+sacecorbo__19__244
+sacedón__19__245
+saelices de la sal__19__246
+salmerón__19__247
+san andrés del congosto__19__248
+san andrés del rey__19__249
+santiuste__19__250
+saúca__19__251
+sayatón__19__252
+selas__19__254
+semillas__19__901
+setiles__19__255
+sienes__19__256
+sigüenza__19__257
+solanillos del extremo__19__258
+somolinos__19__259
+sotillo, el__19__260
+sotodosos__19__261
+tamajón__19__262
+taragudo__19__263
+taravilla__19__264
+tartanedo__19__265
+tendilla__19__266
+terzaga__19__267
+tierzo__19__268
+toba, la__19__269
+tordellego__19__271
+tordelrábano__19__270
+tordesilos__19__272
+torija__19__274
+torre del burgo__19__279
+torrecuadrada de molina__19__277
+torrecuadradilla__19__278
+torrejón del rey__19__280
+torremocha de jadraque__19__281
+torremocha del campo__19__282
+torremocha del pinar__19__283
+torremochuela__19__284
+torrubia__19__285
+tórtola de henares__19__286
+tortuera__19__287
+tortuero__19__288
+traíd__19__289
+trijueque__19__290
+trillo__19__291
+uceda__19__293
+ujados__19__294
+utande__19__296
+valdarachas__19__297
+valdearenas__19__298
+valdeavellano__19__299
+valdeaveruelo__19__300
+valdeconcha__19__301
+valdegrudas__19__302
+valdelcubo__19__303
+valdenuño fernández__19__304
+valdepeñas de la sierra__19__305
+valderrebollo__19__306
+valdesotos__19__307
+valfermoso de tajuña__19__308
+valhermoso__19__309
+valtablado del río__19__310
+valverde de los arroyos__19__311
+viana de jadraque__19__314
+villanueva de alcorón__19__317
+villanueva de argecilla__19__318
+villanueva de la torre__19__319
+villares de jadraque__19__321
+villaseca de henares__19__322
+villaseca de uceda__19__323
+villel de mesa__19__324
+viñuelas__19__325
+yebes__19__326
+yebra__19__327
+yélamos de abajo__19__329
+yélamos de arriba__19__330
+yunquera de henares__19__331
+yunta, la__19__332
+zaorejas__19__333
+zarzuela de jadraque__19__334
+zorita de los canes__19__335
+abaltzisketa__20__001
+aduna__20__002
+aia__20__016
+aizarnazabal__20__003
+albiztur__20__004
+alegia__20__005
+alkiza__20__006
+altzaga__20__906
+altzo__20__007
+amezketa__20__008
+andoain__20__009
+anoeta__20__010
+antzuola__20__011
+arama__20__012
+aretxabaleta__20__013
+arrasate/mondragón__20__055
+asteasu__20__014
+astigarraga__20__903
+ataun__20__015
+azkoitia__20__017
+azpeitia__20__018
+baliarrain__20__904
+beasain__20__019
+beizama__20__020
+belauntza__20__021
+berastegi__20__022
+bergara__20__074
+berrobi__20__023
+bidania-goiatz__20__024
+deba__20__029
+donostia/san sebastián__20__069
+eibar__20__030
+elduain__20__031
+elgeta__20__033
+elgoibar__20__032
+errenteria__20__067
+errezil__20__066
+eskoriatza__20__034
+ezkio-itsaso__20__035
+gabiria__20__038
+gaintza__20__037
+gaztelu__20__907
+getaria__20__039
+hernani__20__040
+hernialde__20__041
+hondarribia__20__036
+ibarra__20__042
+idiazabal__20__043
+ikaztegieta__20__044
+irun__20__045
+irura__20__046
+itsasondo__20__047
+larraul__20__048
+lasarte-oria__20__902
+lazkao__20__049
+leaburu__20__050
+legazpi__20__051
+legorreta__20__052
+leintz-gatzaga__20__068
+lezo__20__053
+lizartza__20__054
+mendaro__20__901
+mutiloa__20__057
+mutriku__20__056
+oiartzun__20__063
+olaberria__20__058
+oñati__20__059
+ordizia__20__076
+orendain__20__905
+orexa__20__060
+orio__20__061
+ormaiztegi__20__062
+pasaia__20__064
+segura__20__070
+soraluze-placencia de las armas__20__065
+tolosa__20__071
+urnieta__20__072
+urretxu__20__077
+usurbil__20__073
+villabona__20__075
+zaldibia__20__078
+zarautz__20__079
+zegama__20__025
+zerain__20__026
+zestoa__20__027
+zizurkil__20__028
+zumaia__20__081
+zumarraga__20__080
+alájar__21__001
+aljaraque__21__002
+almendro, el__21__003
+almonaster la real__21__004
+almonte__21__005
+alosno__21__006
+aracena__21__007
+aroche__21__008
+arroyomolinos de león__21__009
+ayamonte__21__010
+beas__21__011
+berrocal__21__012
+bollullos par del condado__21__013
+bonares__21__014
+cabezas rubias__21__015
+cala__21__016
+calañas__21__017
+campillo, el__21__018
+campofrío__21__019
+cañaveral de león__21__020
+cartaya__21__021
+castaño del robledo__21__022
+cerro de andévalo, el__21__023
+chucena__21__030
+corteconcepción__21__024
+cortegana__21__025
+cortelazor__21__026
+cumbres de enmedio__21__027
+cumbres de san bartolomé__21__028
+cumbres mayores__21__029
+encinasola__21__031
+escacena del campo__21__032
+fuenteheridos__21__033
+galaroza__21__034
+gibraleón__21__035
+granada de río-tinto, la__21__036
+granado, el__21__037
+higuera de la sierra__21__038
+hinojales__21__039
+hinojos__21__040
+huelva__21__041
+isla cristina__21__042
+jabugo__21__043
+lepe__21__044
+linares de la sierra__21__045
+lucena del puerto__21__046
+manzanilla__21__047
+marines, los__21__048
+minas de riotinto__21__049
+moguer__21__050
+nava, la__21__051
+nerva__21__052
+niebla__21__053
+palma del condado, la__21__054
+palos de la frontera__21__055
+paterna del campo__21__056
+paymogo__21__057
+puebla de guzmán__21__058
+puerto moral__21__059
+punta umbría__21__060
+rociana del condado__21__061
+rosal de la frontera__21__062
+san bartolomé de la torre__21__063
+san juan del puerto__21__064
+san silvestre de guzmán__21__066
+sanlúcar de guadiana__21__065
+santa ana la real__21__067
+santa bárbara de casa__21__068
+santa olalla del cala__21__069
+trigueros__21__070
+valdelarco__21__071
+valverde del camino__21__072
+villablanca__21__073
+villalba del alcor__21__074
+villanueva de las cruces__21__075
+villanueva de los castillejos__21__076
+villarrasa__21__077
+zalamea la real__21__078
+zufre__21__079
+abiego__22__001
+abizanda__22__002
+adahuesca__22__003
+agüero__22__004
+aínsa-sobrarbe__22__907
+aisa__22__006
+albalate de cinca__22__007
+albalatillo__22__008
+albelda__22__009
+albero alto__22__011
+albero bajo__22__012
+alberuela de tubo__22__013
+alcalá de gurrea__22__014
+alcalá del obispo__22__015
+alcampell__22__016
+alcolea de cinca__22__017
+alcubierre__22__018
+alerre__22__019
+alfántega__22__020
+almudévar__22__021
+almunia de san juan__22__022
+almuniente__22__023
+alquézar__22__024
+altorricón__22__025
+angüés__22__027
+ansó__22__028
+antillón__22__029
+aragüés del puerto__22__032
+arén__22__035
+argavieso__22__036
+arguis__22__037
+ayerbe__22__039
+azanuy-alins__22__040
+azara__22__041
+azlor__22__042
+baélls__22__043
+bailo__22__044
+baldellou__22__045
+ballobar__22__046
+banastás__22__047
+barbastro__22__048
+barbués__22__049
+barbuñales__22__050
+bárcabo__22__051
+belver de cinca__22__052
+benabarre__22__053
+benasque__22__054
+beranuy__22__246
+berbegal__22__055
+bielsa__22__057
+bierge__22__058
+biescas__22__059
+binaced__22__060
+binéfar__22__061
+bisaurri__22__062
+biscarrués__22__063
+blecua y torres__22__064
+boltaña__22__066
+bonansa__22__067
+borau__22__068
+broto__22__069
+caldearenas__22__072
+campo__22__074
+camporrélls__22__075
+canal de berdún__22__076
+candasnos__22__077
+canfranc__22__078
+capdesaso__22__079
+capella__22__080
+casbas de huesca__22__081
+castejón de monegros__22__083
+castejón de sos__22__084
+castejón del puente__22__082
+castelflorite__22__085
+castiello de jaca__22__086
+castigaleu__22__087
+castillazuelo__22__088
+castillonroy__22__089
+chalamera__22__094
+chía__22__095
+chimillas__22__096
+colungo__22__090
+esplús__22__099
+estada__22__102
+estadilla__22__103
+estopiñán del castillo__22__105
+fago__22__106
+fanlo__22__107
+fiscal__22__109
+fonz__22__110
+foradada del toscar__22__111
+fraga__22__112
+fueva, la__22__113
+gistaín__22__114
+grado, el__22__115
+grañén__22__116
+graus__22__117
+gurrea de gállego__22__119
+hoz de jaca__22__122
+hoz y costean__22__908
+huerto__22__124
+huesca__22__125
+ibieca__22__126
+igriés__22__127
+ilche__22__128
+isábena__22__129
+jaca__22__130
+jasa__22__131
+labuerda__22__133
+laluenga__22__135
+lalueza__22__136
+lanaja__22__137
+laperdiguera__22__139
+lascellas-ponzano__22__141
+lascuarre__22__142
+laspaúles__22__143
+laspuña__22__144
+loarre__22__149
+loporzano__22__150
+loscorrales__22__151
+lupiñén-ortilla__22__905
+monesma y cajigar__22__155
+monflorite-lascasas__22__156
+montanuy__22__157
+monzón__22__158
+naval__22__160
+novales__22__162
+nueno__22__163
+olvena__22__164
+ontiñena__22__165
+osso de cinca__22__167
+palo__22__168
+panticosa__22__170
+peñalba__22__172
+peñas de riglos, las__22__173
+peralta de alcofea__22__174
+peralta de calasanz__22__175
+peraltilla__22__176
+perarrúa__22__177
+pertusa__22__178
+piracés__22__181
+plan__22__182
+poleñino__22__184
+pozán de vero__22__186
+puebla de castro, la__22__187
+puente de montañana__22__188
+puente la reina de jaca__22__902
+puértolas__22__189
+pueyo de araguás, el__22__190
+pueyo de santa cruz__22__193
+quicena__22__195
+robres__22__197
+sabiñánigo__22__199
+sahún__22__200
+salas altas__22__201
+salas bajas__22__202
+salillas__22__203
+sallent de gállego__22__204
+san esteban de litera__22__205
+san juan de plan__22__207
+san miguel del cinca__22__903
+sangarrén__22__206
+santa cilia__22__208
+santa cruz de la serós__22__209
+santa maría de dulcis__22__906
+santaliestra y san quílez__22__212
+sariñena__22__213
+secastilla__22__214
+seira__22__215
+sena__22__217
+senés de alcubierre__22__218
+sesa__22__220
+sesué__22__221
+siétamo__22__222
+sopeira__22__223
+sotonera, la__22__904
+tamarite de litera__22__225
+tardienta__22__226
+tella-sin__22__227
+tierz__22__228
+tolva__22__229
+torla-ordesa__22__230
+torralba de aragón__22__232
+torre la ribera__22__233
+torrente de cinca__22__234
+torres de alcanadre__22__235
+torres de barbués__22__236
+tramaced__22__239
+valfarta__22__242
+valle de bardají__22__243
+valle de hecho__22__901
+valle de lierp__22__244
+velilla de cinca__22__245
+vencillón__22__909
+viacamp y litera__22__247
+vicién__22__248
+villanova__22__249
+villanúa__22__250
+villanueva de sigena__22__251
+yebra de basa__22__252
+yésero__22__253
+zaidín__22__254
+albanchez de mágina__23__001
+alcalá la real__23__002
+alcaudete__23__003
+aldeaquemada__23__004
+andújar__23__005
+arjona__23__006
+arjonilla__23__007
+arquillos__23__008
+arroyo del ojanco__23__905
+baeza__23__009
+bailén__23__010
+baños de la encina__23__011
+beas de segura__23__012
+bedmar y garcíez__23__902
+begíjar__23__014
+bélmez de la moraleda__23__015
+benatae__23__016
+cabra del santo cristo__23__017
+cambil__23__018
+campillo de arenas__23__019
+canena__23__020
+carboneros__23__021
+cárcheles__23__901
+carolina, la__23__024
+castellar__23__025
+castillo de locubín__23__026
+cazalilla__23__027
+cazorla__23__028
+chiclana de segura__23__029
+chilluévar__23__030
+escañuela__23__031
+espeluy__23__032
+frailes__23__033
+fuensanta de martos__23__034
+fuerte del rey__23__035
+génave__23__037
+guardia de jaén, la__23__038
+guarromán__23__039
+higuera de calatrava__23__041
+hinojares__23__042
+hornos__23__043
+huelma__23__044
+huesa__23__045
+ibros__23__046
+iruela, la__23__047
+iznatoraf__23__048
+jabalquinto__23__049
+jaén__23__050
+jamilena__23__051
+jimena__23__052
+jódar__23__053
+lahiguera__23__040
+larva__23__054
+linares__23__055
+lopera__23__056
+lupión__23__057
+mancha real__23__058
+marmolejo__23__059
+martos__23__060
+mengíbar__23__061
+montizón__23__062
+navas de san juan__23__063
+noalejo__23__064
+orcera__23__065
+peal de becerro__23__066
+pegalajar__23__067
+porcuna__23__069
+pozo alcón__23__070
+puente de génave__23__071
+puerta de segura, la__23__072
+quesada__23__073
+rus__23__074
+sabiote__23__075
+santa elena__23__076
+santiago de calatrava__23__077
+santiago-pontones__23__904
+santisteban del puerto__23__079
+santo tomé__23__080
+segura de la sierra__23__081
+siles__23__082
+sorihuela del guadalimar__23__084
+torreblascopedro__23__085
+torredelcampo__23__086
+torredonjimeno__23__087
+torreperogil__23__088
+torres__23__090
+torres de albánchez__23__091
+úbeda__23__092
+valdepeñas de jaén__23__093
+vilches__23__094
+villacarrillo__23__095
+villanueva de la reina__23__096
+villanueva del arzobispo__23__097
+villardompardo__23__098
+villares, los__23__099
+villarrodrigo__23__101
+villatorres__23__903
+acebedo__24__001
+algadefe__24__002
+alija del infantado__24__003
+almanza__24__004
+antigua, la__24__005
+ardón__24__006
+arganza__24__007
+astorga__24__008
+balboa__24__009
+bañeza, la__24__010
+barjas__24__011
+barrios de luna, los__24__012
+bembibre__24__014
+benavides__24__015
+benuza__24__016
+bercianos del páramo__24__017
+bercianos del real camino__24__018
+berlanga del bierzo__24__019
+boca de huérgano__24__020
+boñar__24__021
+borrenes__24__022
+brazuelo__24__023
+burgo ranero, el__24__024
+burón__24__025
+bustillo del páramo__24__026
+cabañas raras__24__027
+cabreros del río__24__028
+cabrillanes__24__029
+cacabelos__24__030
+calzada del coto__24__031
+campazas__24__032
+campo de villavidel__24__033
+camponaraya__24__034
+candín__24__036
+cármenes__24__037
+carracedelo__24__038
+carrizo__24__039
+carrocera__24__040
+carucedo__24__041
+castilfalé__24__042
+castrillo de cabrera__24__043
+castrillo de la valduerna__24__044
+castrocalbón__24__046
+castrocontrigo__24__047
+castropodame__24__049
+castrotierra de valmadrigal__24__050
+cea__24__051
+cebanico__24__052
+cebrones del río__24__053
+chozas de abajo__24__065
+cimanes de la vega__24__054
+cimanes del tejar__24__055
+cistierna__24__056
+congosto__24__057
+corbillos de los oteros__24__058
+corullón__24__059
+crémenes__24__060
+cuadros__24__061
+cubillas de los oteros__24__062
+cubillas de rueda__24__063
+cubillos del sil__24__064
+destriana__24__066
+encinedo__24__067
+ercina, la__24__068
+escobar de campos__24__069
+fabero__24__070
+folgoso de la ribera__24__071
+fresno de la vega__24__073
+fuentes de carbajal__24__074
+garrafe de torío__24__076
+gordaliza del pino__24__077
+gordoncillo__24__078
+gradefes__24__079
+grajal de campos__24__080
+gusendos de los oteros__24__081
+hospital de órbigo__24__082
+igüeña__24__083
+izagre__24__084
+joarilla de las matas__24__086
+laguna dalga__24__087
+laguna de negrillos__24__088
+león__24__089
+llamas de la ribera__24__092
+lucillo__24__090
+luyego__24__091
+magaz de cepeda__24__093
+mansilla de las mulas__24__094
+mansilla mayor__24__095
+maraña__24__096
+matadeón de los oteros__24__097
+matallana de torío__24__098
+matanza__24__099
+molinaseca__24__100
+murias de paredes__24__101
+noceda del bierzo__24__102
+oencia__24__103
+omañas, las__24__104
+onzonilla__24__105
+oseja de sajambre__24__106
+pajares de los oteros__24__107
+palacios de la valduerna__24__108
+palacios del sil__24__109
+páramo del sil__24__110
+peranzanes__24__112
+pobladura de pelayo garcía__24__113
+pola de gordón, la__24__114
+ponferrada__24__115
+posada de valdeón__24__116
+pozuelo del páramo__24__117
+prado de la guzpeña__24__118
+priaranza del bierzo__24__119
+prioro__24__120
+puebla de lillo__24__121
+puente de domingo flórez__24__122
+quintana del castillo__24__123
+quintana del marco__24__124
+quintana y congosto__24__125
+regueras de arriba__24__127
+reyero__24__129
+riaño__24__130
+riego de la vega__24__131
+riello__24__132
+rioseco de tapia__24__133
+robla, la__24__134
+roperuelos del páramo__24__136
+sabero__24__137
+sahagún__24__139
+san adrián del valle__24__141
+san andrés del rabanedo__24__142
+san cristóbal de la polantera__24__144
+san emiliano__24__145
+san esteban de nogales__24__146
+san justo de la vega__24__148
+san millán de los caballeros__24__149
+san pedro bercianos__24__150
+sancedo__24__143
+santa colomba de curueño__24__151
+santa colomba de somoza__24__152
+santa cristina de valmadrigal__24__153
+santa elena de jamuz__24__154
+santa maría de la isla__24__155
+santa maría de ordás__24__158
+santa maría del monte de cea__24__156
+santa maría del páramo__24__157
+santa marina del rey__24__159
+santas martas__24__160
+santiago millas__24__161
+santovenia de la valdoncina__24__162
+sariegos__24__163
+sena de luna__24__164
+sobrado__24__165
+soto de la vega__24__166
+soto y amío__24__167
+toral de los guzmanes__24__168
+toral de los vados__24__206
+toreno__24__169
+torre del bierzo__24__170
+trabadelo__24__171
+truchas__24__172
+turcia__24__173
+urdiales del páramo__24__174
+val de san lorenzo__24__185
+valdefresno__24__175
+valdefuentes del páramo__24__176
+valdelugueros__24__177
+valdemora__24__178
+valdepiélago__24__179
+valdepolo__24__180
+valderas__24__181
+valderrey__24__182
+valderrueda__24__183
+valdesamario__24__184
+valdevimbre__24__187
+valencia de don juan__24__188
+vallecillo__24__191
+valverde de la virgen__24__189
+valverde-enrique__24__190
+vecilla, la__24__193
+vega de espinareda__24__196
+vega de infanzones__24__197
+vega de valcarce__24__198
+vegacervera__24__194
+vegaquemada__24__199
+vegas del condado__24__201
+villablino__24__202
+villabraz__24__203
+villadangos del páramo__24__205
+villademor de la vega__24__207
+villafranca del bierzo__24__209
+villagatón__24__210
+villamandos__24__211
+villamanín__24__901
+villamañán__24__212
+villamartín de don sancho__24__213
+villamejil__24__214
+villamol__24__215
+villamontán de la valduerna__24__216
+villamoratiel de las matas__24__217
+villanueva de las manzanas__24__218
+villaobispo de otero__24__219
+villaornate y castro__24__902
+villaquejida__24__221
+villaquilambre__24__222
+villarejo de órbigo__24__223
+villares de órbigo__24__224
+villasabariego__24__225
+villaselán__24__226
+villaturiel__24__227
+villazala__24__228
+villazanzo de valderaduey__24__229
+zotes del páramo__24__230
+abella de la conca__25__001
+àger__25__002
+agramunt__25__003
+aitona__25__038
+alamús, els__25__004
+alàs i cerc__25__005
+albagés, l'__25__006
+albatàrrec__25__007
+albesa__25__008
+albi, l'__25__009
+alcanó__25__010
+alcarràs__25__011
+alcoletge__25__012
+alfarràs__25__013
+alfés__25__014
+algerri__25__015
+alguaire__25__016
+alins__25__017
+almacelles__25__019
+almatret__25__020
+almenar__25__021
+alòs de balaguer__25__022
+alpicat__25__023
+alt àneu__25__024
+anglesola__25__027
+arbeca__25__029
+arres__25__031
+arsèguel__25__032
+artesa de lleida__25__033
+artesa de segre__25__034
+aspa__25__036
+avellanes i santa linya, les__25__037
+baix pallars__25__039
+balaguer__25__040
+barbens__25__041
+baronia de rialb, la__25__042
+bassella__25__044
+bausen__25__045
+belianes__25__046
+bellaguarda__25__170
+bellcaire d'urgell__25__047
+bell-lloc d'urgell__25__048
+bellmunt d'urgell__25__049
+bellpuig__25__050
+bellver de cerdanya__25__051
+bellvís__25__052
+benavent de segrià__25__053
+biosca__25__055
+bòrdes, es__25__057
+borges blanques, les__25__058
+bossòst__25__059
+bovera__25__056
+cabanabona__25__060
+cabó__25__061
+camarasa__25__062
+canejan__25__063
+castell de mur__25__904
+castellar de la ribera__25__064
+castelldans__25__067
+castellnou de seana__25__068
+castelló de farfanya__25__069
+castellserà__25__070
+cava__25__071
+cervera__25__072
+cervià de les garrigues__25__073
+ciutadilla__25__074
+clariana de cardener__25__075
+cogul, el__25__076
+coll de nargó__25__077
+coma i la pedra, la__25__163
+conca de dalt__25__161
+corbins__25__078
+cubells__25__079
+espluga calba, l'__25__081
+espot__25__082
+estamariu__25__088
+estaràs__25__085
+esterri d'àneu__25__086
+esterri de cardós__25__087
+farrera__25__089
+fígols i alinyà__25__908
+floresta, la__25__092
+fondarella__25__093
+foradada__25__094
+fuliola, la__25__096
+fulleda__25__097
+gavet de la conca__25__098
+gimenells i el pla de la font__25__912
+golmés__25__099
+gósol__25__100
+granadella, la__25__101
+granja d'escarp, la__25__102
+granyanella__25__103
+granyena de les garrigues__25__105
+granyena de segarra__25__104
+guimerà__25__109
+guingueta d'àneu, la__25__903
+guissona__25__110
+guixers__25__111
+isona i conca dellà__25__115
+ivars de noguera__25__112
+ivars d'urgell__25__113
+ivorra__25__114
+josa i tuixén__25__910
+juncosa__25__118
+juneda__25__119
+les__25__121
+linyola__25__122
+lladorre__25__123
+lladurs__25__124
+llardecans__25__125
+llavorsí__25__126
+lleida__25__120
+lles de cerdanya__25__127
+llimiana__25__128
+llobera__25__129
+maials__25__133
+maldà__25__130
+massalcoreig__25__131
+massoteres__25__132
+menàrguens__25__134
+miralcamp__25__135
+mollerussa__25__137
+molsosa, la__25__136
+montellà i martinet__25__139
+montferrer i castellbò__25__140
+montgai__25__138
+montoliu de lleida__25__142
+montoliu de segarra__25__141
+montornès de segarra__25__143
+nalec__25__145
+naut aran__25__025
+navès__25__146
+odèn__25__148
+oliana__25__149
+oliola__25__150
+olius__25__151
+oluges, les__25__152
+omellons, els__25__153
+omells de na gaia, els__25__154
+organyà__25__155
+os de balaguer__25__156
+ossó de sió__25__157
+palau d'anglesola, el__25__158
+penelles__25__164
+peramola__25__165
+pinell de solsonès__25__166
+pinós__25__167
+plans de sió, els__25__911
+poal, el__25__168
+pobla de cérvoles, la__25__169
+pobla de segur, la__25__171
+pont de bar, el__25__030
+pont de suert, el__25__173
+ponts__25__172
+portella, la__25__174
+prats i sansor__25__175
+preixana__25__176
+preixens__25__177
+prullans__25__179
+puiggròs__25__180
+puigverd d'agramunt__25__181
+puigverd de lleida__25__182
+rialp__25__183
+ribera d'ondara__25__905
+ribera d'urgellet__25__185
+riner__25__186
+riu de cerdanya__25__913
+rosselló__25__189
+salàs de pallars__25__190
+sanaüja__25__191
+sant esteve de la sarga__25__196
+sant guim de freixenet__25__192
+sant guim de la plana__25__197
+sant llorenç de morunys__25__193
+sant martí de riucorb__25__902
+sant ramon__25__194
+sarroca de bellera__25__201
+sarroca de lleida__25__200
+senterada__25__202
+sentiu de sió, la__25__035
+seròs__25__204
+seu d'urgell, la__25__203
+sidamon__25__205
+soleràs, el__25__206
+solsona__25__207
+soriguera__25__208
+sort__25__209
+soses__25__210
+sudanell__25__211
+sunyer__25__212
+talarn__25__215
+talavera__25__216
+tàrrega__25__217
+tarrés__25__218
+tarroja de segarra__25__219
+térmens__25__220
+tírvia__25__221
+tiurana__25__222
+torà__25__223
+torms, els__25__224
+tornabous__25__225
+torre de cabdella, la__25__227
+torrebesses__25__226
+torrefarrera__25__228
+torrefeta i florejacs__25__907
+torregrossa__25__230
+torrelameu__25__231
+torres de segre__25__232
+torre-serona__25__233
+tremp__25__234
+vall de boí, la__25__043
+vall de cardós__25__901
+vallbona de les monges__25__238
+vallfogona de balaguer__25__240
+valls d'aguilar, les__25__906
+valls de valira, les__25__239
+vansa i fórnols, la__25__909
+verdú__25__242
+vielha e mijaran__25__243
+vilagrassa__25__244
+vilaller__25__245
+vilamòs__25__247
+vilanova de bellpuig__25__248
+vilanova de la barca__25__254
+vilanova de l'aguda__25__249
+vilanova de meià__25__250
+vilanova de segrià__25__251
+vila-sana__25__252
+vilosell, el__25__253
+vinaixa__25__255
+ábalos__26__001
+agoncillo__26__002
+aguilar del río alhama__26__003
+ajamil de cameros__26__004
+albelda de iregua__26__005
+alberite__26__006
+alcanadre__26__007
+aldeanueva de ebro__26__008
+alesanco__26__009
+alesón__26__010
+alfaro__26__011
+almarza de cameros__26__012
+anguciana__26__013
+anguiano__26__014
+arenzana de abajo__26__015
+arenzana de arriba__26__016
+arnedillo__26__017
+arnedo__26__018
+arrúbal__26__019
+ausejo__26__020
+autol__26__021
+azofra__26__022
+badarán__26__023
+bañares__26__024
+baños de río tobía__26__026
+baños de rioja__26__025
+berceo__26__027
+bergasa__26__028
+bergasillas bajera__26__029
+bezares__26__030
+bobadilla__26__031
+brieva de cameros__26__032
+briñas__26__033
+briones__26__034
+cabezón de cameros__26__035
+calahorra__26__036
+camprovín__26__037
+canales de la sierra__26__038
+canillas de río tuerto__26__039
+cañas__26__040
+cárdenas__26__041
+casalarreina__26__042
+castañares de rioja__26__043
+castroviejo__26__044
+cellorigo__26__045
+cenicero__26__046
+cervera del río alhama__26__047
+cidamón__26__048
+cihuri__26__049
+cirueña__26__050
+clavijo__26__051
+cordovín__26__052
+corera__26__053
+cornago__26__054
+corporales__26__055
+cuzcurrita de río tirón__26__056
+daroca de rioja__26__057
+enciso__26__058
+entrena__26__059
+estollo__26__060
+ezcaray__26__061
+foncea__26__062
+fonzaleche__26__063
+fuenmayor__26__064
+galbárruli__26__065
+galilea__26__066
+gallinero de cameros__26__067
+gimileo__26__068
+grañón__26__069
+grávalos__26__070
+haro__26__071
+herce__26__072
+herramélluri__26__073
+hervías__26__074
+hormilla__26__075
+hormilleja__26__076
+hornillos de cameros__26__077
+hornos de moncalvillo__26__078
+huércanos__26__079
+igea__26__080
+jalón de cameros__26__081
+laguna de cameros__26__082
+lagunilla del jubera__26__083
+lardero__26__084
+ledesma de la cogolla__26__086
+leiva__26__087
+leza de río leza__26__088
+logroño__26__089
+lumbreras__26__091
+manjarrés__26__092
+mansilla de la sierra__26__093
+manzanares de rioja__26__094
+matute__26__095
+medrano__26__096
+munilla__26__098
+murillo de río leza__26__099
+muro de aguas__26__100
+muro en cameros__26__101
+nájera__26__102
+nalda__26__103
+navajún__26__104
+navarrete__26__105
+nestares__26__106
+nieva de cameros__26__107
+ochánduri__26__109
+ocón__26__108
+ojacastro__26__110
+ollauri__26__111
+ortigosa de cameros__26__112
+pazuengos__26__113
+pedroso__26__114
+pinillos__26__115
+pradejón__26__117
+pradillo__26__118
+préjano__26__119
+quel__26__120
+rabanera__26__121
+rasillo de cameros, el__26__122
+redal, el__26__123
+ribafrecha__26__124
+rincón de soto__26__125
+robres del castillo__26__126
+rodezno__26__127
+sajazarra__26__128
+san asensio__26__129
+san millán de la cogolla__26__130
+san millán de yécora__26__131
+san román de cameros__26__132
+san torcuato__26__139
+san vicente de la sonsierra__26__142
+santa coloma__26__134
+santa engracia del jubera__26__135
+santa eulalia bajera__26__136
+santo domingo de la calzada__26__138
+santurde de rioja__26__140
+santurdejo__26__141
+sojuela__26__143
+sorzano__26__144
+sotés__26__145
+soto en cameros__26__146
+terroba__26__147
+tirgo__26__148
+tobía__26__149
+tormantos__26__150
+torre en cameros__26__153
+torrecilla en cameros__26__151
+torrecilla sobre alesanco__26__152
+torremontalbo__26__154
+treviana__26__155
+tricio__26__157
+tudelilla__26__158
+uruñuela__26__160
+valdemadera__26__161
+valgañón__26__162
+ventosa__26__163
+ventrosa__26__164
+viguera__26__165
+villalba de rioja__26__166
+villalobar de rioja__26__167
+villamediana de iregua__26__168
+villanueva de cameros__26__169
+villar de arnedo, el__26__170
+villar de torre__26__171
+villarejo__26__172
+villarroya__26__173
+villarta-quintana__26__174
+villavelayo__26__175
+villaverde de rioja__26__176
+villoslada de cameros__26__177
+viniegra de abajo__26__178
+viniegra de arriba__26__179
+zarratón__26__180
+zarzosa__26__181
+zorraquín__26__183
+abadín__27__001
+alfoz__27__002
+antas de ulla__27__003
+baleira__27__004
+baralla__27__901
+barreiros__27__005
+becerreá__27__006
+begonte__27__007
+bóveda__27__008
+burela__27__902
+carballedo__27__009
+castro de rei__27__010
+castroverde__27__011
+cervantes__27__012
+cervo__27__013
+chantada__27__016
+corgo, o__27__014
+cospeito__27__015
+folgoso do courel__27__017
+fonsagrada, a__27__018
+foz__27__019
+friol__27__020
+guitiriz__27__022
+guntín__27__023
+incio, o__27__024
+láncara__27__026
+lourenzá__27__027
+lugo__27__028
+meira__27__029
+mondoñedo__27__030
+monforte de lemos__27__031
+monterroso__27__032
+muras__27__033
+navia de suarna__27__034
+negueira de muñiz__27__035
+nogais, as__27__037
+ourol__27__038
+outeiro de rei__27__039
+palas de rei__27__040
+pantón__27__041
+paradela__27__042
+páramo, o__27__043
+pastoriza, a__27__044
+pedrafita do cebreiro__27__045
+pobra do brollón, a__27__047
+pol__27__046
+pontenova, a__27__048
+portomarín__27__049
+quiroga__27__050
+rábade__27__056
+ribadeo__27__051
+ribas de sil__27__052
+ribeira de piquín__27__053
+riotorto__27__054
+samos__27__055
+sarria__27__057
+saviñao, o__27__058
+sober__27__059
+taboada__27__060
+trabada__27__061
+triacastela__27__062
+valadouro, o__27__063
+vicedo, o__27__064
+vilalba__27__065
+viveiro__27__066
+xermade__27__021
+xove__27__025
+acebeda, la__28__001
+ajalvir__28__002
+alameda del valle__28__003
+álamo, el__28__004
+alcalá de henares__28__005
+alcobendas__28__006
+alcorcón__28__007
+aldea del fresno__28__008
+algete__28__009
+alpedrete__28__010
+ambite__28__011
+anchuelo__28__012
+aranjuez__28__013
+arganda del rey__28__014
+arroyomolinos__28__015
+atazar, el__28__016
+batres__28__017
+becerril de la sierra__28__018
+belmonte de tajo__28__019
+berrueco, el__28__021
+berzosa del lozoya__28__020
+boadilla del monte__28__022
+boalo, el__28__023
+braojos__28__024
+brea de tajo__28__025
+brunete__28__026
+buitrago del lozoya__28__027
+bustarviejo__28__028
+cabanillas de la sierra__28__029
+cabrera, la__28__030
+cadalso de los vidrios__28__031
+camarma de esteruelas__28__032
+campo real__28__033
+canencia__28__034
+carabaña__28__035
+casarrubuelos__28__036
+cenicientos__28__037
+cercedilla__28__038
+cervera de buitrago__28__039
+chapinería__28__051
+chinchón__28__052
+ciempozuelos__28__040
+cobeña__28__041
+collado mediano__28__046
+collado villalba__28__047
+colmenar de oreja__28__043
+colmenar del arroyo__28__042
+colmenar viejo__28__045
+colmenarejo__28__044
+corpa__28__048
+coslada__28__049
+cubas de la sagra__28__050
+daganzo de arriba__28__053
+escorial, el__28__054
+estremera__28__055
+fresnedillas de la oliva__28__056
+fresno de torote__28__057
+fuenlabrada__28__058
+fuente el saz de jarama__28__059
+fuentidueña de tajo__28__060
+galapagar__28__061
+garganta de los montes__28__062
+gargantilla del lozoya y pinilla de buitrago__28__063
+gascones__28__064
+getafe__28__065
+griñón__28__066
+guadalix de la sierra__28__067
+guadarrama__28__068
+hiruela, la__28__069
+horcajo de la sierra-aoslos__28__070
+horcajuelo de la sierra__28__071
+hoyo de manzanares__28__072
+humanes de madrid__28__073
+leganés__28__074
+loeches__28__075
+lozoya__28__076
+lozoyuela-navas-sieteiglesias__28__901
+madarcos__28__078
+madrid__28__079
+majadahonda__28__080
+manzanares el real__28__082
+meco__28__083
+mejorada del campo__28__084
+miraflores de la sierra__28__085
+molar, el__28__086
+molinos, los__28__087
+montejo de la sierra__28__088
+moraleja de enmedio__28__089
+moralzarzal__28__090
+morata de tajuña__28__091
+móstoles__28__092
+navacerrada__28__093
+navalafuente__28__094
+navalagamella__28__095
+navalcarnero__28__096
+navarredonda y san mamés__28__097
+navas del rey__28__099
+nuevo baztán__28__100
+olmeda de las fuentes__28__101
+orusco de tajuña__28__102
+paracuellos de jarama__28__104
+parla__28__106
+patones__28__107
+pedrezuela__28__108
+pelayos de la presa__28__109
+perales de tajuña__28__110
+pezuela de las torres__28__111
+pinilla del valle__28__112
+pinto__28__113
+piñuécar-gandullas__28__114
+pozuelo de alarcón__28__115
+pozuelo del rey__28__116
+prádena del rincón__28__117
+puebla de la sierra__28__118
+puentes viejas__28__902
+quijorna__28__119
+rascafría__28__120
+redueña__28__121
+ribatejada__28__122
+rivas-vaciamadrid__28__123
+robledillo de la jara__28__124
+robledo de chavela__28__125
+robregordo__28__126
+rozas de madrid, las__28__127
+rozas de puerto real__28__128
+san agustín del guadalix__28__129
+san fernando de henares__28__130
+san lorenzo de el escorial__28__131
+san martín de la vega__28__132
+san martín de valdeiglesias__28__133
+san sebastián de los reyes__28__134
+santa maría de la alameda__28__135
+santorcaz__28__136
+santos de la humosa, los__28__137
+serna del monte, la__28__138
+serranillos del valle__28__140
+sevilla la nueva__28__141
+somosierra__28__143
+soto del real__28__144
+talamanca de jarama__28__145
+tielmes__28__146
+titulcia__28__147
+torrejón de ardoz__28__148
+torrejón de la calzada__28__149
+torrejón de velasco__28__150
+torrelaguna__28__151
+torrelodones__28__152
+torremocha de jarama__28__153
+torres de la alameda__28__154
+tres cantos__28__903
+valdaracete__28__155
+valdeavero__28__156
+valdelaguna__28__157
+valdemanco__28__158
+valdemaqueda__28__159
+valdemorillo__28__160
+valdemoro__28__161
+valdeolmos-alalpardo__28__162
+valdepiélagos__28__163
+valdetorres de jarama__28__164
+valdilecha__28__165
+valverde de alcalá__28__166
+velilla de san antonio__28__167
+vellón, el__28__168
+venturada__28__169
+villa del prado__28__171
+villaconejos__28__170
+villalbilla__28__172
+villamanrique de tajo__28__173
+villamanta__28__174
+villamantilla__28__175
+villanueva de la cañada__28__176
+villanueva de perales__28__178
+villanueva del pardillo__28__177
+villar del olmo__28__179
+villarejo de salvanés__28__180
+villaviciosa de odón__28__181
+villavieja del lozoya__28__182
+zarzalejo__28__183
+alameda__29__001
+alcaucín__29__002
+alfarnate__29__003
+alfarnatejo__29__004
+algarrobo__29__005
+algatocín__29__006
+alhaurín de la torre__29__007
+alhaurín el grande__29__008
+almáchar__29__009
+almargen__29__010
+almogía__29__011
+álora__29__012
+alozaina__29__013
+alpandeire__29__014
+antequera__29__015
+árchez__29__016
+archidona__29__017
+ardales__29__018
+arenas__29__019
+arriate__29__020
+atajate__29__021
+benadalid__29__022
+benahavís__29__023
+benalauría__29__024
+benalmádena__29__025
+benamargosa__29__026
+benamocarra__29__027
+benaoján__29__028
+benarrabá__29__029
+borge, el__29__030
+burgo, el__29__031
+campillos__29__032
+canillas de aceituno__29__033
+canillas de albaida__29__034
+cañete la real__29__035
+carratraca__29__036
+cartajima__29__037
+cártama__29__038
+casabermeja__29__039
+casarabonela__29__040
+casares__29__041
+coín__29__042
+colmenar__29__043
+comares__29__044
+cómpeta__29__045
+cortes de la frontera__29__046
+cuevas bajas__29__047
+cuevas de san marcos__29__049
+cuevas del becerro__29__048
+cútar__29__050
+estepona__29__051
+faraján__29__052
+frigiliana__29__053
+fuengirola__29__054
+fuente de piedra__29__055
+gaucín__29__056
+genalguacil__29__057
+guaro__29__058
+humilladero__29__059
+igualeja__29__060
+istán__29__061
+iznate__29__062
+jimera de líbar__29__063
+jubrique__29__064
+júzcar__29__065
+macharaviaya__29__066
+málaga__29__067
+manilva__29__068
+marbella__29__069
+mijas__29__070
+moclinejo__29__071
+mollina__29__072
+monda__29__073
+montecorto__29__903
+montejaque__29__074
+nerja__29__075
+ojén__29__076
+parauta__29__077
+periana__29__079
+pizarra__29__080
+pujerra__29__081
+rincón de la victoria__29__082
+riogordo__29__083
+ronda__29__084
+salares__29__085
+sayalonga__29__086
+sedella__29__087
+serrato__29__904
+sierra de yeguas__29__088
+teba__29__089
+tolox__29__090
+torremolinos__29__901
+torrox__29__091
+totalán__29__092
+valle de abdalajís__29__093
+vélez-málaga__29__094
+villanueva de algaidas__29__095
+villanueva de la concepción__29__902
+villanueva de tapia__29__098
+villanueva del rosario__29__096
+villanueva del trabuco__29__097
+viñuela__29__099
+yunquera__29__100
+abanilla__30__001
+abarán__30__002
+águilas__30__003
+albudeite__30__004
+alcantarilla__30__005
+alcázares, los__30__902
+aledo__30__006
+alguazas__30__007
+alhama de murcia__30__008
+archena__30__009
+beniel__30__010
+blanca__30__011
+bullas__30__012
+calasparra__30__013
+campos del río__30__014
+caravaca de la cruz__30__015
+cartagena__30__016
+cehegín__30__017
+ceutí__30__018
+cieza__30__019
+fortuna__30__020
+fuente álamo de murcia__30__021
+jumilla__30__022
+librilla__30__023
+lorca__30__024
+lorquí__30__025
+mazarrón__30__026
+molina de segura__30__027
+moratalla__30__028
+mula__30__029
+murcia__30__030
+ojós__30__031
+pliego__30__032
+puerto lumbreras__30__033
+ricote__30__034
+san javier__30__035
+san pedro del pinatar__30__036
+santomera__30__901
+torre-pacheco__30__037
+torres de cotillas, las__30__038
+totana__30__039
+ulea__30__040
+unión, la__30__041
+villanueva del río segura__30__042
+yecla__30__043
+abáigar__31__001
+abárzuza/abartzuza__31__002
+abaurregaina/abaurrea alta__31__003
+abaurrepea/abaurrea baja__31__004
+aberin__31__005
+ablitas__31__006
+adiós__31__007
+aguilar de codés__31__008
+aibar/oibar__31__009
+allín/allin__31__011
+allo__31__012
+altsasu/alsasua__31__010
+améscoa baja__31__013
+ancín/antzin__31__014
+andosilla__31__015
+ansoáin/antsoain__31__016
+anue__31__017
+añorbe__31__018
+aoiz/agoitz__31__019
+araitz__31__020
+arakil__31__025
+aranarache/aranaratxe__31__021
+aranguren__31__023
+arano__31__024
+arantza__31__022
+aras__31__026
+arbizu__31__027
+arce/artzi__31__028
+arcos, los__31__029
+arellano__31__030
+areso__31__031
+arguedas__31__032
+aria__31__033
+aribe__31__034
+armañanzas__31__035
+arróniz__31__036
+arruazu__31__037
+artajona__31__038
+artazu__31__039
+atez/atetz__31__040
+auritz/burguete__31__058
+ayegui/aiegi__31__041
+azagra__31__042
+azuelo__31__043
+bakaiku__31__044
+barañáin/barañain__31__901
+barásoain__31__045
+barbarin__31__046
+bargota__31__047
+barillas__31__048
+basaburua__31__049
+baztan__31__050
+beintza-labaien__31__137
+beire__31__051
+belascoáin__31__052
+bera__31__250
+berbinzana__31__053
+beriáin__31__905
+berrioplano/berriobeiti__31__902
+berriozar__31__903
+bertizarana__31__054
+betelu__31__055
+bidaurreta__31__253
+biurrun-olcoz__31__056
+buñuel__31__057
+burgui/burgi__31__059
+burlada/burlata__31__060
+busto, el__31__061
+cabanillas__31__062
+cabredo__31__063
+cadreita__31__064
+caparroso__31__065
+cárcar__31__066
+carcastillo__31__067
+cascante__31__068
+cáseda__31__069
+castejón__31__070
+castillonuevo__31__071
+cendea de olza/oltza zendea__31__193
+cintruénigo__31__072
+cirauqui/zirauki__31__074
+ciriza/ziritza__31__075
+cizur__31__076
+corella__31__077
+cortes__31__078
+desojo__31__079
+dicastillo__31__080
+donamaria__31__081
+doneztebe/santesteban__31__221
+echarri/etxarri__31__083
+elgorriaga__31__087
+enériz/eneritz__31__089
+eratsun__31__090
+ergoiena__31__091
+erro__31__092
+eslava__31__094
+esparza de salazar/espartza zaraitzu__31__095
+espronceda__31__096
+estella-lizarra__31__097
+esteribar__31__098
+etayo__31__099
+etxalar__31__082
+etxarri aranatz__31__084
+etxauri__31__085
+eulate__31__100
+ezcabarte__31__101
+ezcároz/ezkaroze__31__093
+ezkurra__31__102
+ezprogui__31__103
+falces__31__104
+fitero__31__105
+fontellas__31__106
+funes__31__107
+fustiñana__31__108
+galar__31__109
+gallipienzo/galipentzu__31__110
+gallués/galoze__31__111
+garaioa__31__112
+garde__31__113
+garínoain__31__114
+garralda__31__115
+genevilla__31__116
+goizueta__31__117
+goñi__31__118
+güesa/gorza__31__119
+guesálaz/gesalatz__31__120
+guirguillano__31__121
+hiriberri/villanueva de aezkoa__31__256
+huarte/uharte__31__122
+ibargoiti__31__124
+igantzi__31__259
+igúzquiza__31__125
+imotz__31__126
+irañeta__31__127
+irurtzun__31__904
+isaba/izaba__31__128
+ituren__31__129
+iturmendi__31__130
+iza/itza__31__131
+izagaondoa__31__132
+izalzu/itzaltzu__31__133
+jaurrieta__31__134
+javier__31__135
+juslapeña__31__136
+lakuntza__31__138
+lana__31__139
+lantz__31__140
+lapoblación__31__141
+larraga__31__142
+larraona__31__143
+larraun__31__144
+lazagurría__31__145
+leache/leatxe__31__146
+legarda__31__147
+legaria__31__148
+leitza__31__149
+lekunberri__31__908
+leoz/leotz__31__150
+lerga__31__151
+lerín__31__152
+lesaka__31__153
+lezáun__31__154
+liédena__31__155
+lizoáin-arriasgoiti__31__156
+lodosa__31__157
+lónguida/longida__31__158
+lumbier__31__159
+luquin__31__160
+luzaide/valcarlos__31__248
+mañeru__31__161
+marañón__31__162
+marcilla__31__163
+mélida__31__164
+mendavia__31__165
+mendaza__31__166
+mendigorría__31__167
+metauten__31__168
+milagro__31__169
+mirafuentes__31__170
+miranda de arga__31__171
+monreal/elo__31__172
+monteagudo__31__173
+morentin__31__174
+mues__31__175
+murchante__31__176
+murieta__31__177
+murillo el cuende__31__178
+murillo el fruto__31__179
+muruzábal__31__180
+navascués/nabaskoze__31__181
+nazar__31__182
+noáin (valle de elorz)/noain (elortzibar)__31__088
+obanos__31__183
+ochagavía/otsagabia__31__185
+oco__31__184
+odieta__31__186
+oiz__31__187
+olaibar__31__188
+olazti/olazagutía__31__189
+olejua__31__190
+olite/erriberri__31__191
+olóriz/oloritz__31__192
+orbaizeta__31__195
+orbara__31__196
+orísoain__31__197
+orkoien__31__906
+oronz/orontze__31__198
+oroz-betelu/orotz-betelu__31__199
+orreaga/roncesvalles__31__211
+oteiza__31__200
+pamplona/iruña__31__201
+peralta/azkoien__31__202
+petilla de aragón__31__203
+piedramillera__31__204
+pitillas__31__205
+puente la reina/gares__31__206
+pueyo__31__207
+ribaforada__31__208
+romanzado__31__209
+roncal/erronkari__31__210
+sada__31__212
+saldías__31__213
+salinas de oro/jaitz__31__214
+san adrián__31__215
+san martín de unx__31__217
+sangüesa/zangoza__31__216
+sansol__31__219
+santacara__31__220
+sarriés/sartze__31__222
+sartaguda__31__223
+sesma__31__224
+sorlada__31__225
+sunbilla__31__226
+tafalla__31__227
+tiebas-muruarte de reta__31__228
+tirapu__31__229
+torralba del río__31__230
+torres del río__31__231
+tudela__31__232
+tulebras__31__233
+ucar__31__234
+uharte arakil__31__123
+ujué/uxue__31__235
+ultzama__31__236
+unciti__31__237
+unzué/untzue__31__238
+urdazubi/urdax__31__239
+urdiain__31__240
+urraul alto__31__241
+urraul bajo__31__242
+urroz__31__244
+urroz-villa__31__243
+urzainqui/urzainki__31__245
+uterga__31__246
+uztárroz/uztarroze__31__247
+valle de egüés/eguesibar__31__086
+valle de ollo/ollaran__31__194
+valle de yerri/deierri__31__260
+valtierra__31__249
+viana__31__251
+vidángoz/bidankoze__31__252
+villafranca__31__254
+villamayor de monjardín__31__255
+villatuerta__31__257
+villava/atarrabia__31__258
+yesa__31__261
+zabalza/zabaltza__31__262
+ziordia__31__073
+zizur mayor/zizur nagusia__31__907
+zubieta__31__263
+zugarramurdi__31__264
+zúñiga__31__265
+allariz__32__001
+amoeiro__32__002
+arnoia, a__32__003
+avión__32__004
+baltar__32__005
+bande__32__006
+baños de molgas__32__007
+barbadás__32__008
+barco de valdeorras, o__32__009
+beade__32__010
+beariz__32__011
+blancos, os__32__012
+boborás__32__013
+bola, a__32__014
+bolo, o__32__015
+calvos de randín__32__016
+carballeda de avia__32__018
+carballeda de valdeorras__32__017
+carballiño, o__32__019
+cartelle__32__020
+castrelo de miño__32__022
+castrelo do val__32__021
+castro caldelas__32__023
+celanova__32__024
+cenlle__32__025
+chandrexa de queixa__32__029
+coles__32__026
+cortegada__32__027
+cualedro__32__028
+entrimo__32__030
+esgos__32__031
+gomesende__32__033
+gudiña, a__32__034
+irixo, o__32__035
+larouco__32__038
+laza__32__039
+leiro__32__040
+lobeira__32__041
+lobios__32__042
+maceda__32__043
+manzaneda__32__044
+maside__32__045
+melón__32__046
+merca, a__32__047
+mezquita, a__32__048
+montederramo__32__049
+monterrei__32__050
+muíños__32__051
+nogueira de ramuín__32__052
+oímbra__32__053
+ourense__32__054
+paderne de allariz__32__055
+padrenda__32__056
+parada de sil__32__057
+pereiro de aguiar, o__32__058
+peroxa, a__32__059
+petín__32__060
+piñor__32__061
+pobra de trives, a__32__063
+pontedeva__32__064
+porqueira__32__062
+punxín__32__065
+quintela de leirado__32__066
+rairiz de veiga__32__067
+ramirás__32__068
+ribadavia__32__069
+riós__32__071
+rúa, a__32__072
+rubiá__32__073
+san amaro__32__074
+san cibrao das viñas__32__075
+san cristovo de cea__32__076
+san xoán de río__32__070
+sandiás__32__077
+sarreaus__32__078
+taboadela__32__079
+teixeira, a__32__080
+toén__32__081
+trasmiras__32__082
+veiga, a__32__083
+verea__32__084
+verín__32__085
+viana do bolo__32__086
+vilamarín__32__087
+vilamartín de valdeorras__32__088
+vilar de barrio__32__089
+vilar de santos__32__090
+vilardevós__32__091
+vilariño de conso__32__092
+xinzo de limia__32__032
+xunqueira de ambía__32__036
+xunqueira de espadanedo__32__037
+allande__33__001
+aller__33__002
+amieva__33__003
+avilés__33__004
+belmonte de miranda__33__005
+bimenes__33__006
+boal__33__007
+cabrales__33__008
+cabranes__33__009
+candamo__33__010
+cangas de onís__33__012
+cangas del narcea__33__011
+caravia__33__013
+carreño__33__014
+caso__33__015
+castrillón__33__016
+castropol__33__017
+coaña__33__018
+colunga__33__019
+corvera de asturias__33__020
+cudillero__33__021
+degaña__33__022
+franco, el__33__023
+gijón__33__024
+gozón__33__025
+grado__33__026
+grandas de salime__33__027
+ibias__33__028
+illano__33__029
+illas__33__030
+langreo__33__031
+laviana__33__032
+lena__33__033
+llanera__33__035
+llanes__33__036
+mieres__33__037
+morcín__33__038
+muros de nalón__33__039
+nava__33__040
+navia__33__041
+noreña__33__042
+onís__33__043
+oviedo__33__044
+parres__33__045
+peñamellera alta__33__046
+peñamellera baja__33__047
+pesoz__33__048
+piloña__33__049
+ponga__33__050
+pravia__33__051
+proaza__33__052
+quirós__33__053
+regueras, las__33__054
+ribadedeva__33__055
+ribadesella__33__056
+ribera de arriba__33__057
+riosa__33__058
+salas__33__059
+san martín de oscos__33__061
+san martín del rey aurelio__33__060
+san tirso de abres__33__063
+santa eulalia de oscos__33__062
+santo adriano__33__064
+sariego__33__065
+siero__33__066
+sobrescobio__33__067
+somiedo__33__068
+soto del barco__33__069
+tapia de casariego__33__070
+taramundi__33__071
+teverga__33__072
+tineo__33__073
+valdés__33__034
+vegadeo__33__074
+villanueva de oscos__33__075
+villaviciosa__33__076
+villayón__33__077
+yernes y tameza__33__078
+abarca de campos__34__001
+abia de las torres__34__003
+aguilar de campoo__34__004
+alar del rey__34__005
+alba de cerrato__34__006
+amayuelas de arriba__34__009
+ampudia__34__010
+amusco__34__011
+antigüedad__34__012
+arconada__34__015
+astudillo__34__017
+autilla del pino__34__018
+autillo de campos__34__019
+ayuela__34__020
+baltanás__34__022
+baquerín de campos__34__024
+bárcena de campos__34__025
+barruelo de santullán__34__027
+báscones de ojeda__34__028
+becerril de campos__34__029
+belmonte de campos__34__031
+berzosilla__34__032
+boada de campos__34__033
+boadilla de rioseco__34__035
+boadilla del camino__34__034
+brañosera__34__036
+buenavista de valdavia__34__037
+bustillo de la vega__34__038
+bustillo del páramo de carrión__34__039
+calahorra de boedo__34__041
+calzada de los molinos__34__042
+capillas__34__045
+cardeñosa de volpejera__34__046
+carrión de los condes__34__047
+castil de vela__34__048
+castrejón de la peña__34__049
+castrillo de don juan__34__050
+castrillo de onielo__34__051
+castrillo de villavega__34__052
+castromocho__34__053
+cervatos de la cueza__34__055
+cervera de pisuerga__34__056
+cevico de la torre__34__057
+cevico navero__34__058
+cisneros__34__059
+cobos de cerrato__34__060
+collazos de boedo__34__061
+congosto de valdavia__34__062
+cordovilla la real__34__063
+cubillas de cerrato__34__066
+dehesa de montejo__34__067
+dehesa de romanos__34__068
+dueñas__34__069
+espinosa de cerrato__34__070
+espinosa de villagonzalo__34__071
+frechilla__34__072
+fresno del río__34__073
+frómista__34__074
+fuentes de nava__34__076
+fuentes de valdepero__34__077
+grijota__34__079
+guardo__34__080
+guaza de campos__34__081
+hérmedes de cerrato__34__082
+herrera de pisuerga__34__083
+herrera de valdecañas__34__084
+hontoria de cerrato__34__086
+hornillos de cerrato__34__087
+husillos__34__088
+itero de la vega__34__089
+lagartos__34__091
+lantadilla__34__092
+ledigos__34__094
+loma de ucieza__34__903
+lomas__34__096
+magaz de pisuerga__34__098
+manquillos__34__099
+mantinos__34__100
+marcilla de campos__34__101
+mazariegos__34__102
+mazuecos de valdeginate__34__103
+melgar de yuso__34__104
+meneses de campos__34__106
+micieces de ojeda__34__107
+monzón de campos__34__108
+moratinos__34__109
+mudá__34__110
+nogal de las huertas__34__112
+olea de boedo__34__113
+olmos de ojeda__34__114
+osornillo__34__116
+osorno la mayor__34__901
+palencia__34__120
+palenzuela__34__121
+páramo de boedo__34__122
+paredes de nava__34__123
+payo de ojeda__34__124
+pedraza de campos__34__125
+pedrosa de la vega__34__126
+perales__34__127
+pernía, la__34__904
+pino del río__34__129
+piña de campos__34__130
+población de arroyo__34__131
+población de campos__34__132
+población de cerrato__34__133
+polentinos__34__134
+pomar de valdivia__34__135
+poza de la vega__34__136
+pozo de urama__34__137
+prádanos de ojeda__34__139
+puebla de valdavia, la__34__140
+quintana del puente__34__141
+quintanilla de onsoña__34__143
+reinoso de cerrato__34__146
+renedo de la vega__34__147
+requena de campos__34__149
+respenda de la peña__34__151
+revenga de campos__34__152
+revilla de collazos__34__154
+ribas de campos__34__155
+riberos de la cueza__34__156
+saldaña__34__157
+salinas de pisuerga__34__158
+san cebrián de campos__34__159
+san cebrián de mudá__34__160
+san cristóbal de boedo__34__161
+san mamés de campos__34__163
+san román de la cuba__34__165
+santa cecilia del alcor__34__167
+santa cruz de boedo__34__168
+santervás de la vega__34__169
+santibáñez de ecla__34__170
+santibáñez de la peña__34__171
+santoyo__34__174
+serna, la__34__175
+soto de cerrato__34__177
+sotobañado y priorato__34__176
+tabanera de cerrato__34__178
+tabanera de valdavia__34__179
+támara de campos__34__180
+tariego de cerrato__34__181
+torquemada__34__182
+torremormojón__34__184
+triollo__34__185
+valbuena de pisuerga__34__186
+valdeolmillos__34__189
+valderrábano__34__190
+valde-ucieza__34__192
+valle de cerrato__34__196
+valle del retortillo__34__902
+velilla del río carrión__34__199
+venta de baños__34__023
+vertavillo__34__201
+vid de ojeda, la__34__093
+villabasta de valdavia__34__202
+villacidaler__34__204
+villaconancio__34__205
+villada__34__206
+villaeles de valdavia__34__208
+villahán__34__210
+villaherreros__34__211
+villalaco__34__213
+villalba de guardo__34__214
+villalcázar de sirga__34__215
+villalcón__34__216
+villalobón__34__217
+villaluenga de la vega__34__218
+villamartín de campos__34__220
+villamediana__34__221
+villameriel__34__222
+villamoronta__34__223
+villamuera de la cueza__34__224
+villamuriel de cerrato__34__225
+villanueva del rebollar__34__227
+villanuño de valdavia__34__228
+villaprovedo__34__229
+villarmentero de campos__34__230
+villarrabé__34__231
+villarramiel__34__232
+villasarracino__34__233
+villasila de valdavia__34__234
+villaturde__34__236
+villaumbrales__34__237
+villaviudas__34__238
+villerías de campos__34__240
+villodre__34__241
+villodrigo__34__242
+villoldo__34__243
+villota del páramo__34__245
+villovieco__34__246
+agaete__35__001
+agüimes__35__002
+aldea de san nicolás, la__35__020
+antigua__35__003
+arrecife__35__004
+artenara__35__005
+arucas__35__006
+betancuria__35__007
+firgas__35__008
+gáldar__35__009
+haría__35__010
+ingenio__35__011
+mogán__35__012
+moya__35__013
+oliva, la__35__014
+pájara__35__015
+palmas de gran canaria, las__35__016
+puerto del rosario__35__017
+san bartolomé__35__018
+san bartolomé de tirajana__35__019
+santa brígida__35__021
+santa lucía de tirajana__35__022
+santa maría de guía de gran canaria__35__023
+teguise__35__024
+tejeda__35__025
+telde__35__026
+teror__35__027
+tías__35__028
+tinajo__35__029
+tuineje__35__030
+valleseco__35__032
+valsequillo de gran canaria__35__031
+vega de san mateo__35__033
+yaiza__35__034
+agolada__36__020
+arbo__36__001
+baiona__36__003
+barro__36__002
+bueu__36__004
+caldas de reis__36__005
+cambados__36__006
+campo lameiro__36__007
+cangas__36__008
+cañiza, a__36__009
+catoira__36__010
+cerdedo-cotobade__36__902
+covelo__36__013
+crecente__36__014
+cuntis__36__015
+dozón__36__016
+estrada, a__36__017
+forcarei__36__018
+fornelos de montes__36__019
+gondomar__36__021
+grove, o__36__022
+guarda, a__36__023
+illa de arousa, a__36__901
+lalín__36__024
+lama, a__36__025
+marín__36__026
+meaño__36__027
+meis__36__028
+moaña__36__029
+mondariz__36__030
+mondariz-balneario__36__031
+moraña__36__032
+mos__36__033
+neves, as__36__034
+nigrán__36__035
+oia__36__036
+pazos de borbén__36__037
+poio__36__041
+ponte caldelas__36__043
+ponteareas__36__042
+pontecesures__36__044
+pontevedra__36__038
+porriño, o__36__039
+portas__36__040
+redondela__36__045
+ribadumia__36__046
+rodeiro__36__047
+rosal, o__36__048
+salceda de caselas__36__049
+salvaterra de miño__36__050
+sanxenxo__36__051
+silleda__36__052
+soutomaior__36__053
+tomiño__36__054
+tui__36__055
+valga__36__056
+vigo__36__057
+vila de cruces__36__059
+vilaboa__36__058
+vilagarcía de arousa__36__060
+vilanova de arousa__36__061
+abusejo__37__001
+agallas__37__002
+ahigal de los aceiteros__37__003
+ahigal de villarino__37__004
+alameda de gardón, la__37__005
+alamedilla, la__37__006
+alaraz__37__007
+alba de tormes__37__008
+alba de yeltes__37__009
+alberca, la__37__010
+alberguería de argañán, la__37__011
+alconada__37__012
+aldea del obispo__37__015
+aldeacipreste__37__013
+aldeadávila de la ribera__37__014
+aldealengua__37__016
+aldeanueva de figueroa__37__017
+aldeanueva de la sierra__37__018
+aldearrodrigo__37__019
+aldearrubia__37__020
+aldeaseca de alba__37__021
+aldeaseca de la frontera__37__022
+aldeatejada__37__023
+aldeavieja de tormes__37__024
+aldehuela de la bóveda__37__025
+aldehuela de yeltes__37__026
+almenara de tormes__37__027
+almendra__37__028
+anaya de alba__37__029
+añover de tormes__37__030
+arabayona de mógica__37__031
+arapiles__37__032
+arcediano__37__033
+arco, el__37__034
+armenteros__37__035
+atalaya, la__37__037
+babilafuente__37__038
+bañobárez__37__039
+barbadillo__37__040
+barbalos__37__041
+barceo__37__042
+barruecopardo__37__044
+bastida, la__37__045
+béjar__37__046
+beleña__37__047
+bermellar__37__049
+berrocal de huebra__37__050
+berrocal de salvatierra__37__051
+boada__37__052
+bodón, el__37__054
+bogajo__37__055
+bouza, la__37__056
+bóveda del río almar__37__057
+brincones__37__058
+buenamadre__37__059
+buenavista__37__060
+cabaco, el__37__061
+cabeza de béjar, la__37__063
+cabeza del caballo__37__065
+cabezabellosa de la calzada__37__062
+cabrerizos__37__067
+cabrillas__37__068
+calvarrasa de abajo__37__069
+calvarrasa de arriba__37__070
+calzada de béjar, la__37__071
+calzada de don diego__37__072
+calzada de valdunciel__37__073
+campillo de azaba__37__074
+campo de peñaranda, el__37__077
+candelario__37__078
+canillas de abajo__37__079
+cantagallo__37__080
+cantalapiedra__37__081
+cantalpino__37__082
+cantaracillo__37__083
+carbajosa de la sagrada__37__085
+carpio de azaba__37__086
+carrascal de barregas__37__087
+carrascal del obispo__37__088
+casafranca__37__089
+casas del conde, las__37__090
+casillas de flores__37__091
+castellanos de moriscos__37__092
+castellanos de villiquera__37__185
+castillejo de martín viejo__37__096
+castraz__37__097
+cepeda__37__098
+cereceda de la sierra__37__099
+cerezal de peñahorcada__37__100
+cerralbo__37__101
+cerro, el__37__102
+cespedosa de tormes__37__103
+chagarcía medianero__37__114
+cilleros de la bastida__37__104
+cipérez__37__106
+ciudad rodrigo__37__107
+coca de alba__37__108
+colmenar de montemayor__37__109
+cordovilla__37__110
+cristóbal__37__112
+cubo de don sancho, el__37__113
+dios le guarde__37__115
+doñinos de ledesma__37__116
+doñinos de salamanca__37__117
+éjeme__37__118
+encina de san silvestre__37__120
+encina, la__37__119
+encinas de abajo__37__121
+encinas de arriba__37__122
+encinasola de los comendadores__37__123
+endrinal__37__124
+escurial de la sierra__37__125
+espadaña__37__126
+espeja__37__127
+espino de la orbada__37__128
+florida de liébana__37__129
+forfoleda__37__130
+frades de la sierra__37__131
+fregeneda, la__37__132
+fresnedoso__37__133
+fresno alhándiga__37__134
+fuente de san esteban, la__37__135
+fuenteguinaldo__37__136
+fuenteliante__37__137
+fuenterroble de salvatierra__37__138
+fuentes de béjar__37__139
+fuentes de oñoro__37__140
+gajates__37__141
+galindo y perahuy__37__142
+galinduste__37__143
+galisancho__37__144
+gallegos de argañán__37__145
+gallegos de solmirón__37__146
+garcibuey__37__147
+garcihernández__37__148
+garcirrey__37__149
+gejuelo del barro__37__150
+golpejas__37__151
+gomecello__37__152
+guadramiro__37__154
+guijo de ávila__37__155
+guijuelo__37__156
+herguijuela de ciudad rodrigo__37__157
+herguijuela de la sierra__37__158
+herguijuela del campo__37__159
+hinojosa de duero__37__160
+horcajo de montemayor__37__161
+horcajo medianero__37__162
+hoya, la__37__163
+huerta__37__164
+iruelos__37__165
+ituero de azaba__37__166
+juzbado__37__167
+lagunilla__37__168
+larrodrigo__37__169
+ledesma__37__170
+ledrada__37__171
+linares de riofrío__37__172
+lumbrales__37__173
+machacón__37__175
+macotera__37__174
+madroñal__37__176
+maíllo, el__37__177
+malpartida__37__178
+mancera de abajo__37__179
+manzano, el__37__180
+martiago__37__181
+martín de yeltes__37__183
+martinamor__37__182
+masueco__37__184
+mata de ledesma, la__37__186
+matilla de los caños del río__37__187
+maya, la__37__188
+membribe de la sierra__37__189
+mieza__37__190
+milano, el__37__191
+miranda de azán__37__192
+miranda del castañar__37__193
+mogarraz__37__194
+molinillo__37__195
+monforte de la sierra__37__196
+monleón__37__197
+monleras__37__198
+monsagro__37__199
+montejo__37__200
+montemayor del río__37__201
+monterrubio de armuña__37__202
+monterrubio de la sierra__37__203
+morasverdes__37__204
+morille__37__205
+moríñigo__37__206
+moriscos__37__207
+moronta__37__208
+mozárbez__37__209
+narros de matalayegua__37__211
+nava de béjar__37__213
+nava de francia__37__214
+nava de sotrobal__37__215
+navacarros__37__212
+navales__37__216
+navalmoral de béjar__37__217
+navamorales__37__218
+navarredonda de la rinconada__37__219
+navasfrías__37__221
+negrilla de palencia__37__222
+olmedo de camaces__37__223
+orbada, la__37__224
+pajares de la laguna__37__225
+palacios del arzobispo__37__226
+palaciosrubios__37__228
+palencia de negrilla__37__229
+parada de arriba__37__230
+parada de rubiales__37__231
+paradinas de san juan__37__232
+pastores__37__233
+payo, el__37__234
+pedraza de alba__37__235
+pedrosillo de alba__37__236
+pedrosillo de los aires__37__237
+pedrosillo el ralo__37__238
+pedroso de la armuña, el__37__239
+pelabravo__37__240
+pelarrodríguez__37__241
+pelayos__37__242
+peña, la__37__243
+peñacaballera__37__244
+peñaparda__37__245
+peñaranda de bracamonte__37__246
+peñarandilla__37__247
+peralejos de abajo__37__248
+peralejos de arriba__37__249
+pereña de la ribera__37__250
+peromingo__37__251
+pinedas__37__252
+pino de tormes, el__37__253
+pitiegua__37__254
+pizarral__37__255
+poveda de las cintas__37__256
+pozos de hinojo__37__257
+puebla de azaba__37__258
+puebla de san medel__37__259
+puebla de yeltes__37__260
+puente del congosto__37__261
+puertas__37__262
+puerto de béjar__37__263
+puerto seguro__37__264
+rágama__37__265
+redonda, la__37__266
+retortillo__37__267
+rinconada de la sierra, la__37__268
+robleda__37__269
+robliza de cojos__37__270
+rollán__37__271
+saelices el chico__37__272
+sagrada, la__37__273
+sahugo, el__37__303
+salamanca__37__274
+saldeana__37__275
+salmoral__37__276
+salvatierra de tormes__37__277
+san cristóbal de la cuesta__37__278
+san esteban de la sierra__37__284
+san felices de los gallegos__37__285
+san martín del castañar__37__286
+san miguel de valero__37__287
+san miguel del robledo__37__036
+san morales__37__288
+san muñoz__37__289
+san pedro de rozados__37__291
+san pedro del valle__37__290
+san pelayo de guareña__37__292
+sanchón de la ribera__37__280
+sanchón de la sagrada__37__281
+sanchotello__37__282
+sancti-spíritus__37__279
+sando__37__283
+santa maría de sando__37__293
+santa marta de tormes__37__294
+santiago de la puebla__37__296
+santibáñez de béjar__37__297
+santibáñez de la sierra__37__298
+santiz__37__299
+santos, los__37__300
+sardón de los frailes__37__301
+saucelle__37__302
+sepulcro-hilario__37__304
+sequeros__37__305
+serradilla del arroyo__37__306
+serradilla del llano__37__307
+sierpe, la__37__309
+sieteiglesias de tormes__37__310
+sobradillo__37__311
+sorihuela__37__312
+sotoserrano__37__313
+tabera de abajo__37__314
+tala, la__37__315
+tamames__37__316
+tarazona de guareña__37__317
+tardáguila__37__318
+tejado, el__37__319
+tejeda y segoyuela__37__320
+tenebrón__37__321
+terradillos__37__322
+topas__37__323
+tordillos__37__324
+tornadizo, el__37__325
+torresmenudas__37__327
+trabanca__37__328
+tremedal de tormes__37__329
+valdecarros__37__330
+valdefuentes de sangusín__37__331
+valdehijaderos__37__332
+valdelacasa__37__333
+valdelageve__37__334
+valdelosa__37__335
+valdemierque__37__336
+valderrodrigo__37__337
+valdunciel__37__338
+valero__37__339
+vallejera de riofrío__37__343
+valsalabroso__37__340
+valverde de valdelacasa__37__341
+valverdón__37__342
+vecinos__37__344
+vega de tirados__37__345
+veguillas, las__37__346
+vellés, la__37__347
+ventosa del río almar__37__348
+vídola, la__37__349
+villaflores__37__351
+villagonzalo de tormes__37__352
+villalba de los llanos__37__353
+villamayor__37__354
+villanueva del conde__37__355
+villar de argañán__37__356
+villar de ciervo__37__357
+villar de gallimazo__37__358
+villar de la yegua__37__359
+villar de peralonso__37__360
+villar de samaniego__37__361
+villares de la reina__37__362
+villares de yeltes__37__363
+villarino de los aires__37__364
+villarmayor__37__365
+villarmuerto__37__366
+villasbuenas__37__367
+villasdardo__37__368
+villaseco de los gamitos__37__369
+villaseco de los reyes__37__370
+villasrubias__37__371
+villaverde de guareña__37__372
+villavieja de yeltes__37__373
+villoria__37__374
+villoruela__37__375
+vilvestre__37__350
+vitigudino__37__376
+yecla de yeltes__37__377
+zamarra__37__378
+zamayón__37__379
+zarapicos__37__380
+zarza de pumareda, la__37__381
+zorita de la frontera__37__382
+adeje__38__001
+agulo__38__002
+alajeró__38__003
+arafo__38__004
+arico__38__005
+arona__38__006
+barlovento__38__007
+breña alta__38__008
+breña baja__38__009
+buenavista del norte__38__010
+candelaria__38__011
+fasnia__38__012
+frontera__38__013
+fuencaliente de la palma__38__014
+garachico__38__015
+garafía__38__016
+granadilla de abona__38__017
+guancha, la__38__018
+guía de isora__38__019
+güímar__38__020
+hermigua__38__021
+icod de los vinos__38__022
+llanos de aridane, los__38__024
+matanza de acentejo, la__38__025
+orotava, la__38__026
+paso, el__38__027
+pinar de el hierro, el__38__901
+puerto de la cruz__38__028
+puntagorda__38__029
+puntallana__38__030
+realejos, los__38__031
+rosario, el__38__032
+san andrés y sauces__38__033
+san cristóbal de la laguna__38__023
+san juan de la rambla__38__034
+san miguel de abona__38__035
+san sebastián de la gomera__38__036
+santa cruz de la palma__38__037
+santa cruz de tenerife__38__038
+santa úrsula__38__039
+santiago del teide__38__040
+sauzal, el__38__041
+silos, los__38__042
+tacoronte__38__043
+tanque, el__38__044
+tazacorte__38__045
+tegueste__38__046
+tijarafe__38__047
+valle gran rey__38__049
+vallehermoso__38__050
+valverde__38__048
+victoria de acentejo, la__38__051
+vilaflor de chasna__38__052
+villa de mazo__38__053
+alfoz de lloredo__39__001
+ampuero__39__002
+anievas__39__003
+arenas de iguña__39__004
+argoños__39__005
+arnuero__39__006
+arredondo__39__007
+astillero, el__39__008
+bárcena de cicero__39__009
+bárcena de pie de concha__39__010
+bareyo__39__011
+cabezón de la sal__39__012
+cabezón de liébana__39__013
+cabuérniga__39__014
+camaleño__39__015
+camargo__39__016
+campoo de enmedio__39__027
+campoo de yuso__39__017
+cartes__39__018
+castañeda__39__019
+castro-urdiales__39__020
+cieza__39__021
+cillorigo de liébana__39__022
+colindres__39__023
+comillas__39__024
+corrales de buelna, los__39__025
+corvera de toranzo__39__026
+entrambasaguas__39__028
+escalante__39__029
+guriezo__39__030
+hazas de cesto__39__031
+hermandad de campoo de suso__39__032
+herrerías__39__033
+lamasón__39__034
+laredo__39__035
+liendo__39__036
+liérganes__39__037
+limpias__39__038
+luena__39__039
+marina de cudeyo__39__040
+mazcuerras__39__041
+medio cudeyo__39__042
+meruelo__39__043
+miengo__39__044
+miera__39__045
+molledo__39__046
+noja__39__047
+penagos__39__048
+peñarrubia__39__049
+pesaguero__39__050
+pesquera__39__051
+piélagos__39__052
+polaciones__39__053
+polanco__39__054
+potes__39__055
+puente viesgo__39__056
+ramales de la victoria__39__057
+rasines__39__058
+reinosa__39__059
+reocín__39__060
+ribamontán al mar__39__061
+ribamontán al monte__39__062
+rionansa__39__063
+riotuerto__39__064
+rozas de valdearroyo, las__39__065
+ruente__39__066
+ruesga__39__067
+ruiloba__39__068
+san felices de buelna__39__069
+san miguel de aguayo__39__070
+san pedro del romeral__39__071
+san roque de riomiera__39__072
+san vicente de la barquera__39__080
+santa cruz de bezana__39__073
+santa maría de cayón__39__074
+santander__39__075
+santillana del mar__39__076
+santiurde de reinosa__39__077
+santiurde de toranzo__39__078
+santoña__39__079
+saro__39__081
+selaya__39__082
+soba__39__083
+solórzano__39__084
+suances__39__085
+tojos, los__39__086
+torrelavega__39__087
+tresviso__39__088
+tudanca__39__089
+udías__39__090
+val de san vicente__39__095
+valdáliga__39__091
+valdeolea__39__092
+valdeprado del río__39__093
+valderredible__39__094
+valle de villaverde__39__101
+vega de liébana__39__096
+vega de pas__39__097
+villacarriedo__39__098
+villaescusa__39__099
+villafufre__39__100
+voto__39__102
+abades__40__001
+adrada de pirón__40__002
+adrados__40__003
+aguilafuente__40__004
+alconada de maderuelo__40__005
+aldea real__40__012
+aldealcorvo__40__006
+aldealengua de pedraza__40__007
+aldealengua de santa maría__40__008
+aldeanueva de la serrezuela__40__009
+aldeanueva del codonal__40__010
+aldeasoña__40__013
+aldehorno__40__014
+aldehuela del codonal__40__015
+aldeonte__40__016
+anaya__40__017
+añe__40__018
+arahuetes__40__019
+arcones__40__020
+arevalillo de cega__40__021
+armuña__40__022
+ayllón__40__024
+barbolla__40__025
+basardilla__40__026
+bercial__40__028
+bercimuel__40__029
+bernardos__40__030
+bernuy de porreros__40__031
+boceguillas__40__032
+brieva__40__033
+caballar__40__034
+cabañas de polendos__40__035
+cabezuela__40__036
+calabazas de fuentidueña__40__037
+campo de san pedro__40__039
+cantalejo__40__040
+cantimpalos__40__041
+carabias__40__161
+carbonero el mayor__40__043
+carrascal del río__40__044
+casla__40__045
+castillejo de mesleón__40__046
+castro de fuentidueña__40__047
+castrojimeno__40__048
+castroserna de abajo__40__049
+castroserracín__40__051
+cedillo de la torre__40__052
+cerezo de abajo__40__053
+cerezo de arriba__40__054
+chañe__40__065
+cilleruelo de san mamés__40__055
+cobos de fuentidueña__40__056
+coca__40__057
+codorniz__40__058
+collado hermoso__40__059
+condado de castilnovo__40__060
+corral de ayllón__40__061
+cozuelos de fuentidueña__40__902
+cubillo__40__062
+cuéllar__40__063
+cuevas de provanco__40__905
+domingo garcía__40__068
+donhierro__40__069
+duruelo__40__070
+encinas__40__071
+encinillas__40__072
+escalona del prado__40__073
+escarabajosa de cabezas__40__074
+escobar de polendos__40__075
+espinar, el__40__076
+espirdo__40__077
+fresneda de cuéllar__40__078
+fresno de cantespino__40__079
+fresno de la fuente__40__080
+frumales__40__081
+fuente de santa cruz__40__082
+fuente el olmo de fuentidueña__40__083
+fuente el olmo de íscar__40__084
+fuentepelayo__40__086
+fuentepiñel__40__087
+fuenterrebollo__40__088
+fuentesaúco de fuentidueña__40__089
+fuentesoto__40__091
+fuentidueña__40__092
+gallegos__40__093
+garcillán__40__094
+gomezserracín__40__095
+grajera__40__097
+honrubia de la cuesta__40__099
+hontalbilla__40__100
+hontanares de eresma__40__101
+huertos, los__40__103
+ituero y lama__40__104
+juarros de riomoros__40__105
+juarros de voltoya__40__106
+labajos__40__107
+laguna de contreras__40__108
+languilla__40__109
+lastras de cuéllar__40__110
+lastras del pozo__40__111
+lastrilla, la__40__112
+losa, la__40__113
+maderuelo__40__115
+marazoleja__40__903
+marazuela__40__118
+martín miguel__40__119
+martín muñoz de la dehesa__40__120
+martín muñoz de las posadas__40__121
+marugán__40__122
+mata de cuéllar__40__124
+matabuena__40__123
+matilla, la__40__125
+melque de cercos__40__126
+membibre de la hoz__40__127
+migueláñez__40__128
+montejo de arévalo__40__129
+montejo de la vega de la serrezuela__40__130
+monterrubio__40__131
+moral de hornuez__40__132
+mozoncillo__40__134
+muñopedro__40__135
+muñoveros__40__136
+nava de la asunción__40__138
+navafría__40__139
+navalilla__40__140
+navalmanzano__40__141
+navares de ayuso__40__142
+navares de enmedio__40__143
+navares de las cuevas__40__144
+navas de oro__40__145
+navas de riofrío__40__904
+navas de san antonio__40__146
+nieva__40__148
+olombrada__40__149
+orejana__40__150
+ortigosa de pestaño__40__151
+ortigosa del monte__40__901
+otero de herreros__40__152
+pajarejos__40__154
+palazuelos de eresma__40__155
+pedraza__40__156
+pelayos del arroyo__40__157
+perosillo__40__158
+pinarejos__40__159
+pinarnegrillo__40__160
+prádena__40__162
+puebla de pedraza__40__163
+rapariegos__40__164
+real sitio de san ildefonso__40__181
+rebollo__40__165
+remondo__40__166
+riaguas de san bartolomé__40__168
+riaza__40__170
+ribota__40__171
+riofrío de riaza__40__172
+roda de eresma__40__173
+sacramenia__40__174
+samboal__40__176
+san cristóbal de cuéllar__40__177
+san cristóbal de la vega__40__178
+san cristóbal de segovia__40__906
+san martín y mudrián__40__182
+san miguel de bernuy__40__183
+san pedro de gaíllos__40__184
+sanchonuño__40__179
+sangarcía__40__180
+santa maría la real de nieva__40__185
+santa marta del cerro__40__186
+santiuste de pedraza__40__188
+santiuste de san juan bautista__40__189
+santo domingo de pirón__40__190
+santo tomé del puerto__40__191
+sauquillo de cabezas__40__192
+sebúlcor__40__193
+segovia__40__194
+sepúlveda__40__195
+sequera de fresno__40__196
+sotillo__40__198
+sotosalbos__40__199
+tabanera la luenga__40__200
+tolocirio__40__201
+torre val de san pedro__40__206
+torreadrada__40__202
+torrecaballeros__40__203
+torrecilla del pinar__40__204
+torreiglesias__40__205
+trescasas__40__207
+turégano__40__208
+urueñas__40__210
+valdeprados__40__211
+valdevacas de montejo__40__212
+valdevacas y guijar__40__213
+valle de tabladillo__40__218
+vallelado__40__219
+valleruela de pedraza__40__220
+valleruela de sepúlveda__40__221
+valseca__40__214
+valtiendas__40__215
+valverde del majano__40__216
+veganzones__40__222
+vegas de matute__40__223
+ventosilla y tejadilla__40__224
+villacastín__40__225
+villaverde de íscar__40__228
+villaverde de montejo__40__229
+villeguillo__40__230
+yanguas de eresma__40__231
+zarzuela del monte__40__233
+zarzuela del pinar__40__234
+aguadulce__41__001
+alanís__41__002
+albaida del aljarafe__41__003
+alcalá de guadaíra__41__004
+alcalá del río__41__005
+alcolea del río__41__006
+algaba, la__41__007
+algámitas__41__008
+almadén de la plata__41__009
+almensilla__41__010
+arahal__41__011
+aznalcázar__41__012
+aznalcóllar__41__013
+badolatosa__41__014
+benacazón__41__015
+bollullos de la mitación__41__016
+bormujos__41__017
+brenes__41__018
+burguillos__41__019
+cabezas de san juan, las__41__020
+camas__41__021
+campana, la__41__022
+cantillana__41__023
+cañada rosal__41__901
+carmona__41__024
+carrión de los céspedes__41__025
+casariche__41__026
+castilblanco de los arroyos__41__027
+castilleja de guzmán__41__028
+castilleja de la cuesta__41__029
+castilleja del campo__41__030
+castillo de las guardas, el__41__031
+cazalla de la sierra__41__032
+constantina__41__033
+coria del río__41__034
+coripe__41__035
+coronil, el__41__036
+corrales, los__41__037
+cuervo de sevilla, el__41__903
+dos hermanas__41__038
+écija__41__039
+espartinas__41__040
+estepa__41__041
+fuentes de andalucía__41__042
+garrobo, el__41__043
+gelves__41__044
+gerena__41__045
+gilena__41__046
+gines__41__047
+guadalcanal__41__048
+guillena__41__049
+herrera__41__050
+huévar del aljarafe__41__051
+isla mayor__41__902
+lantejuela__41__052
+lebrija__41__053
+lora de estepa__41__054
+lora del río__41__055
+luisiana, la__41__056
+madroño, el__41__057
+mairena del alcor__41__058
+mairena del aljarafe__41__059
+marchena__41__060
+marinaleda__41__061
+martín de la jara__41__062
+molares, los__41__063
+montellano__41__064
+morón de la frontera__41__065
+navas de la concepción, las__41__066
+olivares__41__067
+osuna__41__068
+palacios y villafranca, los__41__069
+palomares del río__41__070
+paradas__41__071
+pedrera__41__072
+pedroso, el__41__073
+peñaflor__41__074
+pilas__41__075
+pruna__41__076
+puebla de cazalla, la__41__077
+puebla de los infantes, la__41__078
+puebla del río, la__41__079
+real de la jara, el__41__080
+rinconada, la__41__081
+roda de andalucía, la__41__082
+ronquillo, el__41__083
+rubio, el__41__084
+salteras__41__085
+san juan de aznalfarache__41__086
+san nicolás del puerto__41__088
+sanlúcar la mayor__41__087
+santiponce__41__089
+saucejo, el__41__090
+sevilla__41__091
+tocina__41__092
+tomares__41__093
+umbrete__41__094
+utrera__41__095
+valencina de la concepción__41__096
+villamanrique de la condesa__41__097
+villanueva de san juan__41__100
+villanueva del ariscal__41__098
+villanueva del río y minas__41__099
+villaverde del río__41__101
+viso del alcor, el__41__102
+abejar__42__001
+adradas__42__003
+ágreda__42__004
+alconaba__42__006
+alcubilla de avellaneda__42__007
+alcubilla de las peñas__42__008
+aldealafuente__42__009
+aldealices__42__010
+aldealpozo__42__011
+aldealseñor__42__012
+aldehuela de periáñez__42__013
+aldehuelas, las__42__014
+alentisque__42__015
+aliud__42__016
+almajano__42__017
+almaluez__42__018
+almarza__42__019
+almazán__42__020
+almazul__42__021
+almenar de soria__42__022
+alpanseque__42__023
+arancón__42__024
+arcos de jalón__42__025
+arenillas__42__026
+arévalo de la sierra__42__027
+ausejo de la sierra__42__028
+baraona__42__029
+barca__42__030
+barcones__42__031
+bayubas de abajo__42__032
+bayubas de arriba__42__033
+beratón__42__034
+berlanga de duero__42__035
+blacos__42__036
+bliecos__42__037
+borjabad__42__038
+borobia__42__039
+buberos__42__041
+buitrago__42__042
+burgo de osma-ciudad de osma__42__043
+cabrejas del campo__42__044
+cabrejas del pinar__42__045
+calatañazor__42__046
+caltojar__42__048
+candilichera__42__049
+cañamaque__42__050
+carabantes__42__051
+caracena__42__052
+carrascosa de abajo__42__053
+carrascosa de la sierra__42__054
+casarejos__42__055
+castilfrío de la sierra__42__056
+castillejo de robledo__42__058
+castilruiz__42__057
+centenera de andaluz__42__059
+cerbón__42__060
+cidones__42__061
+cigudosa__42__062
+cihuela__42__063
+ciria__42__064
+cirujales del río__42__065
+coscurita__42__068
+covaleda__42__069
+cubilla__42__070
+cubo de la solana__42__071
+cueva de ágreda__42__073
+dévanos__42__075
+deza__42__076
+duruelo de la sierra__42__078
+escobosa de almazán__42__079
+espeja de san marcelino__42__080
+espejón__42__081
+estepa de san juan__42__082
+frechilla de almazán__42__083
+fresno de caracena__42__084
+fuentearmegil__42__085
+fuentecambrón__42__086
+fuentecantos__42__087
+fuentelmonge__42__088
+fuentelsaz de soria__42__089
+fuentepinilla__42__090
+fuentes de magaña__42__092
+fuentestrún__42__093
+garray__42__094
+golmayo__42__095
+gómara__42__096
+gormaz__42__097
+herrera de soria__42__098
+hinojosa del campo__42__100
+langa de duero__42__103
+liceras__42__105
+losilla, la__42__106
+magaña__42__107
+maján__42__108
+matalebreras__42__110
+matamala de almazán__42__111
+medinaceli__42__113
+miño de medinaceli__42__115
+miño de san esteban__42__116
+molinos de duero__42__117
+momblona__42__118
+monteagudo de las vicarías__42__119
+montejo de tiermes__42__120
+montenegro de cameros__42__121
+morón de almazán__42__123
+muriel de la fuente__42__124
+muriel viejo__42__125
+nafría de ucero__42__127
+narros__42__128
+navaleno__42__129
+nepas__42__130
+nolay__42__131
+noviercas__42__132
+ólvega__42__134
+oncala__42__135
+pinilla del campo__42__139
+portillo de soria__42__140
+póveda de soria, la__42__141
+pozalmuro__42__142
+quintana redonda__42__144
+quintanas de gormaz__42__145
+quiñonería__42__148
+rábanos, los__42__149
+rebollar__42__151
+recuerda__42__152
+rello__42__153
+renieblas__42__154
+retortillo de soria__42__155
+reznos__42__156
+riba de escalote, la__42__157
+rioseco de soria__42__158
+rollamienta__42__159
+royo, el__42__160
+salduero__42__161
+san esteban de gormaz__42__162
+san felices__42__163
+san leonardo de yagüe__42__164
+san pedro manrique__42__165
+santa cruz de yanguas__42__166
+santa maría de huerta__42__167
+santa maría de las hoyas__42__168
+serón de nágima__42__171
+soliedra__42__172
+soria__42__173
+sotillo del rincón__42__174
+suellacabras__42__175
+tajahuerce__42__176
+tajueco__42__177
+talveila__42__178
+tardelcuende__42__181
+taroda__42__182
+tejado__42__183
+torlengua__42__184
+torreblacos__42__185
+torrubia de soria__42__187
+trévago__42__188
+ucero__42__189
+vadillo__42__190
+valdeavellano de tera__42__191
+valdegeña__42__192
+valdelagua del cerro__42__193
+valdemaluque__42__194
+valdenebro__42__195
+valdeprado__42__196
+valderrodilla__42__197
+valtajeros__42__198
+velamazán__42__200
+velilla de la sierra__42__201
+velilla de los ajos__42__202
+viana de duero__42__204
+villaciervos__42__205
+villanueva de gormaz__42__206
+villar del ala__42__207
+villar del campo__42__208
+villar del río__42__209
+villares de soria, los__42__211
+villasayas__42__212
+villaseca de arciel__42__213
+vinuesa__42__215
+vizmanos__42__216
+vozmediano__42__217
+yanguas__42__218
+yelo__42__219
+aiguamúrcia__43__001
+albinyana__43__002
+albiol, l'__43__003
+alcanar__43__004
+alcover__43__005
+aldea, l'__43__904
+aldover__43__006
+aleixar, l'__43__007
+alfara de carles__43__008
+alforja__43__009
+alió__43__010
+almoster__43__011
+altafulla__43__012
+ametlla de mar, l'__43__013
+ampolla, l'__43__906
+amposta__43__014
+arboç, l'__43__016
+arbolí__43__015
+argentera, l'__43__017
+arnes__43__018
+ascó__43__019
+banyeres del penedès__43__020
+barberà de la conca__43__021
+batea__43__022
+bellmunt del priorat__43__023
+bellvei__43__024
+benifallet__43__025
+benissanet__43__026
+bisbal de falset, la__43__027
+bisbal del penedès, la__43__028
+blancafort__43__029
+bonastre__43__030
+borges del camp, les__43__031
+bot__43__032
+botarell__43__033
+bràfim__43__034
+cabacés__43__035
+cabra del camp__43__036
+calafell__43__037
+camarles__43__903
+cambrils__43__038
+canonja, la__43__907
+capafonts__43__039
+capçanes__43__040
+caseres__43__041
+castellvell del camp__43__042
+catllar, el__43__043
+colldejou__43__045
+conesa__43__046
+constantí__43__047
+corbera d'ebre__43__048
+cornudella de montsant__43__049
+creixell__43__050
+cunit__43__051
+deltebre__43__901
+duesaigües__43__053
+espluga de francolí, l'__43__054
+falset__43__055
+fatarella, la__43__056
+febró, la__43__057
+figuera, la__43__058
+figuerola del camp__43__059
+flix__43__060
+forès__43__061
+freginals__43__062
+galera, la__43__063
+gandesa__43__064
+garcia__43__065
+garidells, els__43__066
+ginestar__43__067
+godall__43__068
+gratallops__43__069
+guiamets, els__43__070
+horta de sant joan__43__071
+lloar, el__43__072
+llorac__43__073
+llorenç del penedès__43__074
+marçà__43__076
+margalef__43__075
+mas de barberans__43__077
+masdenverge__43__078
+masllorenç__43__079
+masó, la__43__080
+maspujols__43__081
+masroig, el__43__082
+milà, el__43__083
+miravet__43__084
+molar, el__43__085
+montblanc__43__086
+montbrió del camp__43__088
+montferri__43__089
+montmell, el__43__090
+mont-ral__43__091
+mont-roig del camp__43__092
+móra d'ebre__43__093
+móra la nova__43__094
+morell, el__43__095
+morera de montsant, la__43__096
+nou de gaià, la__43__097
+nulles__43__098
+pallaresos, els__43__100
+palma d'ebre, la__43__099
+passanant i belltall__43__101
+paüls__43__102
+perafort__43__103
+perelló, el__43__104
+piles, les__43__105
+pinell de brai, el__43__106
+pira__43__107
+pla de santa maria, el__43__108
+pobla de mafumet, la__43__109
+pobla de massaluca, la__43__110
+pobla de montornès, la__43__111
+poboleda__43__112
+pont d'armentera, el__43__113
+pontils__43__141
+porrera__43__114
+pradell de la teixeta__43__115
+prades__43__116
+prat de comte__43__117
+pratdip__43__118
+puigpelat__43__119
+querol__43__120
+rasquera__43__121
+renau__43__122
+reus__43__123
+riba, la__43__124
+riba-roja d'ebre__43__125
+riera de gaià, la__43__126
+riudecanyes__43__127
+riudecols__43__128
+riudoms__43__129
+rocafort de queralt__43__130
+roda de berà__43__131
+rodonyà__43__132
+roquetes__43__133
+rourell, el__43__134
+salomó__43__135
+salou__43__905
+sant carles de la ràpita__43__136
+sant jaume dels domenys__43__137
+sant jaume d'enveja__43__902
+santa bàrbara__43__138
+santa coloma de queralt__43__139
+santa oliva__43__140
+sarral__43__142
+savallà del comtat__43__143
+secuita, la__43__144
+selva del camp, la__43__145
+senan__43__146
+sénia, la__43__044
+solivella__43__147
+tarragona__43__148
+tivenys__43__149
+tivissa__43__150
+torre de fontaubella, la__43__151
+torre de l'espanyol, la__43__152
+torredembarra__43__153
+torroja del priorat__43__154
+tortosa__43__155
+ulldecona__43__156
+ulldemolins__43__157
+vallclara__43__158
+vallfogona de riucorb__43__159
+vallmoll__43__160
+valls__43__161
+vandellòs i l'hospitalet de l'infant__43__162
+vendrell, el__43__163
+vespella de gaià__43__164
+vilabella__43__165
+vilalba dels arcs__43__175
+vilallonga del camp__43__166
+vilanova de prades__43__168
+vilanova d'escornalbou__43__167
+vilaplana__43__169
+vila-rodona__43__170
+vila-seca__43__171
+vilaverd__43__172
+vilella alta, la__43__173
+vilella baixa, la__43__174
+vimbodí i poblet__43__176
+vinebre__43__177
+vinyols i els arcs__43__178
+xerta__43__052
+ababuj__44__001
+abejuela__44__002
+aguatón__44__003
+aguaviva__44__004
+aguilar del alfambra__44__005
+alacón__44__006
+alba__44__007
+albalate del arzobispo__44__008
+albarracín__44__009
+albentosa__44__010
+alcaine__44__011
+alcalá de la selva__44__012
+alcañiz__44__013
+alcorisa__44__014
+alfambra__44__016
+aliaga__44__017
+allepuz__44__021
+alloza__44__022
+allueva__44__023
+almohaja__44__018
+alobras__44__019
+alpeñés__44__020
+anadón__44__024
+andorra__44__025
+arcos de las salinas__44__026
+arens de lledó__44__027
+argente__44__028
+ariño__44__029
+azaila__44__031
+bádenas__44__032
+báguena__44__033
+bañón__44__034
+barrachina__44__035
+bea__44__036
+beceite__44__037
+bello__44__039
+belmonte de san josé__44__038
+berge__44__040
+bezas__44__041
+blancas__44__042
+blesa__44__043
+bordón__44__044
+bronchales__44__045
+bueña__44__046
+burbáguena__44__047
+cabra de mora__44__048
+calaceite__44__049
+calamocha__44__050
+calanda__44__051
+calomarde__44__052
+camañas__44__053
+camarena de la sierra__44__054
+camarillas__44__055
+caminreal__44__056
+cantavieja__44__059
+cañada de benatanduz__44__060
+cañada de verich, la__44__061
+cañada vellida__44__062
+cañizar del olivar__44__063
+cascante del río__44__064
+castejón de tornos__44__065
+castel de cabra__44__066
+castellar, el__44__070
+castellote__44__071
+castelnou__44__067
+castelserás__44__068
+cedrillas__44__074
+celadas__44__075
+cella__44__076
+cerollera, la__44__077
+codoñera, la__44__080
+corbalán__44__082
+cortes de aragón__44__084
+cosa__44__085
+cretas__44__086
+crivillén__44__087
+cuba, la__44__088
+cubla__44__089
+cucalón__44__090
+cuervo, el__44__092
+cuevas de almudén__44__093
+cuevas labradas__44__094
+ejulve__44__096
+escorihuela__44__097
+escucha__44__099
+estercuel__44__100
+ferreruela de huerva__44__101
+fonfría__44__102
+formiche alto__44__103
+fórnoles__44__105
+fortanete__44__106
+foz-calanda__44__107
+fresneda, la__44__108
+frías de albarracín__44__109
+fuenferrada__44__110
+fuentes calientes__44__111
+fuentes claras__44__112
+fuentes de rubielos__44__113
+fuentespalda__44__114
+galve__44__115
+gargallo__44__116
+gea de albarracín__44__117
+ginebrosa, la__44__118
+griegos__44__119
+guadalaviar__44__120
+gúdar__44__121
+híjar__44__122
+hinojosa de jarque__44__123
+hoz de la vieja, la__44__124
+huesa del común__44__125
+iglesuela del cid, la__44__126
+jabaloyas__44__127
+jarque de la val__44__128
+jatiel__44__129
+jorcas__44__130
+josa__44__131
+lagueruela__44__132
+lanzuela__44__133
+libros__44__135
+lidón__44__136
+linares de mora__44__137
+lledó__44__141
+loscos__44__138
+maicas__44__142
+manzanera__44__143
+martín del río__44__144
+mas de las matas__44__145
+mata de los olmos, la__44__146
+mazaleón__44__147
+mezquita de jarque__44__148
+mirambel__44__149
+miravete de la sierra__44__150
+molinos__44__151
+monforte de moyuela__44__152
+monreal del campo__44__153
+monroyo__44__154
+montalbán__44__155
+monteagudo del castillo__44__156
+monterde de albarracín__44__157
+mora de rubielos__44__158
+moscardón__44__159
+mosqueruela__44__160
+muniesa__44__161
+noguera de albarracín__44__163
+nogueras__44__164
+nogueruelas__44__165
+obón__44__167
+odón__44__168
+ojos negros__44__169
+olba__44__171
+oliete__44__172
+olmos, los__44__173
+orihuela del tremedal__44__174
+orrios__44__175
+palomar de arroyos__44__176
+pancrudo__44__177
+parras de castellote, las__44__178
+peñarroya de tastavins__44__179
+peracense__44__180
+peralejos__44__181
+perales del alfambra__44__182
+pitarque__44__183
+plou__44__184
+pobo, el__44__185
+portellada, la__44__187
+pozondón__44__189
+pozuel del campo__44__190
+puebla de híjar, la__44__191
+puebla de valverde, la__44__192
+puertomingalvo__44__193
+ráfales__44__194
+rillo__44__195
+riodeva__44__196
+ródenas__44__197
+royuela__44__198
+rubiales__44__199
+rubielos de la cérida__44__200
+rubielos de mora__44__201
+salcedillo__44__203
+saldón__44__204
+samper de calanda__44__205
+san agustín__44__206
+san martín del río__44__207
+santa cruz de nogueras__44__208
+santa eulalia__44__209
+sarrión__44__210
+segura de los baños__44__211
+seno__44__212
+singra__44__213
+terriente__44__215
+teruel__44__216
+toril y masegoso__44__217
+tormón__44__218
+tornos__44__219
+torralba de los sisones__44__220
+torre de arcas__44__223
+torre de las arcas__44__224
+torre del compte__44__225
+torre los negros__44__227
+torrecilla de alcañiz__44__221
+torrecilla del rebollar__44__222
+torrelacárcel__44__226
+torremocha de jiloca__44__228
+torres de albarracín__44__229
+torrevelilla__44__230
+torrijas__44__231
+torrijo del campo__44__232
+tramacastiel__44__234
+tramacastilla__44__235
+tronchón__44__236
+urrea de gaén__44__237
+utrillas__44__238
+valacloche__44__239
+valbona__44__240
+valdealgorfa__44__241
+valdecuenca__44__243
+valdelinares__44__244
+valdeltormo__44__245
+valderrobres__44__246
+valjunquera__44__247
+vallecillo, el__44__249
+veguillas de la sierra__44__250
+villafranca del campo__44__251
+villahermosa del campo__44__252
+villanueva del rebollar de la sierra__44__256
+villar del cobo__44__257
+villar del salz__44__258
+villarluengo__44__260
+villarquemado__44__261
+villarroya de los pinares__44__262
+villastar__44__263
+villel__44__264
+vinaceite__44__265
+visiedo__44__266
+vivel del río martín__44__267
+zoma, la__44__268
+ajofrín__45__001
+alameda de la sagra__45__002
+albarreal de tajo__45__003
+alcabón__45__004
+alcañizo__45__005
+alcaudete de la jara__45__006
+alcolea de tajo__45__007
+aldea en cabo__45__008
+aldeanueva de barbarroya__45__009
+aldeanueva de san bartolomé__45__010
+almendral de la cañada__45__011
+almonacid de toledo__45__012
+almorox__45__013
+añover de tajo__45__014
+arcicóllar__45__015
+argés__45__016
+azután__45__017
+barcience__45__018
+bargas__45__019
+belvís de la jara__45__020
+borox__45__021
+buenaventura__45__022
+burguillos de toledo__45__023
+burujón__45__024
+cabañas de la sagra__45__025
+cabañas de yepes__45__026
+cabezamesada__45__027
+calera y chozas__45__028
+caleruela__45__029
+calzada de oropesa__45__030
+camarena__45__031
+camarenilla__45__032
+campillo de la jara, el__45__033
+camuñas__45__034
+cardiel de los montes__45__035
+carmena__45__036
+carpio de tajo, el__45__037
+carranque__45__038
+carriches__45__039
+casar de escalona, el__45__040
+casarrubios del monte__45__041
+casasbuenas__45__042
+castillo de bayuela__45__043
+cazalegas__45__045
+cebolla__45__046
+cedillo del condado__45__047
+cerralbos, los__45__048
+cervera de los montes__45__049
+chozas de canales__45__056
+chueca__45__057
+ciruelos__45__050
+cobeja__45__051
+cobisa__45__052
+consuegra__45__053
+corral de almaguer__45__054
+cuerva__45__055
+domingo pérez__45__058
+dosbarrios__45__059
+erustes__45__060
+escalona__45__061
+escalonilla__45__062
+espinoso del rey__45__063
+esquivias__45__064
+estrella, la__45__065
+fuensalida__45__066
+gálvez__45__067
+garciotum__45__068
+gerindote__45__069
+guadamur__45__070
+guardia, la__45__071
+herencias, las__45__072
+herreruela de oropesa__45__073
+hinojosa de san vicente__45__074
+hontanar__45__075
+hormigos__45__076
+huecas__45__077
+huerta de valdecarábanos__45__078
+iglesuela, la__45__079
+illán de vacas__45__080
+illescas__45__081
+lagartera__45__082
+layos__45__083
+lillo__45__084
+lominchar__45__085
+lucillos__45__086
+madridejos__45__087
+magán__45__088
+malpica de tajo__45__089
+manzaneque__45__090
+maqueda__45__091
+marjaliza__45__092
+marrupe__45__093
+mascaraque__45__094
+mata, la__45__095
+mazarambroz__45__096
+mejorada__45__097
+menasalbas__45__098
+méntrida__45__099
+mesegar de tajo__45__100
+miguel esteban__45__101
+mocejón__45__102
+mohedas de la jara__45__103
+montearagón__45__104
+montesclaros__45__105
+mora__45__106
+nambroca__45__107
+nava de ricomalillo, la__45__108
+navahermosa__45__109
+navalcán__45__110
+navalmoralejo__45__111
+navalmorales, los__45__112
+navalucillos, los__45__113
+navamorcuende__45__114
+noblejas__45__115
+noez__45__116
+nombela__45__117
+novés__45__118
+numancia de la sagra__45__119
+nuño gómez__45__120
+ocaña__45__121
+olías del rey__45__122
+ontígola__45__123
+orgaz__45__124
+oropesa__45__125
+otero__45__126
+palomeque__45__127
+pantoja__45__128
+paredes de escalona__45__129
+parrillas__45__130
+pelahustán__45__131
+pepino__45__132
+polán__45__133
+portillo de toledo__45__134
+puebla de almoradiel, la__45__135
+puebla de montalbán, la__45__136
+pueblanueva, la__45__137
+puente del arzobispo, el__45__138
+puerto de san vicente__45__139
+pulgar__45__140
+quero__45__141
+quintanar de la orden__45__142
+quismondo__45__143
+real de san vicente, el__45__144
+recas__45__145
+retamoso de la jara__45__146
+rielves__45__147
+robledo del mazo__45__148
+romeral, el__45__149
+san bartolomé de las abiertas__45__150
+san martín de montalbán__45__151
+san martín de pusa__45__152
+san pablo de los montes__45__153
+san román de los montes__45__154
+santa ana de pusa__45__155
+santa cruz de la zarza__45__156
+santa cruz del retamar__45__157
+santa olalla__45__158
+santo domingo-caudilla__45__901
+sartajada__45__159
+segurilla__45__160
+seseña__45__161
+sevilleja de la jara__45__162
+sonseca__45__163
+sotillo de las palomas__45__164
+talavera de la reina__45__165
+tembleque__45__166
+toboso, el__45__167
+toledo__45__168
+torralba de oropesa__45__169
+torre de esteban hambrán, la__45__171
+torrecilla de la jara__45__170
+torrico__45__172
+torrijos__45__173
+totanés__45__174
+turleque__45__175
+ugena__45__176
+urda__45__177
+valdeverdeja__45__179
+valmojado__45__180
+velada__45__181
+ventas con peña aguilera, las__45__182
+ventas de retamosa, las__45__183
+ventas de san julián, las__45__184
+villa de don fadrique, la__45__186
+villacañas__45__185
+villafranca de los caballeros__45__187
+villaluenga de la sagra__45__188
+villamiel de toledo__45__189
+villaminaya__45__190
+villamuelas__45__191
+villanueva de alcardete__45__192
+villanueva de bogas__45__193
+villarejo de montalbán__45__194
+villarrubia de santiago__45__195
+villaseca de la sagra__45__196
+villasequilla__45__197
+villatobas__45__198
+viso de san juan, el__45__199
+yébenes, los__45__200
+yeles__45__201
+yepes__45__202
+yuncler__45__203
+yunclillos__45__204
+yuncos__45__205
+ademuz__46__001
+ador__46__002
+agullent__46__004
+aielo de malferit__46__042
+aielo de rugat__46__043
+alaquàs__46__005
+albaida__46__006
+albal__46__007
+albalat de la ribera__46__008
+albalat dels sorells__46__009
+albalat dels tarongers__46__010
+alberic__46__011
+alborache__46__012
+alboraia/alboraya__46__013
+albuixech__46__014
+alcàntera de xúquer__46__016
+alcàsser__46__015
+alcublas__46__018
+alcúdia de crespins, l'__46__020
+alcúdia, l'__46__019
+aldaia__46__021
+alfafar__46__022
+alfara de la baronia__46__024
+alfara del patriarca__46__025
+alfarp__46__026
+alfarrasí__46__027
+alfauir__46__023
+algar de palancia__46__028
+algemesí__46__029
+algimia de alfara__46__030
+alginet__46__031
+almàssera__46__032
+almiserà__46__033
+almoines__46__034
+almussafes__46__035
+alpuente__46__036
+alqueria de la comtessa, l'__46__037
+alzira__46__017
+andilla__46__038
+anna__46__039
+antella__46__040
+aras de los olmos__46__041
+atzeneta d'albaida__46__003
+ayora__46__044
+barx__46__046
+barxeta__46__045
+bèlgida__46__047
+bellreguard__46__048
+bellús__46__049
+benagéber__46__050
+benaguasil__46__051
+benavites__46__052
+beneixida__46__053
+benetússer__46__054
+beniarjó__46__055
+beniatjar__46__056
+benicolet__46__057
+benicull de xúquer__46__904
+benifaió__46__060
+benifairó de la valldigna__46__059
+benifairó de les valls__46__058
+beniflá__46__061
+benigànim__46__062
+benimodo__46__063
+benimuslem__46__064
+beniparrell__46__065
+benirredrà__46__066
+benissanó__46__067
+benissoda__46__068
+benissuera__46__069
+bétera__46__070
+bicorp__46__071
+bocairent__46__072
+bolbaite__46__073
+bonrepòs i mirambell__46__074
+bufali__46__075
+bugarra__46__076
+buñol__46__077
+burjassot__46__078
+calles__46__079
+camporrobles__46__080
+canals__46__081
+canet d'en berenguer__46__082
+carcaixent__46__083
+càrcer__46__084
+carlet__46__085
+carrícola__46__086
+casas altas__46__087
+casas bajas__46__088
+casinos__46__089
+castelló de rugat__46__090
+castellonet de la conquesta__46__091
+castielfabib__46__092
+catadau__46__093
+catarroja__46__094
+caudete de las fuentes__46__095
+cerdà__46__096
+chella__46__107
+chelva__46__106
+chera__46__108
+cheste__46__109
+chiva__46__111
+chulilla__46__112
+cofrentes__46__097
+corbera__46__098
+cortes de pallás__46__099
+cotes__46__100
+cullera__46__105
+daimús__46__113
+domeño__46__114
+dos aguas__46__115
+eliana, l'__46__116
+emperador__46__117
+enguera__46__118
+ènova, l'__46__119
+estivella__46__120
+estubeny__46__121
+faura__46__122
+favara__46__123
+foios__46__126
+font de la figuera, la__46__128
+font d'en carròs, la__46__127
+fontanars dels alforins__46__124
+fortaleny__46__125
+fuenterrobles__46__129
+gandia__46__131
+gátova__46__902
+gavarda__46__130
+genovés__46__132
+gestalgar__46__133
+gilet__46__134
+godella__46__135
+godelleta__46__136
+granja de la costera, la__46__137
+guadasséquies__46__138
+guadassuar__46__139
+guardamar de la safor__46__140
+higueruelas__46__141
+jalance__46__142
+jarafuel__46__144
+llanera de ranes__46__154
+llaurí__46__155
+llíria__46__147
+llocnou de la corona__46__152
+llocnou de sant jeroni__46__153
+llocnou d'en fenollet__46__151
+llombai__46__156
+llosa de ranes, la__46__157
+llutxent__46__150
+loriguilla__46__148
+losa del obispo__46__149
+macastre__46__158
+manises__46__159
+manuel__46__160
+marines__46__161
+massalavés__46__162
+massalfassar__46__163
+massamagrell__46__164
+massanassa__46__165
+meliana__46__166
+millares__46__167
+miramar__46__168
+mislata__46__169
+mogente/moixent__46__170
+moncada__46__171
+montaverner__46__173
+montesa__46__174
+montitxelvo/montichelvo__46__175
+montroi/montroy__46__176
+montserrat__46__172
+museros__46__177
+náquera__46__178
+navarrés__46__179
+novelé/novetlè__46__180
+oliva__46__181
+olleria, l'__46__183
+olocau__46__182
+ontinyent__46__184
+otos__46__185
+paiporta__46__186
+palma de gandía__46__187
+palmera__46__188
+palomar, el__46__189
+paterna__46__190
+pedralba__46__191
+petrés__46__192
+picanya__46__193
+picassent__46__194
+piles__46__195
+pinet__46__196
+pobla de farnals, la__46__199
+pobla de vallbona, la__46__202
+pobla del duc, la__46__200
+pobla llarga, la__46__203
+polinyà de xúquer__46__197
+potries__46__198
+puçol__46__205
+puebla de san miguel__46__201
+puig de santa maria, el__46__204
+quart de les valls__46__101
+quart de poblet__46__102
+quartell__46__103
+quatretonda__46__104
+quesa__46__206
+rafelbunyol__46__207
+rafelcofer__46__208
+rafelguaraf__46__209
+ráfol de salem__46__210
+real__46__212
+real de gandia, el__46__211
+requena__46__213
+riba-roja de túria__46__214
+riola__46__215
+rocafort__46__216
+rotglà i corberà__46__217
+rótova__46__218
+rugat__46__219
+sagunto/sagunt__46__220
+salem__46__221
+san antonio de benagéber__46__903
+sant joanet__46__222
+sedaví__46__223
+segart__46__224
+sellent__46__225
+sempere__46__226
+senyera__46__227
+serra__46__228
+siete aguas__46__229
+silla__46__230
+simat de la valldigna__46__231
+sinarcas__46__232
+sollana__46__233
+sot de chera__46__234
+sueca__46__235
+sumacàrcer__46__236
+tavernes blanques__46__237
+tavernes de la valldigna__46__238
+teresa de cofrentes__46__239
+terrateig__46__240
+titaguas__46__241
+torrebaja__46__242
+torrella__46__243
+torrent__46__244
+torres torres__46__245
+tous__46__246
+tuéjar__46__247
+turís__46__248
+utiel__46__249
+valència__46__250
+vallada__46__251
+vallanca__46__252
+vallés__46__253
+venta del moro__46__254
+vilallonga/villalonga__46__255
+vilamarxant__46__256
+villanueva de castellón__46__257
+villar del arzobispo__46__258
+villargordo del cabriel__46__259
+vinalesa__46__260
+xàtiva__46__145
+xeraco__46__143
+xeresa__46__146
+xirivella__46__110
+yátova__46__261
+yesa, la__46__262
+zarra__46__263
+adalia__47__001
+aguasal__47__002
+aguilar de campos__47__003
+alaejos__47__004
+alcazarén__47__005
+aldea de san miguel__47__006
+aldeamayor de san martín__47__007
+almenara de adaja__47__008
+amusquillo__47__009
+arroyo de la encomienda__47__010
+ataquines__47__011
+bahabón__47__012
+barcial de la loma__47__013
+barruelo del valle__47__014
+becilla de valderaduey__47__015
+benafarces__47__016
+bercero__47__017
+berceruelo__47__018
+berrueces__47__019
+bobadilla del campo__47__020
+bocigas__47__021
+bocos de duero__47__022
+boecillo__47__023
+bolaños de campos__47__024
+brahojos de medina__47__025
+bustillo de chaves__47__026
+cabezón de pisuerga__47__027
+cabezón de valderaduey__47__028
+cabreros del monte__47__029
+campaspero__47__030
+campillo, el__47__031
+camporredondo__47__032
+canalejas de peñafiel__47__033
+canillas de esgueva__47__034
+carpio__47__035
+casasola de arión__47__036
+castrejón de trabancos__47__037
+castrillo de duero__47__038
+castrillo-tejeriego__47__039
+castrobol__47__040
+castrodeza__47__041
+castromembibre__47__042
+castromonte__47__043
+castronuevo de esgueva__47__044
+castronuño__47__045
+castroponce__47__046
+castroverde de cerrato__47__047
+ceinos de campos__47__048
+cervillego de la cruz__47__049
+cigales__47__050
+ciguñuela__47__051
+cistérniga__47__052
+cogeces de íscar__47__053
+cogeces del monte__47__054
+corcos__47__055
+corrales de duero__47__056
+cubillas de santa marta__47__057
+cuenca de campos__47__058
+curiel de duero__47__059
+encinas de esgueva__47__060
+esguevillas de esgueva__47__061
+fombellida__47__062
+fompedraza__47__063
+fontihoyuelo__47__064
+fresno el viejo__47__065
+fuensaldaña__47__066
+fuente el sol__47__067
+fuente-olmedo__47__068
+gallegos de hornija__47__069
+gatón de campos__47__070
+geria__47__071
+herrín de campos__47__073
+hornillos de eresma__47__074
+íscar__47__075
+laguna de duero__47__076
+langayo__47__077
+llano de olmedo__47__079
+lomoviejo__47__078
+manzanillo__47__080
+marzales__47__081
+matapozuelos__47__082
+matilla de los caños__47__083
+mayorga__47__084
+medina de rioseco__47__086
+medina del campo__47__085
+megeces__47__087
+melgar de abajo__47__088
+melgar de arriba__47__089
+mojados__47__090
+monasterio de vega__47__091
+montealegre de campos__47__092
+montemayor de pililla__47__093
+moral de la reina__47__094
+moraleja de las panaderas__47__095
+morales de campos__47__096
+mota del marqués__47__097
+mucientes__47__098
+mudarra, la__47__099
+muriel__47__100
+nava del rey__47__101
+nueva villa de las torres__47__102
+olivares de duero__47__103
+olmedo__47__104
+olmos de esgueva__47__105
+olmos de peñafiel__47__106
+palazuelo de vedija__47__109
+parrilla, la__47__110
+pedraja de portillo, la__47__111
+pedrajas de san esteban__47__112
+pedrosa del rey__47__113
+peñafiel__47__114
+peñaflor de hornija__47__115
+pesquera de duero__47__116
+piña de esgueva__47__117
+piñel de abajo__47__118
+piñel de arriba__47__119
+pollos__47__121
+portillo__47__122
+pozal de gallinas__47__123
+pozaldez__47__124
+pozuelo de la orden__47__125
+puras__47__126
+quintanilla de arriba__47__127
+quintanilla de onésimo__47__129
+quintanilla de trigueros__47__130
+quintanilla del molar__47__128
+rábano__47__131
+ramiro__47__132
+renedo de esgueva__47__133
+roales de campos__47__134
+robladillo__47__135
+roturas__47__137
+rubí de bracamonte__47__138
+rueda__47__139
+saelices de mayorga__47__140
+salvador de zapardiel__47__141
+san cebrián de mazote__47__142
+san llorente__47__143
+san martín de valvení__47__144
+san miguel del arroyo__47__145
+san miguel del pino__47__146
+san pablo de la moraleja__47__147
+san pedro de latarce__47__148
+san pelayo__47__149
+san román de hornija__47__150
+san salvador__47__151
+san vicente del palacio__47__156
+santa eufemia del arroyo__47__152
+santervás de campos__47__153
+santibáñez de valcorba__47__154
+santovenia de pisuerga__47__155
+sardón de duero__47__157
+seca, la__47__158
+serrada__47__159
+siete iglesias de trabancos__47__160
+simancas__47__161
+tamariz de campos__47__162
+tiedra__47__163
+tordehumos__47__164
+tordesillas__47__165
+torre de esgueva__47__169
+torre de peñafiel__47__170
+torrecilla de la abadesa__47__166
+torrecilla de la orden__47__167
+torrecilla de la torre__47__168
+torrelobatón__47__171
+torrescárcela__47__172
+traspinedo__47__173
+trigueros del valle__47__174
+tudela de duero__47__175
+unión de campos, la__47__176
+urones de castroponce__47__177
+urueña__47__178
+valbuena de duero__47__179
+valdearcos de la vega__47__180
+valdenebro de los valles__47__181
+valdestillas__47__182
+valdunquillo__47__183
+valladolid__47__186
+valoria la buena__47__184
+valverde de campos__47__185
+vega de ruiponce__47__187
+vega de valdetronco__47__188
+velascálvaro__47__189
+velilla__47__190
+velliza__47__191
+ventosa de la cuesta__47__192
+viana de cega__47__193
+villabáñez__47__195
+villabaruz de campos__47__196
+villabrágima__47__197
+villacarralón__47__198
+villacid de campos__47__199
+villaco__47__200
+villafrades de campos__47__203
+villafranca de duero__47__204
+villafrechós__47__205
+villafuerte__47__206
+villagarcía de campos__47__207
+villagómez la nueva__47__208
+villalán de campos__47__209
+villalar de los comuneros__47__210
+villalba de la loma__47__211
+villalba de los alcores__47__212
+villalbarba__47__213
+villalón de campos__47__214
+villamuriel de campos__47__215
+villán de tordesillas__47__216
+villanubla__47__217
+villanueva de duero__47__218
+villanueva de la condesa__47__219
+villanueva de los caballeros__47__220
+villanueva de los infantes__47__221
+villanueva de san mancio__47__222
+villardefrades__47__223
+villarmentero de esgueva__47__224
+villasexmir__47__225
+villavaquerín__47__226
+villavellid__47__227
+villaverde de medina__47__228
+villavicencio de los caballeros__47__229
+viloria__47__194
+wamba__47__230
+zaratán__47__231
+zarza, la__47__232
+abadiño__48__001
+abanto y ciérvana-abanto zierbena__48__002
+ajangiz__48__911
+alonsotegi__48__912
+amorebieta-etxano__48__003
+amoroto__48__004
+arakaldo__48__005
+arantzazu__48__006
+areatza__48__093
+arrankudiaga__48__009
+arratzu__48__914
+arrieta__48__010
+arrigorriaga__48__011
+artea__48__023
+artzentales__48__008
+atxondo__48__091
+aulesti__48__070
+bakio__48__012
+balmaseda__48__090
+barakaldo__48__013
+barrika__48__014
+basauri__48__015
+bedia__48__092
+berango__48__016
+bermeo__48__017
+berriatua__48__018
+berriz__48__019
+bilbao__48__020
+busturia__48__021
+derio__48__901
+dima__48__026
+durango__48__027
+ea__48__028
+elantxobe__48__031
+elorrio__48__032
+erandio__48__902
+ereño__48__033
+ermua__48__034
+errigoiti__48__079
+etxebarri__48__029
+etxebarria__48__030
+forua__48__906
+fruiz__48__035
+galdakao__48__036
+galdames__48__037
+gamiz-fika__48__038
+garai__48__039
+gatika__48__040
+gautegiz arteaga__48__041
+gernika-lumo__48__046
+getxo__48__044
+gizaburuaga__48__047
+gordexola__48__042
+gorliz__48__043
+güeñes__48__045
+ibarrangelu__48__048
+igorre__48__094
+ispaster__48__049
+iurreta__48__910
+izurtza__48__050
+karrantza harana/valle de carranza__48__022
+kortezubi__48__907
+lanestosa__48__051
+larrabetzu__48__052
+laukiz__48__053
+leioa__48__054
+lekeitio__48__057
+lemoa__48__055
+lemoiz__48__056
+lezama__48__081
+loiu__48__903
+mallabia__48__058
+mañaria__48__059
+markina-xemein__48__060
+maruri-jatabe__48__061
+mendata__48__062
+mendexa__48__063
+meñaka__48__064
+morga__48__066
+mundaka__48__068
+mungia__48__069
+munitibar-arbatzegi gerrikaitz__48__007
+murueta__48__908
+muskiz__48__071
+muxika__48__067
+nabarniz__48__909
+ondarroa__48__073
+orozko__48__075
+ortuella__48__083
+otxandio__48__072
+plentzia__48__077
+portugalete__48__078
+santurtzi__48__082
+sestao__48__084
+sondika__48__904
+sopela__48__085
+sopuerta__48__086
+sukarrieta__48__076
+trucios-turtzioz__48__087
+ubide__48__088
+ugao-miraballes__48__065
+urduliz__48__089
+urduña/orduña__48__074
+valle de trápaga-trapagaran__48__080
+zaldibar__48__095
+zalla__48__096
+zamudio__48__905
+zaratamo__48__097
+zeanuri__48__024
+zeberio__48__025
+zierbena__48__913
+ziortza-bolibar__48__915
+abezames__49__002
+alcañices__49__003
+alcubilla de nogales__49__004
+alfaraz de sayago__49__005
+algodre__49__006
+almaraz de duero__49__007
+almeida de sayago__49__008
+andavías__49__009
+arcenillas__49__010
+arcos de la polvorosa__49__011
+argañín__49__012
+argujillo__49__013
+arquillinos__49__014
+arrabalde__49__015
+aspariegos__49__016
+asturianos__49__017
+ayoó de vidriales__49__018
+barcial del barco__49__019
+belver de los montes__49__020
+benavente__49__021
+benegiles__49__022
+bermillo de sayago__49__023
+bóveda de toro, la__49__024
+bretó__49__025
+bretocino__49__026
+brime de sog__49__027
+brime de urz__49__028
+burganes de valverde__49__029
+bustillo del oro__49__030
+cabañas de sayago__49__031
+calzadilla de tera__49__032
+camarzana de tera__49__033
+cañizal__49__034
+cañizo__49__035
+carbajales de alba__49__036
+carbellino__49__037
+casaseca de campeán__49__038
+casaseca de las chanas__49__039
+castrillo de la guareña__49__040
+castrogonzalo__49__041
+castronuevo__49__042
+castroverde de campos__49__043
+cazurra__49__044
+cerecinos de campos__49__046
+cerecinos del carrizal__49__047
+cernadilla__49__048
+cobreros__49__050
+coomonte__49__052
+coreses__49__053
+corrales del vino__49__054
+cotanes del monte__49__055
+cubillos__49__056
+cubo de benavente__49__057
+cubo de tierra del vino, el__49__058
+cuelgamures__49__059
+entrala__49__061
+espadañedo__49__062
+faramontanos de tábara__49__063
+fariza__49__064
+fermoselle__49__065
+ferreras de abajo__49__066
+ferreras de arriba__49__067
+ferreruela__49__068
+figueruela de arriba__49__069
+fonfría__49__071
+fresno de la polvorosa__49__075
+fresno de la ribera__49__076
+fresno de sayago__49__077
+friera de valverde__49__078
+fuente encalada__49__079
+fuentelapeña__49__080
+fuentes de ropel__49__082
+fuentesaúco__49__081
+fuentesecas__49__083
+fuentespreadas__49__084
+galende__49__085
+gallegos del pan__49__086
+gallegos del río__49__087
+gamones__49__088
+gema__49__090
+granja de moreruela__49__091
+granucillo__49__092
+guarrate__49__093
+hermisende__49__094
+hiniesta, la__49__095
+jambrina__49__096
+justel__49__097
+losacino__49__098
+losacio__49__099
+lubián__49__100
+luelmo__49__101
+maderal, el__49__102
+madridanos__49__103
+mahide__49__104
+maire de castroponce__49__105
+malva__49__107
+manganeses de la lampreana__49__108
+manganeses de la polvorosa__49__109
+manzanal de arriba__49__110
+manzanal de los infantes__49__112
+manzanal del barco__49__111
+matilla de arzón__49__113
+matilla la seca__49__114
+mayalde__49__115
+melgar de tera__49__116
+micereces de tera__49__117
+milles de la polvorosa__49__118
+molacillos__49__119
+molezuelas de la carballeda__49__120
+mombuey__49__121
+monfarracinos__49__122
+montamarta__49__123
+moral de sayago__49__124
+moraleja de sayago__49__126
+moraleja del vino__49__125
+morales de rey__49__128
+morales de toro__49__129
+morales de valverde__49__130
+morales del vino__49__127
+moralina__49__131
+moreruela de los infanzones__49__132
+moreruela de tábara__49__133
+muelas de los caballeros__49__134
+muelas del pan__49__135
+muga de sayago__49__136
+navianos de valverde__49__137
+olmillos de castro__49__138
+otero de bodas__49__139
+pajares de la lampreana__49__141
+palacios de sanabria__49__143
+palacios del pan__49__142
+pedralba de la pradería__49__145
+pego, el__49__146
+peleagonzalo__49__147
+peleas de abajo__49__148
+peñausende__49__149
+peque__49__150
+perdigón, el__49__151
+pereruela__49__152
+perilla de castro__49__153
+pías__49__154
+piedrahita de castro__49__155
+pinilla de toro__49__156
+pino del oro__49__157
+piñero, el__49__158
+pobladura de valderaduey__49__160
+pobladura del valle__49__159
+porto__49__162
+pozoantiguo__49__163
+pozuelo de tábara__49__164
+prado__49__165
+puebla de sanabria__49__166
+pueblica de valverde__49__167
+quintanilla de urz__49__170
+quintanilla del monte__49__168
+quintanilla del olmo__49__169
+quiruelas de vidriales__49__171
+rabanales__49__172
+rábano de aliste__49__173
+requejo__49__174
+revellinos__49__175
+riofrío de aliste__49__176
+rionegro del puente__49__177
+roales__49__178
+robleda-cervantes__49__179
+roelos de sayago__49__180
+rosinos de la requejada__49__181
+salce__49__183
+samir de los caños__49__184
+san agustín del pozo__49__185
+san cebrián de castro__49__186
+san cristóbal de entreviñas__49__187
+san esteban del molar__49__188
+san justo__49__189
+san martín de valderaduey__49__190
+san miguel de la ribera__49__191
+san miguel del valle__49__192
+san pedro de ceque__49__193
+san pedro de la nave-almendra__49__194
+san vicente de la cabeza__49__208
+san vitero__49__209
+santa clara de avedillo__49__197
+santa colomba de las monjas__49__199
+santa cristina de la polvorosa__49__200
+santa croya de tera__49__201
+santa eufemia del barco__49__202
+santa maría de la vega__49__203
+santa maría de valverde__49__204
+santibáñez de tera__49__205
+santibáñez de vidriales__49__206
+santovenia__49__207
+sanzoles__49__210
+tábara__49__214
+tapioles__49__216
+toro__49__219
+torre del valle, la__49__220
+torregamones__49__221
+torres del carrizal__49__222
+trabazos__49__223
+trefacio__49__224
+uña de quintana__49__225
+vadillo de la guareña__49__226
+valcabado__49__227
+valdefinjas__49__228
+valdescorriel__49__229
+vallesa de la guareña__49__230
+vega de tera__49__231
+vega de villalobos__49__232
+vegalatrave__49__233
+venialbo__49__234
+vezdemarbán__49__235
+vidayanes__49__236
+videmala__49__237
+villabrázaro__49__238
+villabuena del puente__49__239
+villadepera__49__240
+villaescusa__49__241
+villafáfila__49__242
+villaferrueña__49__243
+villageriz__49__244
+villalazán__49__245
+villalba de la lampreana__49__246
+villalcampo__49__247
+villalobos__49__248
+villalonso__49__249
+villalpando__49__250
+villalube__49__251
+villamayor de campos__49__252
+villamor de los escuderos__49__255
+villanázar__49__256
+villanueva de azoague__49__257
+villanueva de campeán__49__258
+villanueva de las peras__49__259
+villanueva del campo__49__260
+villar de fallaves__49__263
+villar del buey__49__264
+villaralbo__49__261
+villardeciervos__49__262
+villardiegua de la ribera__49__265
+villárdiga__49__266
+villardondiego__49__267
+villarrín de campos__49__268
+villaseco del pan__49__269
+villavendimio__49__270
+villaveza de valverde__49__272
+villaveza del agua__49__271
+viñas__49__273
+zamora__49__275
+abanto__50__001
+acered__50__002
+agón__50__003
+aguarón__50__004
+aguilón__50__005
+ainzón__50__006
+aladrén__50__007
+alagón__50__008
+alarba__50__009
+alberite de san juan__50__010
+albeta__50__011
+alborge__50__012
+alcalá de ebro__50__013
+alcalá de moncayo__50__014
+alconchel de ariza__50__015
+aldehuela de liestos__50__016
+alfajarín__50__017
+alfamén__50__018
+alforque__50__019
+alhama de aragón__50__020
+almochuel__50__021
+almolda, la__50__022
+almonacid de la cuba__50__023
+almonacid de la sierra__50__024
+almunia de doña godina, la__50__025
+alpartir__50__026
+ambel__50__027
+anento__50__028
+aniñón__50__029
+añón de moncayo__50__030
+aranda de moncayo__50__031
+arándiga__50__032
+ardisa__50__033
+ariza__50__034
+artieda__50__035
+asín__50__036
+atea__50__037
+ateca__50__038
+azuara__50__039
+badules__50__040
+bagüés__50__041
+balconchán__50__042
+bárboles__50__043
+bardallur__50__044
+belchite__50__045
+belmonte de gracián__50__046
+berdejo__50__047
+berrueco__50__048
+biel__50__901
+bijuesca__50__050
+biota__50__051
+bisimbre__50__052
+boquiñeni__50__053
+bordalba__50__054
+borja__50__055
+botorrita__50__056
+brea de aragón__50__057
+bubierca__50__058
+bujaraloz__50__059
+bulbuente__50__060
+bureta__50__061
+burgo de ebro, el__50__062
+buste, el__50__063
+cabañas de ebro__50__064
+cabolafuente__50__065
+cadrete__50__066
+calatayud__50__067
+calatorao__50__068
+calcena__50__069
+calmarza__50__070
+campillo de aragón__50__071
+carenas__50__072
+cariñena__50__073
+caspe__50__074
+castejón de alarba__50__075
+castejón de las armas__50__076
+castejón de valdejasa__50__077
+castiliscar__50__078
+cervera de la cañada__50__079
+cerveruela__50__080
+cetina__50__081
+chiprana__50__092
+chodes__50__093
+cimballa__50__082
+cinco olivas__50__083
+clarés de ribota__50__084
+codo__50__085
+codos__50__086
+contamina__50__087
+cosuenda__50__088
+cuarte de huerva__50__089
+cubel__50__090
+cuerlas, las__50__091
+daroca__50__094
+ejea de los caballeros__50__095
+embid de ariza__50__096
+encinacorba__50__098
+épila__50__099
+erla__50__100
+escatrón__50__101
+fabara__50__102
+farlete__50__104
+fayón__50__105
+fayos, los__50__106
+figueruelas__50__107
+fombuena__50__108
+frago, el__50__109
+frasno, el__50__110
+fréscano__50__111
+fuendejalón__50__113
+fuendetodos__50__114
+fuentes de ebro__50__115
+fuentes de jiloca__50__116
+gallocanta__50__117
+gallur__50__118
+gelsa__50__119
+godojos__50__120
+gotor__50__121
+grisel__50__122
+grisén__50__123
+herrera de los navarros__50__124
+ibdes__50__125
+illueca__50__126
+isuerre__50__128
+jaraba__50__129
+jarque__50__130
+jaulín__50__131
+joyosa, la__50__132
+lagata__50__133
+langa del castillo__50__134
+layana__50__135
+lécera__50__136
+lechón__50__138
+leciñena__50__137
+letux__50__139
+litago__50__140
+lituénigo__50__141
+lobera de onsella__50__142
+longares__50__143
+longás__50__144
+lucena de jalón__50__146
+luceni__50__147
+luesia__50__148
+luesma__50__149
+lumpiaque__50__150
+luna__50__151
+maella__50__152
+magallón__50__153
+mainar__50__154
+malanquilla__50__155
+maleján__50__156
+mallén__50__160
+malón__50__157
+maluenda__50__159
+manchones__50__161
+mara__50__162
+maría de huerva__50__163
+marracos__50__902
+mediana de aragón__50__164
+mequinenza__50__165
+mesones de isuela__50__166
+mezalocha__50__167
+mianos__50__168
+miedes de aragón__50__169
+monegrillo__50__170
+moneva__50__171
+monreal de ariza__50__172
+monterde__50__173
+montón__50__174
+morata de jalón__50__175
+morata de jiloca__50__176
+morés__50__177
+moros__50__178
+moyuela__50__179
+mozota__50__180
+muel__50__181
+muela, la__50__182
+munébrega__50__183
+murero__50__184
+murillo de gállego__50__185
+navardún__50__186
+nigüella__50__187
+nombrevilla__50__188
+nonaspe__50__189
+novallas__50__190
+novillas__50__191
+nuévalos__50__192
+nuez de ebro__50__193
+olvés__50__194
+orcajo__50__195
+orera__50__196
+orés__50__197
+oseja__50__198
+osera de ebro__50__199
+paniza__50__200
+paracuellos de jiloca__50__201
+paracuellos de la ribera__50__202
+pastriz__50__203
+pedrola__50__204
+pedrosas, las__50__205
+perdiguera__50__206
+piedratajada__50__207
+pina de ebro__50__208
+pinseque__50__209
+pintanos, los__50__210
+plasencia de jalón__50__211
+pleitas__50__212
+plenas__50__213
+pomer__50__214
+pozuel de ariza__50__215
+pozuelo de aragón__50__216
+pradilla de ebro__50__217
+puebla de albortón__50__218
+puebla de alfindén, la__50__219
+puendeluna__50__220
+purujosa__50__221
+quinto__50__222
+remolinos__50__223
+retascón__50__224
+ricla__50__225
+romanos__50__227
+rueda de jalón__50__228
+ruesca__50__229
+sabiñán__50__241
+sádaba__50__230
+salillas de jalón__50__231
+salvatierra de esca__50__232
+samper del salz__50__233
+san martín de la virgen de moncayo__50__234
+san mateo de gállego__50__235
+santa cruz de grío__50__236
+santa cruz de moncayo__50__237
+santa eulalia de gállego__50__238
+santed__50__239
+sástago__50__240
+sediles__50__242
+sestrica__50__243
+sierra de luna__50__244
+sigüés__50__245
+sisamón__50__246
+sobradiel__50__247
+sos del rey católico__50__248
+tabuenca__50__249
+talamantes__50__250
+tarazona__50__251
+tauste__50__252
+terrer__50__253
+tierga__50__254
+tobed__50__255
+torralba de los frailes__50__256
+torralba de ribota__50__257
+torralbilla__50__258
+torrehermosa__50__259
+torrelapaja__50__260
+torrellas__50__261
+torres de berrellén__50__262
+torrijo de la cañada__50__263
+tosos__50__264
+trasmoz__50__265
+trasobares__50__266
+uncastillo__50__267
+undués de lerda__50__268
+urrea de jalón__50__269
+urriés__50__270
+used__50__271
+utebo__50__272
+val de san martín__50__274
+valdehorna__50__273
+valmadrid__50__275
+valpalmas__50__276
+valtorres__50__277
+velilla de ebro__50__278
+velilla de jiloca__50__279
+vera de moncayo__50__280
+vierlas__50__281
+villadoz__50__283
+villafeliche__50__284
+villafranca de ebro__50__285
+villalba de perejil__50__286
+villalengua__50__287
+villamayor de gállego__50__903
+villanueva de gállego__50__288
+villanueva de huerva__50__290
+villanueva de jiloca__50__289
+villar de los navarros__50__291
+villarreal de huerva__50__292
+villarroya de la sierra__50__293
+villarroya del campo__50__294
+vilueña, la__50__282
+vistabella__50__295
+zaida, la__50__296
+zaragoza__50__297
+zuera__50__298
+ceuta__51__001
+melilla__52__001
+agurain/salvatierra__01__051

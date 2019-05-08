@@ -1,0 +1,19 @@
+{
+  "name": "alexa-skill-calculadora-peque",
+  "version": "2.0.0",
+  "description": "Simple calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "calculadora"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk": "^2.0.0"
+  }
+}

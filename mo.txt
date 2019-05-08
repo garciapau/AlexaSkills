@@ -1,0 +1,24 @@
+agurain/salvatierra	01	051
+alegría-dulantzi	01	001
+amurrio	01	002
+añana	01	049
+aramaio	01	003
+armiñón	01	006
+#arraia-maeztu	01	037
+#arratzua-ubarrundia	01	008
+artziniega	01	004
+asparrena	01	009
+ayala/aiara	01	010
+baños de ebro/mañueta	01	011
+barrundia	01	013
+berantevilla	01	014
+bernedo	01	016
+campezo/kanpezu	01	017
+elburgo/burgelu	01	021
+elciego	01	022
+elvillar/bilar	01	023
+erriberagoitia/ribera alta	01	046
+harana/valle de arana	01	056
+iruña oka/iruña de oca	01	901
+iruraiz-gauna	01	027
+kripan	01	019
